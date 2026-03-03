@@ -1,8 +1,7 @@
 "use client";
 
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Canvas } from '@react-three/fiber';
 import { useShadowLitter } from './providers';
 
 // 3D Components (Previously defined)

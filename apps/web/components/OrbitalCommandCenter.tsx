@@ -9,6 +9,14 @@ import { OrbitalColors, Glassmorphism } from '@/lib/design-system/tokens';
 import { OrbitalType } from '@/lib/design-system/typography';
 import { TypewriterStatus } from './luxury/LuxuryComponents';
 
+interface Detection {
+    id: number;
+    position: [number, number, number];
+    type: string;
+    area_sqm: number;
+    confidence: number;
+}
+
 function MaduraiTerrain() {
     const texture = useTexture('/textures/madurai_satellite_2024.png');
     const elevation = useTexture('/textures/madurai_elevation.png');
@@ -31,7 +39,7 @@ function MaduraiTerrain() {
     );
 }
 
-function DetectionMarker({ position, detection, onClick }: { position: [number, number, number], detection: any, onClick: () => void }) {
+function DetectionMarker({ position, detection, onClick }: { position: [number, number, number], detection: Detection, onClick: () => void }) {
     const groupRef = useRef<THREE.Group>(null!);
     const [hovered, setHovered] = useState(false);
 
@@ -39,7 +47,7 @@ function DetectionMarker({ position, detection, onClick }: { position: [number, 
         groupRef.current.position.y = position[1] + Math.sin(state.clock.elapsedTime * 2) * 0.1 + 0.5;
     });
 
-    const colors: any = {
+    const colors: Record<string, string> = {
         fresh_dump: OrbitalColors.toxicity.fresh,
         construction: OrbitalColors.toxicity.construction,
         chemical: OrbitalColors.toxicity.chemical,
@@ -75,7 +83,7 @@ function DetectionMarker({ position, detection, onClick }: { position: [number, 
 import { useShadowLitter } from '@/app/providers';
 
 export function OrbitalCommandCenter() {
-    const [selected, setSelected] = useState<any>(null);
+    const [selected, setSelected] = useState<Detection | null>(null);
     const { liveDetections } = useShadowLitter();
     const detections = liveDetections.length > 0 ? liveDetections : [
         { id: 1, position: [5, 2, 8] as [number, number, number], type: 'fresh_dump', area_sqm: 450, confidence: 94.2 },
@@ -123,7 +131,7 @@ export function OrbitalCommandCenter() {
                                         } else {
                                             e.currentTarget.value = 'TARGET NOT FOUND';
                                         }
-                                    } catch (err) {
+                                    } catch {
                                         e.currentTarget.value = 'API OFFLINE';
                                     }
                                 }

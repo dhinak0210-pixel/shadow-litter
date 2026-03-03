@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef } from 'react';
 import { Canvas } from '@react-three/fiber';
 import { Stars, OrbitControls } from '@react-three/drei';
 import { motion, useScroll, useTransform } from 'framer-motion';
@@ -10,7 +10,6 @@ import { OrbitalColors, Glassmorphism } from '@/lib/design-system/tokens';
 import { OrbitalType } from '@/lib/design-system/typography';
 
 export function HeroExperience({ onEnter }: { onEnter: () => void }) {
-    const [loaded, setLoaded] = useState(false);
     const containerRef = useRef<HTMLDivElement>(null);
     const { scrollYProgress } = useScroll();
 
@@ -43,7 +42,6 @@ export function HeroExperience({ onEnter }: { onEnter: () => void }) {
                 ease: 'back.out(1.7)',
             }, '-=0.4');
 
-        setLoaded(true);
     }, []);
 
     return (

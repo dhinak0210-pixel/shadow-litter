@@ -7,14 +7,28 @@ import { useEffect, useState } from 'react';
 
 // ─── GLOBAL STATE STORE ─────────────────────────────────────────
 
+interface Detection {
+    id: number;
+    type: string;
+    area_sqm: number;
+    confidence: number;
+    position: [number, number, number];
+}
+
+interface Satellite {
+    id: string;
+    orbit: number[];
+    health: string;
+}
+
 interface ShadowLitterState {
-    liveDetections: any[];
-    activeSatellites: any[];
+    liveDetections: Detection[];
+    activeSatellites: Satellite[];
     systemHealth: { status: string };
     selectedZone: string | null;
 
     setSelectedZone: (zone: string | null) => void;
-    addDetection: (det: any) => void;
+    addDetection: (det: Detection) => void;
 }
 
 export const useShadowLitter = create<ShadowLitterState>()(
@@ -45,7 +59,8 @@ export function Providers({ children }: { children: React.ReactNode }) {
     const [mounted, setMounted] = useState(false);
 
     useEffect(() => {
-        setMounted(true);
+        // Asynchronous update to avoid cascading synchronous render lints
+        const timer = setTimeout(() => setMounted(true), 0);
 
         // Minimal WebSocket connection
         const ws = new WebSocket('ws://localhost:8000/ws/live');
@@ -57,7 +72,10 @@ export function Providers({ children }: { children: React.ReactNode }) {
             }
         };
 
-        return () => ws.close();
+        return () => {
+            clearTimeout(timer);
+            ws.close();
+        };
     }, [addDetection]);
 
     if (!mounted) return null;

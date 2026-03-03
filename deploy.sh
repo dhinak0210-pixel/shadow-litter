@@ -7,7 +7,7 @@ echo "🚀 SHADOW LITTER UNIFIED DEPLOYMENT"
 
 # 1. Generate shared types
 echo "📦 Generating shared schemas..."
-# npm run generate && pip install -e packages/shared-types
+# npm run generate && pip install -e packages/shared_types
 
 # 2. Database migration
 echo "🗄️  Migrating database..."
@@ -15,7 +15,7 @@ echo "🗄️  Migrating database..."
 
 # 3. Build AI engine
 echo "🧠 Building AI engine..."
-# docker build -t shadow-litter/ai:latest ./packages/ai-engine
+# docker build -t shadow-litter/ai:latest ./packages/ai_engine
 
 # 4. Build backend
 echo "⚡ Building API..."

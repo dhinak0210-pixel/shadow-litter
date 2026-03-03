@@ -38,7 +38,7 @@ export function TypewriterStatus({ messages, interval = 3000 }: { messages: stri
 }
 
 export function ActionButton({ children, variant = 'primary', onClick }: { children: React.ReactNode, variant?: 'primary' | 'warning' | 'gold', onClick?: () => void }) {
-    const styles: any = {
+    const styles: Record<'primary' | 'warning' | 'gold', string> = {
         primary: 'border-[#00D4AA] text-[#00D4AA] bg-[#00D4AA]/10',
         warning: 'border-[#FF0040] text-[#FF0040] bg-[#FF0040]/10',
         gold: 'border-[#D4AF37] text-[#D4AF37] bg-[#D4AF37]/10',
