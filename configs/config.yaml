@@ -1,0 +1,84 @@
+# ─────────────────────────────────────────────────────────────────
+#  shadow-litter :: master configuration
+#  Autonomous orbital intelligence for illegal waste detection
+#  Madurai. Zero budget. Maximum transparency.
+# ─────────────────────────────────────────────────────────────────
+
+project:
+  name: shadow-litter
+  version: "0.1.0"
+  aoi_name: Madurai
+  aoi_lat: 9.9252
+  aoi_lon: 78.1198
+  aoi_buffer_km: 30
+
+# ── Sentinel-2 ingestion ──────────────────────────────────────────
+sentinel:
+  api_url: "https://apihub.copernicus.eu/apihub"
+  username: ""          # set via env: SENTINEL_USER
+  password: ""          # set via env: SENTINEL_PASS
+  platform: Sentinel-2
+  product_type: S2MSI2A      # Level-2A (surface reflectance)
+  cloud_cover_max: 20        # percent
+  date_start: "2024-01-01"
+  date_end: "2024-12-31"
+  bands:
+    - B02   # Blue  490nm
+    - B03   # Green 560nm
+    - B04   # Red   665nm
+    - B08   # NIR   842nm
+    - B11   # SWIR1 1610nm
+    - B12   # SWIR2 2190nm
+
+# ── Data paths ───────────────────────────────────────────────────
+paths:
+  raw:         data/raw
+  processed:   data/processed
+  splits:      data/splits
+  checkpoints: models/checkpoints
+  final:       models/final
+  logs:        logs
+
+# ── Preprocessing ────────────────────────────────────────────────
+preprocessing:
+  patch_size: 256         # pixels
+  overlap: 64             # pixel overlap between patches
+  normalize: true
+  augment: true
+  train_ratio: 0.70
+  val_ratio:   0.15
+  test_ratio:  0.15
+
+# ── Model ────────────────────────────────────────────────────────
+model:
+  architecture: Unet
+  encoder: resnet34
+  encoder_weights: imagenet
+  in_channels: 6          # matches Sentinel-2 band count above
+  num_classes: 3          # 0=background 1=waste_site 2=illegal_dump
+  activation: softmax2d
+
+# ── Training ────────────────────────────────────────────────────
+training:
+  epochs: 50
+  batch_size: 8
+  learning_rate: 0.001
+  scheduler: cosine
+  optimizer: adamw
+  weight_decay: 0.01
+  early_stopping_patience: 10
+  mixed_precision: true
+  seed: 42
+
+# ── Inference ───────────────────────────────────────────────────
+inference:
+  confidence_threshold: 0.60
+  min_area_m2: 500        # ignore detections smaller than this
+  output_format: geojson
+
+# ── Dashboard ───────────────────────────────────────────────────
+dashboard:
+  title: "shadow-litter — Madurai Waste Watch"
+  refresh_interval_sec: 3600
+  map_zoom: 12
+  max_results_display: 100

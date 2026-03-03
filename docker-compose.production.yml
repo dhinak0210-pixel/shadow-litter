@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  live-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: uvicorn src.api.live_prediction_api:app --host 0.0.0.0 --port 8000
+    ports:
+      - "8000:8000"
+    environment:
+      - COPERNICUS_USER=${COPERNICUS_USER}
+      - COPERNICUS_PASS=${COPERNICUS_PASS}
+
+  live-dashboard:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: streamlit run src/dashboard/live_madurai_dashboard.py --server.port 8501
+    ports:
+      - "8501:8501"
+    depends_on:
+      - live-api
+
+networks:
+  default:
+    name: shadow-litter-net

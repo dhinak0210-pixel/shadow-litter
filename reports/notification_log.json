@@ -1,0 +1,10 @@
+[
+    {
+        "timestamp": "2026-02-28T04:10:15.254953",
+        "ward": "Vilangudi",
+        "area": 120,
+        "priority": "HIGH",
+        "message": "\ud83d\udea8 SHADOW LITTER ALERT: New dump site detected in Vilangudi. Area: 120sqm. Priority: HIGH.",
+        "coordinates": "9.95, 78.10"
+    }
+]

@@ -1,0 +1,66 @@
+# configs/siamese_config.yaml
+# ── Supervised fine-tuning configuration for ShadowLitterNet ──────────────────
+
+experiment:
+  name: shadow_litter_experiment_1
+  notes: "Siamese UNet on synthetic dump dataset, ResNet-50 backbone"
+
+data:
+  synthetic_dir:    data/synthetic
+  pairs_csv:        data/splits/temporal_pairs.csv
+  patch_size:       256
+  train_ratio:      0.80
+  val_ratio:        0.10
+  test_ratio:       0.10
+
+model:
+  in_channels:      6       # B02 B03 B04 B08 B11 B12
+  num_classes:      2       # 0=no_change  1=dump_detected
+  pretrained:       true
+  pretrained_encoder_ckpt: ""   # set to pretrained checkpoint path for transfer
+
+training:
+  batch_size:       16
+  epochs:           100
+  patience:         15
+  seed:             42
+  mixed_precision:  true
+
+optimizer:
+  name: adamw
+  lr:   1.0e-4
+  weight_decay: 1.0e-4
+
+scheduler:
+  name: cosine
+  t_max: 100
+  eta_min: 1.0e-6
+
+loss:
+  dice_weight: 0.5
+  bce_weight:  0.5
+
+augmentations:
+  horizontal_flip:    true
+  vertical_flip:      true
+  rotation_90:        true
+  color_jitter:
+    brightness: 0.2
+    contrast:   0.2
+  gaussian_noise:
+    sigma: 0.02
+
+metrics:
+  - iou
+  - f1
+  - precision
+  - recall
+
+checkpoints:
+  dir:        models/checkpoints
+  final_dir:  models/final
+  save_every: 10
+
+logging:
+  tensorboard_dir: runs
+  log_interval:    10     # batches

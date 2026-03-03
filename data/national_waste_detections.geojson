@@ -1,0 +1,7096 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.48172988515714,
+          19.62461455881197
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-89927",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 707.0,
+        "growth_rate_pct": 12.0,
+        "confidence": 0.76,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.505791"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.96525013526436,
+          31.309360831571812
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-43733",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 585.0,
+        "growth_rate_pct": 24.5,
+        "confidence": 0.97,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.505815"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.30741248530693,
+          27.975892487684153
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-43248",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 2879.0,
+        "growth_rate_pct": 1.2,
+        "confidence": 0.93,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.505824"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.36645632215021,
+          10.859949335644618
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-46554",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 4377.4,
+        "growth_rate_pct": 17.8,
+        "confidence": 0.79,
+        "priority": "HIGH",
+        "near_water": "None Detected Clip",
+        "response_time": "URGENT (<24h)",
+        "timestamp": "2026-03-01T14:05:10.505831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.56706154099628,
+          19.714150058940927
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-66187",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 2939.4,
+        "growth_rate_pct": 14.2,
+        "confidence": 0.78,
+        "priority": "MEDIUM",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.505837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.84685052875011,
+          28.11146312131872
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-83163",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 4462.4,
+        "growth_rate_pct": 10.3,
+        "confidence": 0.97,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.505844"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.73899981370691,
+          33.55629989297543
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-71342",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 2760.0,
+        "growth_rate_pct": 21.3,
+        "confidence": 0.93,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.505850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.73805150313652,
+          16.449900822725684
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-17560",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 4975.3,
+        "growth_rate_pct": 12.1,
+        "confidence": 0.83,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.505855"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.21263495942296,
+          7.495584982187141
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-70005",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 783.5,
+        "growth_rate_pct": 5.8,
+        "confidence": 0.8,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.505861"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.96866338223776,
+          16.562009017237447
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-37635",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 191.5,
+        "growth_rate_pct": 3.0,
+        "confidence": 0.81,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.505867"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.87476071210493,
+          15.132849834539321
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-39408",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 3612.6,
+        "growth_rate_pct": 2.0,
+        "confidence": 0.89,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.505872"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.34789509032713,
+          8.89077723524136
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-23002",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 3167.2,
+        "growth_rate_pct": -2.7,
+        "confidence": 0.78,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.505881"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.08891632280896,
+          16.60341360501989
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-17624",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 2303.8,
+        "growth_rate_pct": 24.9,
+        "confidence": 0.84,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.505889"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.63688193428659,
+          17.367536808695334
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-27821",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 1625.5,
+        "growth_rate_pct": 2.0,
+        "confidence": 0.79,
+        "priority": "MEDIUM",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.505895"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.99104614007047,
+          31.610951539232616
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-26333",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 4169.6,
+        "growth_rate_pct": 8.9,
+        "confidence": 0.94,
+        "priority": "MEDIUM",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.505902"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.11207727251731,
+          26.693185127496218
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-93773",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 4742.5,
+        "growth_rate_pct": 11.7,
+        "confidence": 0.85,
+        "priority": "HIGH",
+        "near_water": "None Detected Clip",
+        "response_time": "URGENT (<24h)",
+        "timestamp": "2026-03-01T14:05:10.505907"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.72208712681761,
+          33.842601451617064
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-31216",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 2082.4,
+        "growth_rate_pct": 1.1,
+        "confidence": 0.82,
+        "priority": "MEDIUM",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.505913"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.12189937189119,
+          18.658771605049886
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-71197",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 4754.3,
+        "growth_rate_pct": -1.3,
+        "confidence": 0.95,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.505918"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.56233574528261,
+          10.296712648526716
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-82005",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 3260.7,
+        "growth_rate_pct": 2.0,
+        "confidence": 0.94,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.505924"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.507209654952,
+          10.918816884080032
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-61651",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 4715.7,
+        "growth_rate_pct": 3.6,
+        "confidence": 0.92,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.505928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.99616804355001,
+          20.000204836063478
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-57432",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 2627.7,
+        "growth_rate_pct": 23.4,
+        "confidence": 0.8,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.505934"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.046942505251,
+          14.74609158659533
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-85685",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 4679.3,
+        "growth_rate_pct": -4.5,
+        "confidence": 0.94,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.505938"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.27938512291075,
+          9.755286256216548
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-53420",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 3720.3,
+        "growth_rate_pct": 10.5,
+        "confidence": 0.94,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.505944"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.84162540979523,
+          26.300397642781363
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-89167",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 69.3,
+        "growth_rate_pct": 20.1,
+        "confidence": 0.77,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.505948"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.73910904161069,
+          31.02193059617592
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-15980",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 3726.4,
+        "growth_rate_pct": 7.1,
+        "confidence": 0.91,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.505953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.14396255967544,
+          8.107862613777694
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-49484",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 1284.7,
+        "growth_rate_pct": 4.4,
+        "confidence": 0.77,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.505959"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.11739477394251,
+          31.640795773821047
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-81553",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 1376.8,
+        "growth_rate_pct": 23.5,
+        "confidence": 0.95,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.505966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.74878911692264,
+          26.08524074211796
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-61725",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 3708.1,
+        "growth_rate_pct": 20.9,
+        "confidence": 0.83,
+        "priority": "MEDIUM",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.505972"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.09881536148443,
+          30.993805501941946
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-59957",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 664.7,
+        "growth_rate_pct": 13.4,
+        "confidence": 0.87,
+        "priority": "MEDIUM",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.505982"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.44044384148141,
+          21.636668454797267
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-73338",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 4518.9,
+        "growth_rate_pct": 2.4,
+        "confidence": 0.83,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.505988"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.87492800107476,
+          15.123296168697944
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-54815",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 4682.9,
+        "growth_rate_pct": 19.6,
+        "confidence": 0.98,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.505995"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.42871583657542,
+          7.667903331585953
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-72759",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 3059.8,
+        "growth_rate_pct": 15.4,
+        "confidence": 0.95,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.69416785949177,
+          32.623853245657564
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-88267",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 2663.0,
+        "growth_rate_pct": 6.0,
+        "confidence": 0.84,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.90933691402944,
+          7.463963779707356
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-21464",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 3661.7,
+        "growth_rate_pct": -0.6,
+        "confidence": 0.76,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.70817049758618,
+          21.28724173853459
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-72405",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 2340.7,
+        "growth_rate_pct": -1.1,
+        "confidence": 0.76,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.991356574019,
+          28.65159791166351
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-58555",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 133.0,
+        "growth_rate_pct": 8.7,
+        "confidence": 0.84,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.49784442430307,
+          9.101018259312626
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-65261",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 2769.7,
+        "growth_rate_pct": 12.8,
+        "confidence": 0.88,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.23215995232475,
+          31.844310831936784
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-64811",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 1092.5,
+        "growth_rate_pct": -4.8,
+        "confidence": 0.97,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.3236205283357,
+          7.262930037046696
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-72636",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 59.7,
+        "growth_rate_pct": 5.3,
+        "confidence": 0.86,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506043"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.36100541110734,
+          27.092225994803286
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-83111",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 1455.3,
+        "growth_rate_pct": 0.9,
+        "confidence": 0.77,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.76395457645752,
+          17.328314141774506
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-28548",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 939.8,
+        "growth_rate_pct": -0.1,
+        "confidence": 0.92,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506057"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.93670840053203,
+          32.7969085788321
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-23909",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 3087.4,
+        "growth_rate_pct": 24.2,
+        "confidence": 0.93,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506063"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.0476933285415,
+          26.68351597862861
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-92866",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 3585.0,
+        "growth_rate_pct": -1.4,
+        "confidence": 0.77,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.70447663409993,
+          31.73260034285729
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-28630",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 3485.4,
+        "growth_rate_pct": 12.5,
+        "confidence": 0.96,
+        "priority": "MEDIUM",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506075"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.72666218885831,
+          31.50626030062537
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-92245",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 3777.3,
+        "growth_rate_pct": -0.8,
+        "confidence": 0.82,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506082"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.65549089020782,
+          12.067088874002662
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-43179",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 1783.7,
+        "growth_rate_pct": 18.8,
+        "confidence": 0.86,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506088"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.98001741931635,
+          9.041978638832394
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-48410",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 3571.2,
+        "growth_rate_pct": 5.6,
+        "confidence": 0.78,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506093"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.94997360806366,
+          13.594125818286798
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-14474",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 1152.9,
+        "growth_rate_pct": 16.5,
+        "confidence": 0.83,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506098"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.81076790659102,
+          13.806093431902374
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-77716",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 2049.3,
+        "growth_rate_pct": 22.7,
+        "confidence": 0.93,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.70681034501814,
+          18.987980896587032
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-84403",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 4112.6,
+        "growth_rate_pct": 14.7,
+        "confidence": 0.79,
+        "priority": "MEDIUM",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.23115209549408,
+          21.50614015692948
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-88290",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 728.2,
+        "growth_rate_pct": 3.5,
+        "confidence": 0.95,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.74057960348543,
+          26.65332851980102
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-64431",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 1176.9,
+        "growth_rate_pct": -0.4,
+        "confidence": 0.93,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.31097947043705,
+          28.246284544573786
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-97954",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 3430.7,
+        "growth_rate_pct": 23.5,
+        "confidence": 0.81,
+        "priority": "MEDIUM",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.50988323922346,
+          24.73764761830297
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-12142",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 3229.4,
+        "growth_rate_pct": 10.8,
+        "confidence": 0.93,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1691485167508,
+          22.881950457443903
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-25073",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 3051.2,
+        "growth_rate_pct": 21.9,
+        "confidence": 0.84,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.38618853403186,
+          28.337230573792237
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-84053",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 1033.2,
+        "growth_rate_pct": 4.2,
+        "confidence": 0.77,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506147"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.22988315043126,
+          22.783910242330247
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-38346",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 3766.4,
+        "growth_rate_pct": 20.8,
+        "confidence": 0.96,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506153"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.28876261462167,
+          23.280588325284373
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-21714",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 4685.6,
+        "growth_rate_pct": -0.7,
+        "confidence": 0.83,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.46015240482849,
+          33.09860873459926
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-65085",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 1918.2,
+        "growth_rate_pct": 17.4,
+        "confidence": 0.91,
+        "priority": "MEDIUM",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506164"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.23842646091404,
+          22.48713792034392
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-79751",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 1185.7,
+        "growth_rate_pct": 16.3,
+        "confidence": 0.77,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506169"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.50461667989916,
+          8.900447796542181
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-98014",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 1714.3,
+        "growth_rate_pct": 4.7,
+        "confidence": 0.86,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506179"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.72402204060428,
+          25.642486075899875
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-64336",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 4676.0,
+        "growth_rate_pct": 12.1,
+        "confidence": 0.98,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506184"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.18709868566665,
+          15.10204352170608
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-87228",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 741.9,
+        "growth_rate_pct": 6.7,
+        "confidence": 0.89,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.81592507716839,
+          29.088000316322276
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-39131",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 3173.9,
+        "growth_rate_pct": 23.6,
+        "confidence": 0.92,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506196"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.17241737008726,
+          29.11778992320233
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-85878",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 1200.9,
+        "growth_rate_pct": 1.6,
+        "confidence": 0.82,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.57218826948434,
+          12.68491240641283
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-57161",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 1494.9,
+        "growth_rate_pct": 14.7,
+        "confidence": 0.83,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.61798648151998,
+          23.0691386592466
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-39549",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 493.6,
+        "growth_rate_pct": 0.2,
+        "confidence": 0.81,
+        "priority": "MEDIUM",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.50656636780965,
+          22.464363545306796
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-24837",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 1693.4,
+        "growth_rate_pct": 10.4,
+        "confidence": 0.86,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.81491163826325,
+          18.277080214830416
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-25599",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 825.9,
+        "growth_rate_pct": 6.3,
+        "confidence": 0.76,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.06583585921382,
+          17.814436489108513
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-62348",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 4537.8,
+        "growth_rate_pct": 12.0,
+        "confidence": 0.93,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.03062232937144,
+          7.109183533313759
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-39567",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 1239.9,
+        "growth_rate_pct": 22.2,
+        "confidence": 0.94,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506237"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.25116650250149,
+          33.40856686206262
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-98508",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 2679.7,
+        "growth_rate_pct": 1.3,
+        "confidence": 0.86,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506242"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.84947661418202,
+          21.648772732661882
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-56071",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 4139.4,
+        "growth_rate_pct": 3.3,
+        "confidence": 0.78,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506247"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.47140188021994,
+          8.944296748496157
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-94164",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 3404.4,
+        "growth_rate_pct": 22.7,
+        "confidence": 0.92,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.57236612015681,
+          27.98253034170282
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-26290",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 3979.8,
+        "growth_rate_pct": 1.8,
+        "confidence": 0.82,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.99036462212246,
+          7.181294763828924
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-10382",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 3326.4,
+        "growth_rate_pct": 20.6,
+        "confidence": 0.79,
+        "priority": "MEDIUM",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.60848570055167,
+          7.985766870303837
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-87527",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 4342.1,
+        "growth_rate_pct": 18.1,
+        "confidence": 0.9,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506272"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.22202341876084,
+          11.92997715935996
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-39899",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 1172.3,
+        "growth_rate_pct": 22.3,
+        "confidence": 0.78,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1612597217948,
+          14.222791532225276
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-45924",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 2401.8,
+        "growth_rate_pct": 5.2,
+        "confidence": 0.99,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506286"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1968796499221,
+          11.47984611491012
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-39552",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 571.9,
+        "growth_rate_pct": 17.9,
+        "confidence": 0.85,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506291"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.66359296724596,
+          26.887068894127143
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-27539",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 1100.7,
+        "growth_rate_pct": 0.6,
+        "confidence": 0.83,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.30952906524243,
+          28.941883947504486
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-17497",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 3076.8,
+        "growth_rate_pct": -2.0,
+        "confidence": 0.94,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.90247019496884,
+          19.73384973905897
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-39610",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 3904.8,
+        "growth_rate_pct": -4.5,
+        "confidence": 0.79,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506308"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98384681327943,
+          20.062441826161358
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-51738",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 955.2,
+        "growth_rate_pct": 12.4,
+        "confidence": 0.8,
+        "priority": "CRITICAL",
+        "near_water": "Narmada",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9521318556175,
+          20.20555716604549
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-56557",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 3701.0,
+        "growth_rate_pct": 11.1,
+        "confidence": 0.81,
+        "priority": "CRITICAL",
+        "near_water": "Cauvery",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506321"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.44388217845625,
+          9.926206511759373
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-26964",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 2920.4,
+        "growth_rate_pct": 1.2,
+        "confidence": 0.84,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.23478952119834,
+          8.102282835378327
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-62399",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 3726.0,
+        "growth_rate_pct": -0.0,
+        "confidence": 0.83,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506333"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99875440636005,
+          18.49408699922722
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-63792",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 1901.5,
+        "growth_rate_pct": 16.8,
+        "confidence": 0.93,
+        "priority": "CRITICAL",
+        "near_water": "Yamuna",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.17487886130583,
+          18.395318465484863
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-82825",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 2942.0,
+        "growth_rate_pct": 5.3,
+        "confidence": 0.76,
+        "priority": "CRITICAL",
+        "near_water": "Ganges",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506345"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.18872246138947,
+          18.20170734484713
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-37391",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 4354.4,
+        "growth_rate_pct": 17.0,
+        "confidence": 0.82,
+        "priority": "CRITICAL",
+        "near_water": "Cauvery",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506354"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.64322024503264,
+          32.89980631144544
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-16243",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 77.1,
+        "growth_rate_pct": 3.0,
+        "confidence": 0.8,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506362"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.24245665288068,
+          20.47995680172974
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-59429",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 3700.7,
+        "growth_rate_pct": 20.0,
+        "confidence": 0.9,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506368"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.32536994432515,
+          10.840888890608962
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-80209",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 1595.4,
+        "growth_rate_pct": 2.7,
+        "confidence": 0.92,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.42561902629625,
+          20.349882476259328
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-28829",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 626.6,
+        "growth_rate_pct": 7.7,
+        "confidence": 0.8,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506381"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.29510239893366,
+          22.49372183977211
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-68478",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 4566.4,
+        "growth_rate_pct": 4.1,
+        "confidence": 0.92,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506387"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.0573954146806,
+          24.40936957475941
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-45910",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 1722.3,
+        "growth_rate_pct": 17.8,
+        "confidence": 0.82,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506392"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.35633541541465,
+          11.016050111322498
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-23576",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 210.6,
+        "growth_rate_pct": -0.7,
+        "confidence": 0.87,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506398"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.33118356691308,
+          11.770112465662072
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-29621",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 947.5,
+        "growth_rate_pct": -1.2,
+        "confidence": 0.84,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506403"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.51617290117274,
+          30.24384815672804
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-99443",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 483.2,
+        "growth_rate_pct": 19.3,
+        "confidence": 0.83,
+        "priority": "HIGH",
+        "near_water": "None Detected Clip",
+        "response_time": "URGENT (<24h)",
+        "timestamp": "2026-03-01T14:05:10.506409"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.10312088175145,
+          30.188196504448037
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-87668",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 2823.6,
+        "growth_rate_pct": -1.2,
+        "confidence": 0.88,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506414"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.65001056367522,
+          20.028633872112792
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-53628",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 1296.2,
+        "growth_rate_pct": -5.0,
+        "confidence": 0.79,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.70806484072907,
+          27.074630722999295
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-73403",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 673.2,
+        "growth_rate_pct": 24.7,
+        "confidence": 0.78,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506427"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.47231317195977,
+          16.904583948717942
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-45135",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 970.0,
+        "growth_rate_pct": 9.2,
+        "confidence": 0.97,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506435"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.24989469002307,
+          12.432748819515995
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-93319",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 2342.2,
+        "growth_rate_pct": 10.9,
+        "confidence": 0.96,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506441"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.18900347534722,
+          12.105855100845174
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-59930",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 320.2,
+        "growth_rate_pct": -4.2,
+        "confidence": 0.83,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506446"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.82246797469372,
+          33.69686225096041
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-50597",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 4380.8,
+        "growth_rate_pct": 12.8,
+        "confidence": 0.87,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506451"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.11883007424768,
+          11.154018286171446
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-34461",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 4197.0,
+        "growth_rate_pct": 5.5,
+        "confidence": 0.84,
+        "priority": "MEDIUM",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506457"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.99095989909877,
+          28.686286172848156
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-87416",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 851.2,
+        "growth_rate_pct": 7.3,
+        "confidence": 0.88,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506472"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.43012134813883,
+          22.110981762857804
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-70351",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 58.5,
+        "growth_rate_pct": -2.3,
+        "confidence": 0.78,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506479"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.07235601120601,
+          14.256495057588642
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-67719",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 771.2,
+        "growth_rate_pct": 9.8,
+        "confidence": 0.85,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506487"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.8316874090311,
+          28.25350025835658
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-67233",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 264.7,
+        "growth_rate_pct": 21.6,
+        "confidence": 0.93,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506493"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.86355826435037,
+          20.543715970947602
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-81822",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 4659.3,
+        "growth_rate_pct": 20.3,
+        "confidence": 0.9,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506498"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.52129278944892,
+          29.915945365800173
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-49911",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 4277.2,
+        "growth_rate_pct": 15.0,
+        "confidence": 0.95,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506504"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.99840819035111,
+          12.882373179699519
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-19522",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 4875.9,
+        "growth_rate_pct": 12.1,
+        "confidence": 0.94,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506509"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.71653261589263,
+          16.247566680838602
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-50877",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 545.1,
+        "growth_rate_pct": 13.5,
+        "confidence": 0.85,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506516"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.14865601114707,
+          15.869371008358643
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-35977",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 991.6,
+        "growth_rate_pct": -4.7,
+        "confidence": 0.84,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506523"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.14048960213168,
+          30.50388017436041
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-32200",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 3913.7,
+        "growth_rate_pct": -0.0,
+        "confidence": 0.83,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506529"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.71531636802723,
+          25.566857420271894
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-97659",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 4939.2,
+        "growth_rate_pct": 17.9,
+        "confidence": 0.98,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506535"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.5841034338411,
+          23.401592335049028
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-17251",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 4716.9,
+        "growth_rate_pct": 3.6,
+        "confidence": 0.8,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506541"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.97409801214037,
+          16.976105575133268
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-76086",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 3153.1,
+        "growth_rate_pct": 15.2,
+        "confidence": 0.81,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506546"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.91705437858003,
+          21.019193403393704
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-72371",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 1180.6,
+        "growth_rate_pct": 13.4,
+        "confidence": 0.87,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506551"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.06734602516995,
+          9.437222553304926
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-51037",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 527.0,
+        "growth_rate_pct": -4.6,
+        "confidence": 0.86,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506557"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.74182455295976,
+          24.706412444369814
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-37893",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 263.1,
+        "growth_rate_pct": 14.4,
+        "confidence": 0.78,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506562"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.08068969316275,
+          15.56615761682862
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-94818",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 1729.8,
+        "growth_rate_pct": 12.6,
+        "confidence": 0.81,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506569"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.88826751245671,
+          11.49547192046333
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-48053",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 306.1,
+        "growth_rate_pct": 12.7,
+        "confidence": 0.99,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506575"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.37972432368107,
+          34.295814614944604
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-69958",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 2033.3,
+        "growth_rate_pct": -2.3,
+        "confidence": 0.76,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506581"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.59826281442632,
+          22.42654958958649
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-49540",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 1387.0,
+        "growth_rate_pct": 14.8,
+        "confidence": 0.94,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506588"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.50899497320218,
+          9.313308747960695
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-64772",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 4215.1,
+        "growth_rate_pct": 21.4,
+        "confidence": 0.89,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506593"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.18865091659694,
+          30.646319743963634
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-39687",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 1783.4,
+        "growth_rate_pct": 4.4,
+        "confidence": 0.86,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506602"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.62085615863931,
+          31.407948575719253
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-56903",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 706.2,
+        "growth_rate_pct": 20.3,
+        "confidence": 0.76,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506607"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.21438851855383,
+          22.633105118710485
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-17114",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 718.8,
+        "growth_rate_pct": 2.2,
+        "confidence": 0.93,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506613"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.62892909165626,
+          23.698476142758732
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-38248",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 2451.8,
+        "growth_rate_pct": 9.2,
+        "confidence": 0.91,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506618"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.65701129872797,
+          20.660305695986803
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-71021",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 3771.7,
+        "growth_rate_pct": 5.1,
+        "confidence": 0.85,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506623"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.83455870677544,
+          13.293426417746407
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-94948",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 4875.9,
+        "growth_rate_pct": -2.0,
+        "confidence": 0.89,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506629"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.40925999347718,
+          11.27528026398753
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-87850",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 1082.3,
+        "growth_rate_pct": 15.7,
+        "confidence": 0.96,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.29755661170171,
+          11.558781138274595
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-88412",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 2804.3,
+        "growth_rate_pct": 4.5,
+        "confidence": 0.75,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0881571827897,
+          34.08430061358854
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-23802",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 4534.7,
+        "growth_rate_pct": 14.9,
+        "confidence": 0.9,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.95139763100029,
+          7.009634693653495
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-60814",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 3679.3,
+        "growth_rate_pct": 5.7,
+        "confidence": 0.93,
+        "priority": "MEDIUM",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.33217617091542,
+          13.922069581339496
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-97745",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 4996.6,
+        "growth_rate_pct": 6.3,
+        "confidence": 0.87,
+        "priority": "HIGH",
+        "near_water": "None Detected Clip",
+        "response_time": "URGENT (<24h)",
+        "timestamp": "2026-03-01T14:05:10.506656"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.23190654471463,
+          12.187366168963184
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-51671",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 449.4,
+        "growth_rate_pct": 3.8,
+        "confidence": 0.81,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506663"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.12901372911902,
+          32.706186087229
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-79163",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 1043.2,
+        "growth_rate_pct": 5.9,
+        "confidence": 0.84,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506670"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.11489764526681,
+          20.355679277647937
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-93480",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 3956.8,
+        "growth_rate_pct": -3.4,
+        "confidence": 0.9,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506678"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.55943205110243,
+          27.588517922079156
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-22282",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 1778.8,
+        "growth_rate_pct": -0.0,
+        "confidence": 0.87,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506683"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.86330127681295,
+          24.247117362665797
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-72358",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 2371.5,
+        "growth_rate_pct": -4.2,
+        "confidence": 0.75,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506689"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.87637689871796,
+          10.778305242579632
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-83665",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 1860.6,
+        "growth_rate_pct": 16.3,
+        "confidence": 0.93,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506694"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.28132013593671,
+          30.43280843584441
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-69345",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 1665.6,
+        "growth_rate_pct": 0.3,
+        "confidence": 0.92,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.6479111830009,
+          30.2199504229399
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-55823",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 3450.4,
+        "growth_rate_pct": 24.6,
+        "confidence": 0.89,
+        "priority": "MEDIUM",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506706"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19934322188038,
+          19.61487082229955
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-45390",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 1247.9,
+        "growth_rate_pct": -2.7,
+        "confidence": 0.85,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.53314023872993,
+          10.410289978682421
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-93958",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 3371.8,
+        "growth_rate_pct": -1.6,
+        "confidence": 0.8,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506718"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.91010068050372,
+          29.697939556867095
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-81853",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 1796.9,
+        "growth_rate_pct": 5.1,
+        "confidence": 0.8,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506724"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.66680924696337,
+          23.911175896624478
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-57094",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 2135.4,
+        "growth_rate_pct": -2.9,
+        "confidence": 0.93,
+        "priority": "MEDIUM",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.50422516261811,
+          6.636499076503494
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-20469",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 4570.5,
+        "growth_rate_pct": 3.6,
+        "confidence": 0.96,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506735"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.46488393397762,
+          24.65273358087696
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-51941",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 758.2,
+        "growth_rate_pct": 18.5,
+        "confidence": 0.92,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506742"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.72428517263947,
+          12.738477299556136
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-54444",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 4272.4,
+        "growth_rate_pct": 0.6,
+        "confidence": 0.86,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506749"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.1783126659617,
+          28.418299373170402
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-19264",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 1322.4,
+        "growth_rate_pct": 21.3,
+        "confidence": 0.97,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.37212160591474,
+          10.15733318389544
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-11355",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 3203.3,
+        "growth_rate_pct": 22.5,
+        "confidence": 0.88,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506763"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.41620381500314,
+          19.449142661802952
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-65784",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 4115.6,
+        "growth_rate_pct": 17.6,
+        "confidence": 0.9,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506769"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.32760247298752,
+          31.974932752565923
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-33067",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 967.7,
+        "growth_rate_pct": 0.1,
+        "confidence": 0.84,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506774"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.82988444138114,
+          28.496949523954935
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-91483",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 2621.1,
+        "growth_rate_pct": 8.8,
+        "confidence": 0.93,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506780"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17684023074372,
+          8.241310232498632
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-59724",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 1609.1,
+        "growth_rate_pct": 17.0,
+        "confidence": 0.94,
+        "priority": "MEDIUM",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506785"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.07761916570705,
+          9.221027100769902
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-28930",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 4008.3,
+        "growth_rate_pct": 17.6,
+        "confidence": 0.93,
+        "priority": "MEDIUM",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506790"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.94056212318569,
+          24.84471627678703
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-16850",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 785.4,
+        "growth_rate_pct": 4.2,
+        "confidence": 0.77,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506796"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.90351458407413,
+          27.822713312569544
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-55654",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 3358.2,
+        "growth_rate_pct": -1.3,
+        "confidence": 0.82,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.46161061986427,
+          12.278386078810225
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-23813",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 802.5,
+        "growth_rate_pct": 3.0,
+        "confidence": 0.78,
+        "priority": "HIGH",
+        "near_water": "None Detected Clip",
+        "response_time": "URGENT (<24h)",
+        "timestamp": "2026-03-01T14:05:10.506806"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.7094710477419,
+          18.41222662667064
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-96034",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 1222.8,
+        "growth_rate_pct": -1.2,
+        "confidence": 0.86,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506811"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08494208461401,
+          33.10620121231563
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-57807",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 3772.1,
+        "growth_rate_pct": 4.0,
+        "confidence": 0.76,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506816"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.31099622410335,
+          8.608167796909049
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-27893",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 1145.5,
+        "growth_rate_pct": 23.0,
+        "confidence": 0.94,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506822"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.50972775937655,
+          31.99443993942046
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-62197",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 1456.5,
+        "growth_rate_pct": -2.3,
+        "confidence": 0.99,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506830"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.56305290934529,
+          22.128861021076172
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-58251",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 811.3,
+        "growth_rate_pct": 18.6,
+        "confidence": 0.99,
+        "priority": "CRITICAL",
+        "near_water": "Arabian Sea",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506836"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.62222600838744,
+          21.870539760995857
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-96276",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 4922.3,
+        "growth_rate_pct": 14.9,
+        "confidence": 0.89,
+        "priority": "CRITICAL",
+        "near_water": "Yamuna",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506842"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.39394884871254,
+          22.086534171663203
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-60430",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 513.7,
+        "growth_rate_pct": 10.8,
+        "confidence": 0.81,
+        "priority": "CRITICAL",
+        "near_water": "Cauvery",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506848"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.33127692815086,
+          12.154618741503526
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-24973",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 4897.7,
+        "growth_rate_pct": 16.1,
+        "confidence": 0.91,
+        "priority": "HIGH",
+        "near_water": "None Detected Clip",
+        "response_time": "URGENT (<24h)",
+        "timestamp": "2026-03-01T14:05:10.506855"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.61529326815538,
+          6.811756528346028
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-14866",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 4915.9,
+        "growth_rate_pct": 13.9,
+        "confidence": 0.94,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506860"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.10889819082198,
+          29.481905933791815
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-68641",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 2193.7,
+        "growth_rate_pct": 21.3,
+        "confidence": 0.97,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506866"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.709567236834,
+          6.660520481877024
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-13789",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 3772.6,
+        "growth_rate_pct": 22.0,
+        "confidence": 0.86,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506886"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.767982713982,
+          8.079122110127528
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-22813",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 1261.6,
+        "growth_rate_pct": 8.5,
+        "confidence": 0.82,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506892"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.26996198280129,
+          13.114223974468159
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-29799",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 3008.9,
+        "growth_rate_pct": 0.2,
+        "confidence": 0.81,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506898"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.48537089498451,
+          12.242950904448772
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-71294",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 4550.2,
+        "growth_rate_pct": 19.4,
+        "confidence": 0.98,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.51426684971193,
+          28.710325885414886
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-29693",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 1164.0,
+        "growth_rate_pct": 14.1,
+        "confidence": 0.91,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506911"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8489072271976,
+          26.530938428999754
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-77402",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 4433.7,
+        "growth_rate_pct": -3.1,
+        "confidence": 0.92,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506918"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.59992600374495,
+          10.228863912424575
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-84807",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 1367.7,
+        "growth_rate_pct": 21.3,
+        "confidence": 0.96,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506924"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.78679248431614,
+          31.881553098378017
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-29408",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 1581.3,
+        "growth_rate_pct": 5.8,
+        "confidence": 0.76,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506929"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.39841654810998,
+          26.99388631165044
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-12251",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 3218.6,
+        "growth_rate_pct": 1.6,
+        "confidence": 0.89,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506935"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.0111261782416,
+          19.681211533491627
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-64041",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 1200.2,
+        "growth_rate_pct": 4.6,
+        "confidence": 0.91,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506941"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.60665995580639,
+          21.400672920329345
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-40696",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 2901.3,
+        "growth_rate_pct": 14.9,
+        "confidence": 0.92,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506946"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9670041441529,
+          28.841578005863816
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-48885",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 115.2,
+        "growth_rate_pct": 16.4,
+        "confidence": 0.75,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506951"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.15220511203472,
+          14.816594260458475
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-99180",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 4224.6,
+        "growth_rate_pct": 22.4,
+        "confidence": 0.84,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506957"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.08134078591814,
+          26.172605743888845
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-46259",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 4482.6,
+        "growth_rate_pct": 3.5,
+        "confidence": 0.86,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506969"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.50394323412618,
+          30.390342080444363
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-41839",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 1936.8,
+        "growth_rate_pct": 20.2,
+        "confidence": 0.94,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506977"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.38962866868088,
+          12.241852055954714
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-76408",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 4080.0,
+        "growth_rate_pct": 6.7,
+        "confidence": 0.84,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506983"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.39478717230804,
+          30.049987707726768
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-31968",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 1713.3,
+        "growth_rate_pct": 9.4,
+        "confidence": 0.89,
+        "priority": "MEDIUM",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.506988"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.21509165181818,
+          11.802029551819512
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-90674",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 4481.6,
+        "growth_rate_pct": -0.3,
+        "confidence": 0.78,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.506996"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.993304677383,
+          9.803236491587818
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-81916",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 2188.1,
+        "growth_rate_pct": 19.6,
+        "confidence": 0.79,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.507004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.22039063895419,
+          21.583042751044363
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-18476",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 3068.6,
+        "growth_rate_pct": 0.9,
+        "confidence": 0.88,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.507009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.29827467947146,
+          20.00843086656698
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-57844",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 1303.0,
+        "growth_rate_pct": 9.9,
+        "confidence": 0.94,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.507015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.00158789007865,
+          35.15258302186298
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-34855",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 890.5,
+        "growth_rate_pct": -2.5,
+        "confidence": 0.82,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.507021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.84937149160224,
+          22.729496189249634
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-16339",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 1559.1,
+        "growth_rate_pct": 8.8,
+        "confidence": 0.95,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.507026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.26805814826406,
+          18.488154971048832
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-87094",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 3130.6,
+        "growth_rate_pct": 6.2,
+        "confidence": 0.84,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.507032"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.84756575604719,
+          12.928875551839862
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-88075",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 2182.0,
+        "growth_rate_pct": 20.4,
+        "confidence": 0.76,
+        "priority": "MEDIUM",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.507037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.26530960717166,
+          12.824571315499249
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-79444",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 1565.4,
+        "growth_rate_pct": 7.0,
+        "confidence": 0.91,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.507043"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.28568658920169,
+          16.181551061071694
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-97513",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 223.3,
+        "growth_rate_pct": 2.3,
+        "confidence": 0.87,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.507048"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.47476338721282,
+          13.126521640961947
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-52104",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 2016.9,
+        "growth_rate_pct": 11.4,
+        "confidence": 0.92,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.507054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.99040059002675,
+          13.840752272953633
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-33176",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 2341.3,
+        "growth_rate_pct": 19.6,
+        "confidence": 0.92,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.507060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.50223403752153,
+          14.610858675717896
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-59923",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 4685.2,
+        "growth_rate_pct": 1.4,
+        "confidence": 0.93,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.507069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.90069325482358,
+          14.71649057699234
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-16014",
+        "type": "INDUSTRIAL_DUMP",
+        "size_m2": 1505.6,
+        "growth_rate_pct": 16.3,
+        "confidence": 0.96,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.507077"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.93368131768722,
+          6.761495584277375
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-19554",
+        "type": "MUNICIPAL_LANDFILL",
+        "size_m2": 4754.5,
+        "growth_rate_pct": 4.2,
+        "confidence": 0.8,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.507083"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.31319292008516,
+          14.758654114058517
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-30885",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 675.9,
+        "growth_rate_pct": 19.1,
+        "confidence": 0.78,
+        "priority": "HIGH",
+        "near_water": "None Detected Clip",
+        "response_time": "URGENT (<24h)",
+        "timestamp": "2026-03-01T14:05:10.507090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.92564892919164,
+          26.2190322116012
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-99459",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 4827.1,
+        "growth_rate_pct": 9.5,
+        "confidence": 0.8,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.507095"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.15464736593627,
+          7.414143358630961
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-55394",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 4491.8,
+        "growth_rate_pct": 10.1,
+        "confidence": 0.83,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.507101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.23781603976003,
+          13.828318669875156
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-42048",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 4108.0,
+        "growth_rate_pct": -1.7,
+        "confidence": 0.82,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.507106"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.98570570210175,
+          26.338197535858203
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-73050",
+        "type": "PLASTIC_BURNING_SITE",
+        "size_m2": 2223.9,
+        "growth_rate_pct": 24.6,
+        "confidence": 0.85,
+        "priority": "MEDIUM",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.507112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.26813325132204,
+          23.90702017040831
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-49573",
+        "type": "CONSTRUCTION_DEBRIS",
+        "size_m2": 2969.2,
+        "growth_rate_pct": -2.3,
+        "confidence": 0.97,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "SCHEDULED (Weekly)",
+        "timestamp": "2026-03-01T14:05:10.507118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.76697864382714,
+          24.83751820550889
+        ]
+      },
+      "properties": {
+        "id": "IND-DET-83432",
+        "type": "HAZARDOUS_WASTE",
+        "size_m2": 2104.4,
+        "growth_rate_pct": 14.8,
+        "confidence": 0.87,
+        "priority": "LOW",
+        "near_water": "None Detected Clip",
+        "response_time": "IMMEDIATE (<4h)",
+        "timestamp": "2026-03-01T14:05:10.507123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.52640930402325,
+          9.754339240064368
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-119233",
+        "type": "FARM_FIRE",
+        "priority": "MEDIUM",
+        "timestamp": "2026-03-01T14:58:43.073654",
+        "layer": "FARM_FIRE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.38010351323733,
+          34.59715838969637
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-463550",
+        "type": "PLASTIC_HOTSPOT",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.074007",
+        "layer": "PLASTIC_HOTSPOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.19823068437958,
+          16.107829265826368
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-149845",
+        "type": "RAIL_TRACK_WASTE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.074293",
+        "layer": "RAIL_TRACK_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.49382016435797,
+          34.06360851921492
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-420541",
+        "type": "FARM_FIRE",
+        "priority": "MEDIUM",
+        "timestamp": "2026-03-01T14:58:43.074589",
+        "layer": "FARM_FIRE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.01090853644435,
+          21.6187009458057
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-526093",
+        "type": "LANDFILL_OVERFLOW",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.074893",
+        "layer": "LANDFILL_OVERFLOW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.04165588523637,
+          14.755880899229183
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-644544",
+        "type": "LANDFILL_OVERFLOW",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.075214",
+        "layer": "LANDFILL_OVERFLOW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.24035252418798,
+          8.619592733945819
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-426388",
+        "type": "COASTAL_POLLUTION",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.075584",
+        "layer": "COASTAL_POLLUTION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.25130012891478,
+          30.631739065508047
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-663336",
+        "type": "ILLEGAL_DUMPING",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.075948",
+        "layer": "ILLEGAL_DUMPING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.42800208774446,
+          10.226482996681087
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-385606",
+        "type": "GROUNDWATER_CONTAM",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.076331",
+        "layer": "GROUNDWATER_CONTAM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.88223071490465,
+          8.42232154239175
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-249248",
+        "type": "ILLEGAL_DUMPING",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.076746",
+        "layer": "ILLEGAL_DUMPING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.21224691439078,
+          22.64377821303501
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-419765",
+        "type": "MINING_ZONE_ENCROACH",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.077168",
+        "layer": "MINING_ZONE_ENCROACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1002488339271,
+          7.240315180700206
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-900902",
+        "type": "SLUM_SANITATION_FAIL",
+        "priority": "MEDIUM",
+        "timestamp": "2026-03-01T14:58:43.077770",
+        "layer": "SLUM_SANITATION_FAIL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.33694928359965,
+          17.823242444960034
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-909544",
+        "type": "RAIL_TRACK_WASTE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.078256",
+        "layer": "RAIL_TRACK_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.35532862180062,
+          9.31147638783001
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-810200",
+        "type": "RIVER_HEALTH_CRITICAL",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.078765",
+        "layer": "RIVER_HEALTH_CRITICAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.91486836738966,
+          32.66374087470769
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-379262",
+        "type": "PLASTIC_HOTSPOT",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.079356",
+        "layer": "PLASTIC_HOTSPOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.86382708584422,
+          16.66317424223516
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-502650",
+        "type": "PLASTIC_HOTSPOT",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.080004",
+        "layer": "PLASTIC_HOTSPOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.28829550127082,
+          9.546904785958947
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-962891",
+        "type": "ILLEGAL_DUMPING",
+        "priority": "MEDIUM",
+        "timestamp": "2026-03-01T14:58:43.080650",
+        "layer": "ILLEGAL_DUMPING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.65454800131562,
+          14.00034848552215
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-660456",
+        "type": "RIVER_HEALTH_CRITICAL",
+        "priority": "CRITICAL",
+        "timestamp": "2026-03-01T14:58:43.081245",
+        "layer": "RIVER_HEALTH_CRITICAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.64851370405991,
+          13.813518576961478
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-123567",
+        "type": "FARM_FIRE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.081944",
+        "layer": "FARM_FIRE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.73260419563573,
+          21.821594473889906
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-232527",
+        "type": "ILLEGAL_DUMPING",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.082560",
+        "layer": "ILLEGAL_DUMPING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.09588903966822,
+          25.498651635945354
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-179654",
+        "type": "COASTAL_POLLUTION",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.083223",
+        "layer": "COASTAL_POLLUTION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.12336702855518,
+          22.467834742873016
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-237254",
+        "type": "FARM_FIRE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.083947",
+        "layer": "FARM_FIRE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.12717521475528,
+          33.198149635412236
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-241826",
+        "type": "COASTAL_POLLUTION",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.084717",
+        "layer": "COASTAL_POLLUTION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.18072589801059,
+          7.003101231305002
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-777898",
+        "type": "INDUSTRIAL_POLLUTION",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.085460",
+        "layer": "INDUSTRIAL_POLLUTION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.78154645040827,
+          29.783274530058655
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-497218",
+        "type": "CONSTRUCTION_WASTE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.086214",
+        "layer": "CONSTRUCTION_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.60178061180122,
+          33.89122699269737
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-902752",
+        "type": "BIOMEDICAL_WASTE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.086982",
+        "layer": "BIOMEDICAL_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.86458805147835,
+          34.054835730315155
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-275000",
+        "type": "GROUNDWATER_CONTAM",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.087766",
+        "layer": "GROUNDWATER_CONTAM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.19542102580475,
+          9.416592856613613
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-831700",
+        "type": "PLASTIC_HOTSPOT",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.088567",
+        "layer": "PLASTIC_HOTSPOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.17114099063232,
+          34.93749028736774
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-165835",
+        "type": "COASTAL_POLLUTION",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.089417",
+        "layer": "COASTAL_POLLUTION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.12264267502353,
+          29.99444605564195
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-512230",
+        "type": "COASTAL_POLLUTION",
+        "priority": "HIGH",
+        "timestamp": "2026-03-01T14:58:43.090334",
+        "layer": "COASTAL_POLLUTION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.04909218136137,
+          7.252831754731946
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-735251",
+        "type": "LANDFILL_OVERFLOW",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.091199",
+        "layer": "LANDFILL_OVERFLOW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.71695232004369,
+          30.167569767401613
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-426620",
+        "type": "AQI_DANGER_CORRIDOR",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.092443",
+        "layer": "AQI_DANGER_CORRIDOR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.12469422951563,
+          32.97414551977862
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-835415",
+        "type": "MINING_ZONE_ENCROACH",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.093842",
+        "layer": "MINING_ZONE_ENCROACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.96410071467433,
+          28.19289897891268
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-818529",
+        "type": "COASTAL_POLLUTION",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.095121",
+        "layer": "COASTAL_POLLUTION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.07603066841395,
+          33.40617187075777
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-585359",
+        "type": "INDUSTRIAL_POLLUTION",
+        "priority": "MEDIUM",
+        "timestamp": "2026-03-01T14:58:43.096036",
+        "layer": "INDUSTRIAL_POLLUTION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.65031971419332,
+          20.365173338025848
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-217032",
+        "type": "BIOMEDICAL_WASTE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.097248",
+        "layer": "BIOMEDICAL_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.17516958899466,
+          25.733855923493966
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-282318",
+        "type": "RAIL_TRACK_WASTE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.098304",
+        "layer": "RAIL_TRACK_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.03986436705925,
+          21.682470617899323
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-547519",
+        "type": "LANDFILL_OVERFLOW",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.099371",
+        "layer": "LANDFILL_OVERFLOW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.76154965269791,
+          31.781836280285457
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-120357",
+        "type": "RAIL_TRACK_WASTE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.100391",
+        "layer": "RAIL_TRACK_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.53069568482147,
+          27.998096993911165
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-685359",
+        "type": "GROUNDWATER_CONTAM",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.101408",
+        "layer": "GROUNDWATER_CONTAM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.61749820707061,
+          18.052030362584812
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-114019",
+        "type": "GROUNDWATER_CONTAM",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.102428",
+        "layer": "GROUNDWATER_CONTAM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.87619774954638,
+          33.33203453184902
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-978957",
+        "type": "AQI_DANGER_CORRIDOR",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.103490",
+        "layer": "AQI_DANGER_CORRIDOR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.42102692492936,
+          28.219777642811994
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-139946",
+        "type": "SLUM_SANITATION_FAIL",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.104584",
+        "layer": "SLUM_SANITATION_FAIL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.97371878292029,
+          27.817969459868
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-789853",
+        "type": "SLUM_SANITATION_FAIL",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.105666",
+        "layer": "SLUM_SANITATION_FAIL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.51485228407878,
+          27.246314613589103
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-595297",
+        "type": "MINING_ZONE_ENCROACH",
+        "priority": "MEDIUM",
+        "timestamp": "2026-03-01T14:58:43.106898",
+        "layer": "MINING_ZONE_ENCROACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.24074100660454,
+          17.1295641056997
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-495571",
+        "type": "SLUM_SANITATION_FAIL",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.108071",
+        "layer": "SLUM_SANITATION_FAIL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.43860316854334,
+          10.605764312110347
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-356978",
+        "type": "BIOMEDICAL_WASTE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.109720",
+        "layer": "BIOMEDICAL_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.0552184156434,
+          16.063863403762674
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-675414",
+        "type": "FARM_FIRE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.111689",
+        "layer": "FARM_FIRE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.84696662727688,
+          29.675941283075975
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-672757",
+        "type": "COASTAL_POLLUTION",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.112998",
+        "layer": "COASTAL_POLLUTION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.24270852314024,
+          24.197125253792485
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-643312",
+        "type": "RAIL_TRACK_WASTE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.114455",
+        "layer": "RAIL_TRACK_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.58674566931774,
+          19.30961652432752
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-293437",
+        "type": "ILLEGAL_DUMPING",
+        "priority": "MEDIUM",
+        "timestamp": "2026-03-01T14:58:43.115911",
+        "layer": "ILLEGAL_DUMPING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.03876526492134,
+          24.79498226934053
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-772407",
+        "type": "PLASTIC_HOTSPOT",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.117244",
+        "layer": "PLASTIC_HOTSPOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.73033464816258,
+          12.851651092271354
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-788256",
+        "type": "FARM_FIRE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.118621",
+        "layer": "FARM_FIRE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.61121697890448,
+          11.385467951427723
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-420082",
+        "type": "BIOMEDICAL_WASTE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.120187",
+        "layer": "BIOMEDICAL_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2358326061534,
+          33.8296190106966
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-694433",
+        "type": "LANDFILL_OVERFLOW",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.121592",
+        "layer": "LANDFILL_OVERFLOW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.69704018685236,
+          11.901655072819281
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-952752",
+        "type": "AQI_DANGER_CORRIDOR",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.123066",
+        "layer": "AQI_DANGER_CORRIDOR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.87946557634916,
+          34.96128306373334
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-277968",
+        "type": "SLUM_SANITATION_FAIL",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.124583",
+        "layer": "SLUM_SANITATION_FAIL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.61078298908168,
+          29.768900371757702
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-826695",
+        "type": "RIVER_HEALTH_CRITICAL",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.126025",
+        "layer": "RIVER_HEALTH_CRITICAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6662793444389,
+          21.377541900058795
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-803516",
+        "type": "LANDFILL_OVERFLOW",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.127473",
+        "layer": "LANDFILL_OVERFLOW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.69117540938134,
+          11.360325429017248
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-869792",
+        "type": "CONSTRUCTION_WASTE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.128953",
+        "layer": "CONSTRUCTION_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.31667223564328,
+          25.318829309160776
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-575044",
+        "type": "PLASTIC_HOTSPOT",
+        "priority": "MEDIUM",
+        "timestamp": "2026-03-01T14:58:43.130601",
+        "layer": "PLASTIC_HOTSPOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.03594147176435,
+          22.85048577657585
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-692393",
+        "type": "LANDFILL_OVERFLOW",
+        "priority": "CRITICAL",
+        "timestamp": "2026-03-01T14:58:43.132233",
+        "layer": "LANDFILL_OVERFLOW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.99881592515938,
+          31.566851114395554
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-233615",
+        "type": "CONSTRUCTION_WASTE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.134008",
+        "layer": "CONSTRUCTION_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.62007300179171,
+          8.05885624166361
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-390437",
+        "type": "BIOMEDICAL_WASTE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.135612",
+        "layer": "BIOMEDICAL_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.33535580674469,
+          14.4839297590256
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-871734",
+        "type": "GROUNDWATER_CONTAM",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.137364",
+        "layer": "GROUNDWATER_CONTAM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.1830571876161,
+          18.909540495312832
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-173001",
+        "type": "FARM_FIRE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.138970",
+        "layer": "FARM_FIRE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.23310739202557,
+          32.63977035777855
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-542888",
+        "type": "FARM_FIRE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.140625",
+        "layer": "FARM_FIRE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.55672632985964,
+          20.545544600153193
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-939045",
+        "type": "RAIL_TRACK_WASTE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.142355",
+        "layer": "RAIL_TRACK_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.50397048113278,
+          15.6323901521526
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-716525",
+        "type": "RIVER_HEALTH_CRITICAL",
+        "priority": "HIGH",
+        "timestamp": "2026-03-01T14:58:43.144027",
+        "layer": "RIVER_HEALTH_CRITICAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.27905301593931,
+          30.416467203996966
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-917701",
+        "type": "INDUSTRIAL_POLLUTION",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.145738",
+        "layer": "INDUSTRIAL_POLLUTION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.86912099706396,
+          14.545591474265454
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-923938",
+        "type": "RAIL_TRACK_WASTE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.147949",
+        "layer": "RAIL_TRACK_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.87995841388802,
+          11.072655545322979
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-162185",
+        "type": "MINING_ZONE_ENCROACH",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.150280",
+        "layer": "MINING_ZONE_ENCROACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.67759203904892,
+          11.598168819555212
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-754090",
+        "type": "COASTAL_POLLUTION",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.151980",
+        "layer": "COASTAL_POLLUTION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.04302879570574,
+          23.25824293438866
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-204624",
+        "type": "FARM_FIRE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.153755",
+        "layer": "FARM_FIRE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8136458500292,
+          13.807115078873437
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-515272",
+        "type": "PLASTIC_HOTSPOT",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.155602",
+        "layer": "PLASTIC_HOTSPOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.60618574007334,
+          28.237205578784454
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-844953",
+        "type": "AQI_DANGER_CORRIDOR",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.157696",
+        "layer": "AQI_DANGER_CORRIDOR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.58194988195858,
+          34.96151476586121
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-712144",
+        "type": "BIOMEDICAL_WASTE",
+        "priority": "MEDIUM",
+        "timestamp": "2026-03-01T14:58:43.159744",
+        "layer": "BIOMEDICAL_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.44991359672898,
+          12.087365742186359
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-795364",
+        "type": "CONSTRUCTION_WASTE",
+        "priority": "HIGH",
+        "timestamp": "2026-03-01T14:58:43.161649",
+        "layer": "CONSTRUCTION_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.05144818665505,
+          34.61559222996274
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-655626",
+        "type": "WETLAND_ENCROACH",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T14:58:43.163567",
+        "layer": "WETLAND_ENCROACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.26159558316691,
+          25.990088067387983
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-649278",
+        "type": "AQI_DANGER_CORRIDOR",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.111484",
+        "layer": "AQI_DANGER_CORRIDOR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.94280424608358,
+          7.335933053558928
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-622161",
+        "type": "WETLAND_ENCROACH",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.113908",
+        "layer": "WETLAND_ENCROACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.16685396661127,
+          34.52035630875201
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-977598",
+        "type": "BIOMEDICAL_WASTE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.118946",
+        "layer": "BIOMEDICAL_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.69198968509625,
+          34.5785312687289
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-793541",
+        "type": "RIVER_HEALTH_CRITICAL",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.120948",
+        "layer": "RIVER_HEALTH_CRITICAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.04508424056999,
+          34.64850756902069
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-971004",
+        "type": "WETLAND_ENCROACH",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.122871",
+        "layer": "WETLAND_ENCROACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.85967022728668,
+          31.481782966863822
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-675881",
+        "type": "LANDFILL_OVERFLOW",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.125170",
+        "layer": "LANDFILL_OVERFLOW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.9824753388668,
+          10.26832858117669
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-549799",
+        "type": "COASTAL_POLLUTION",
+        "priority": "HIGH",
+        "timestamp": "2026-03-01T15:00:44.127360",
+        "layer": "COASTAL_POLLUTION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.58998945619666,
+          27.084422459820306
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-568165",
+        "type": "CONSTRUCTION_WASTE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.129738",
+        "layer": "CONSTRUCTION_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.54947840915088,
+          10.291171617154244
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-110958",
+        "type": "ILLEGAL_DUMPING",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.131923",
+        "layer": "ILLEGAL_DUMPING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.85198734121445,
+          17.432049255322088
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-743651",
+        "type": "BIOMEDICAL_WASTE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.134215",
+        "layer": "BIOMEDICAL_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.09774656179805,
+          29.208168990579807
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-301565",
+        "type": "BIOMEDICAL_WASTE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.136335",
+        "layer": "BIOMEDICAL_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.08733266576455,
+          16.207176115785195
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-698577",
+        "type": "CONSTRUCTION_WASTE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.138435",
+        "layer": "CONSTRUCTION_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.78536065442738,
+          28.633631583172335
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-217498",
+        "type": "SLUM_SANITATION_FAIL",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.140732",
+        "layer": "SLUM_SANITATION_FAIL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.91972048833323,
+          26.351134864009538
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-809942",
+        "type": "RAIL_TRACK_WASTE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.142941",
+        "layer": "RAIL_TRACK_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.22622737641855,
+          21.231924231717873
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-660921",
+        "type": "AQI_DANGER_CORRIDOR",
+        "priority": "HIGH",
+        "timestamp": "2026-03-01T15:00:44.145376",
+        "layer": "AQI_DANGER_CORRIDOR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.34357845356408,
+          21.406586679236835
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-393589",
+        "type": "SLUM_SANITATION_FAIL",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.147953",
+        "layer": "SLUM_SANITATION_FAIL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.09194491572438,
+          30.62614251173979
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-497290",
+        "type": "BIOMEDICAL_WASTE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.150379",
+        "layer": "BIOMEDICAL_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.06044477006785,
+          30.60936264592677
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-580388",
+        "type": "FARM_FIRE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.152748",
+        "layer": "FARM_FIRE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4179727619946,
+          30.004370331885873
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-285583",
+        "type": "AQI_DANGER_CORRIDOR",
+        "priority": "MEDIUM",
+        "timestamp": "2026-03-01T15:00:44.155142",
+        "layer": "AQI_DANGER_CORRIDOR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.44763725106397,
+          31.41267178082581
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-182823",
+        "type": "SLUM_SANITATION_FAIL",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.157440",
+        "layer": "SLUM_SANITATION_FAIL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.74270991302461,
+          24.50282417283192
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-741091",
+        "type": "WETLAND_ENCROACH",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.159968",
+        "layer": "WETLAND_ENCROACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.75569627378411,
+          13.020217185131502
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-791083",
+        "type": "PLASTIC_HOTSPOT",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.162673",
+        "layer": "PLASTIC_HOTSPOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.68902103410855,
+          9.261394886353703
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-418611",
+        "type": "CONSTRUCTION_WASTE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.165048",
+        "layer": "CONSTRUCTION_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.22258887768405,
+          20.650177431246238
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-457518",
+        "type": "BIOMEDICAL_WASTE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.167568",
+        "layer": "BIOMEDICAL_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.31582750133168,
+          16.177059384914052
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-562674",
+        "type": "BIOMEDICAL_WASTE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.170026",
+        "layer": "BIOMEDICAL_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.16553809459985,
+          31.092936372708692
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-963141",
+        "type": "MINING_ZONE_ENCROACH",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.172355",
+        "layer": "MINING_ZONE_ENCROACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.52384944406172,
+          29.316463281443223
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-117138",
+        "type": "FARM_FIRE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.175126",
+        "layer": "FARM_FIRE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.24666774670462,
+          17.327378443728808
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-739414",
+        "type": "CONSTRUCTION_WASTE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.177929",
+        "layer": "CONSTRUCTION_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.35120764329848,
+          28.223238395721097
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-539879",
+        "type": "FARM_FIRE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.180873",
+        "layer": "FARM_FIRE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.94547166182332,
+          21.4357793156821
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-338404",
+        "type": "SLUM_SANITATION_FAIL",
+        "priority": "MEDIUM",
+        "timestamp": "2026-03-01T15:00:44.183471",
+        "layer": "SLUM_SANITATION_FAIL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.97207966283422,
+          23.371483570174068
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-274968",
+        "type": "COASTAL_POLLUTION",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.185957",
+        "layer": "COASTAL_POLLUTION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.12135024981927,
+          35.14131050432037
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-712691",
+        "type": "GROUNDWATER_CONTAM",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.188771",
+        "layer": "GROUNDWATER_CONTAM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.87694494814544,
+          31.15178560591659
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-209601",
+        "type": "WETLAND_ENCROACH",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.192022",
+        "layer": "WETLAND_ENCROACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.97737370436639,
+          29.089138931218493
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-911357",
+        "type": "CONSTRUCTION_WASTE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.195392",
+        "layer": "CONSTRUCTION_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.0245461408798,
+          22.445267585652648
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-853969",
+        "type": "RIVER_HEALTH_CRITICAL",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.198443",
+        "layer": "RIVER_HEALTH_CRITICAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.41637884217928,
+          12.223406042754407
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-850655",
+        "type": "ILLEGAL_DUMPING",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.201155",
+        "layer": "ILLEGAL_DUMPING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.41285209745743,
+          29.09250495259483
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-687441",
+        "type": "AQI_DANGER_CORRIDOR",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.203754",
+        "layer": "AQI_DANGER_CORRIDOR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.38609644601127,
+          27.03684250226905
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-180423",
+        "type": "SLUM_SANITATION_FAIL",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.206412",
+        "layer": "SLUM_SANITATION_FAIL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.80775918431279,
+          6.845294214863269
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-567988",
+        "type": "FARM_FIRE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.209438",
+        "layer": "FARM_FIRE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.04563341135466,
+          15.853685061995732
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-601645",
+        "type": "RAIL_TRACK_WASTE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.212916",
+        "layer": "RAIL_TRACK_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.00358660659816,
+          32.62381647542678
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-843992",
+        "type": "LANDFILL_OVERFLOW",
+        "priority": "MEDIUM",
+        "timestamp": "2026-03-01T15:00:44.215806",
+        "layer": "LANDFILL_OVERFLOW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.90878689329904,
+          6.6975263579530875
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-298801",
+        "type": "SLUM_SANITATION_FAIL",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.218582",
+        "layer": "SLUM_SANITATION_FAIL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.29441727574827,
+          22.135068823657395
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-482550",
+        "type": "LANDFILL_OVERFLOW",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.221318",
+        "layer": "LANDFILL_OVERFLOW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.01257822227188,
+          27.821263851890695
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-411689",
+        "type": "COASTAL_POLLUTION",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.224064",
+        "layer": "COASTAL_POLLUTION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.76960061559207,
+          20.208558111432303
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-262624",
+        "type": "GROUNDWATER_CONTAM",
+        "priority": "HIGH",
+        "timestamp": "2026-03-01T15:00:44.226866",
+        "layer": "GROUNDWATER_CONTAM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.24262507574913,
+          15.629700766425954
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-205595",
+        "type": "BIOMEDICAL_WASTE",
+        "priority": "HIGH",
+        "timestamp": "2026-03-01T15:00:44.230250",
+        "layer": "BIOMEDICAL_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.62523707001338,
+          16.408859377849964
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-905946",
+        "type": "RIVER_HEALTH_CRITICAL",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.233231",
+        "layer": "RIVER_HEALTH_CRITICAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.82576470387504,
+          18.720418042785322
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-726748",
+        "type": "INDUSTRIAL_POLLUTION",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.236057",
+        "layer": "INDUSTRIAL_POLLUTION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.39895005774774,
+          24.661833326500773
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-845007",
+        "type": "RIVER_HEALTH_CRITICAL",
+        "priority": "HIGH",
+        "timestamp": "2026-03-01T15:00:44.238924",
+        "layer": "RIVER_HEALTH_CRITICAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.37139742863903,
+          15.344352305384755
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-116691",
+        "type": "WETLAND_ENCROACH",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.241779",
+        "layer": "WETLAND_ENCROACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.37965460460414,
+          18.738386263507714
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-629102",
+        "type": "SLUM_SANITATION_FAIL",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.245217",
+        "layer": "SLUM_SANITATION_FAIL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.21808442266344,
+          15.216339133557938
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-604236",
+        "type": "LANDFILL_OVERFLOW",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.248339",
+        "layer": "LANDFILL_OVERFLOW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.04023340083117,
+          13.16880927763469
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-340145",
+        "type": "GROUNDWATER_CONTAM",
+        "priority": "HIGH",
+        "timestamp": "2026-03-01T15:00:44.251413",
+        "layer": "GROUNDWATER_CONTAM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.93525365155551,
+          24.200140176289363
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-182305",
+        "type": "MINING_ZONE_ENCROACH",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.254539",
+        "layer": "MINING_ZONE_ENCROACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.70788151970105,
+          23.091286725156067
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-944862",
+        "type": "AQI_DANGER_CORRIDOR",
+        "priority": "MEDIUM",
+        "timestamp": "2026-03-01T15:00:44.257595",
+        "layer": "AQI_DANGER_CORRIDOR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.59103631959577,
+          20.522362359921217
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-368404",
+        "type": "WETLAND_ENCROACH",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.260655",
+        "layer": "WETLAND_ENCROACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.04908226185277,
+          32.0599492415738
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-969549",
+        "type": "WETLAND_ENCROACH",
+        "priority": "MEDIUM",
+        "timestamp": "2026-03-01T15:00:44.264238",
+        "layer": "WETLAND_ENCROACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.95192693380983,
+          28.23451216586228
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-687694",
+        "type": "INDUSTRIAL_POLLUTION",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.268233",
+        "layer": "INDUSTRIAL_POLLUTION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.43814373278089,
+          14.893751570396205
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-311870",
+        "type": "FARM_FIRE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.273792",
+        "layer": "FARM_FIRE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.95428441825698,
+          23.53890835764182
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-130919",
+        "type": "INDUSTRIAL_POLLUTION",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.278895",
+        "layer": "INDUSTRIAL_POLLUTION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.90229687389645,
+          10.346638729627308
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-935626",
+        "type": "SLUM_SANITATION_FAIL",
+        "priority": "MEDIUM",
+        "timestamp": "2026-03-01T15:00:44.284144",
+        "layer": "SLUM_SANITATION_FAIL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.58580862010513,
+          31.829239792022047
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-402410",
+        "type": "PLASTIC_HOTSPOT",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.287965",
+        "layer": "PLASTIC_HOTSPOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.54880826925077,
+          17.6011741060494
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-257752",
+        "type": "COASTAL_POLLUTION",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.292555",
+        "layer": "COASTAL_POLLUTION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.02251337421976,
+          17.148713225717817
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-497028",
+        "type": "INDUSTRIAL_POLLUTION",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.297936",
+        "layer": "INDUSTRIAL_POLLUTION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.42101566872442,
+          22.863662264585855
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-880202",
+        "type": "PLASTIC_HOTSPOT",
+        "priority": "MEDIUM",
+        "timestamp": "2026-03-01T15:00:44.302586",
+        "layer": "PLASTIC_HOTSPOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.00339430393791,
+          34.21790654055163
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-861633",
+        "type": "BIOMEDICAL_WASTE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.306550",
+        "layer": "BIOMEDICAL_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.99181377993348,
+          33.19846164281024
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-407410",
+        "type": "WETLAND_ENCROACH",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.312737",
+        "layer": "WETLAND_ENCROACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.78570888899874,
+          8.765420560934636
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-479236",
+        "type": "LANDFILL_OVERFLOW",
+        "priority": "MEDIUM",
+        "timestamp": "2026-03-01T15:00:44.318015",
+        "layer": "LANDFILL_OVERFLOW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.72392080559912,
+          14.604472347903657
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-102166",
+        "type": "PLASTIC_HOTSPOT",
+        "priority": "MEDIUM",
+        "timestamp": "2026-03-01T15:00:44.322849",
+        "layer": "PLASTIC_HOTSPOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.56967952549213,
+          32.44923335402132
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-337001",
+        "type": "FARM_FIRE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.329172",
+        "layer": "FARM_FIRE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.40259404578433,
+          31.57455643185569
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-715885",
+        "type": "INDUSTRIAL_POLLUTION",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.337731",
+        "layer": "INDUSTRIAL_POLLUTION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.32056090854375,
+          8.895544108740093
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-709243",
+        "type": "WETLAND_ENCROACH",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.344130",
+        "layer": "WETLAND_ENCROACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.1369026513651,
+          15.567745449692424
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-861120",
+        "type": "CONSTRUCTION_WASTE",
+        "priority": "MEDIUM",
+        "timestamp": "2026-03-01T15:00:44.351022",
+        "layer": "CONSTRUCTION_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2121323978135,
+          31.89235801581668
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-976326",
+        "type": "RAIL_TRACK_WASTE",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.357541",
+        "layer": "RAIL_TRACK_WASTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.57579180602959,
+          17.79711051306433
+        ]
+      },
+      "properties": {
+        "id": "SBM-DET-544213",
+        "type": "AQI_DANGER_CORRIDOR",
+        "priority": "LOW",
+        "timestamp": "2026-03-01T15:00:44.361890",
+        "layer": "AQI_DANGER_CORRIDOR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "micro_litter": [
+    {
+      "name": "St. Mary's Cathedral Church",
+      "lat": 9.9131729,
+      "lon": 78.1256958,
+      "type": "Temple Zone",
+      "area": 0,
+      "confidence": 0.99,
+      "desc": "Verified Madurai religious monument zone."
+    },
+    {
+      "name": "Nagamman Temple",
+      "lat": 9.9058504,
+      "lon": 78.1193095,
+      "type": "Temple Zone",
+      "area": 0,
+      "confidence": 0.99,
+      "desc": "Verified Madurai religious monument zone."
+    },
+    {
+      "name": NaN,
+      "lat": 9.9211733,
+      "lon": 78.1206183,
+      "type": "Temple Zone",
+      "area": 0,
+      "confidence": 0.99,
+      "desc": "Verified Madurai religious monument zone."
+    },
+    {
+      "name": NaN,
+      "lat": 9.9242683,
+      "lon": 78.1252691,
+      "type": "Temple Zone",
+      "area": 0,
+      "confidence": 0.99,
+      "desc": "Verified Madurai religious monument zone."
+    },
+    {
+      "name": NaN,
+      "lat": 9.9202819,
+      "lon": 78.1208909,
+      "type": "Temple Zone",
+      "area": 0,
+      "confidence": 0.99,
+      "desc": "Verified Madurai religious monument zone."
+    },
+    {
+      "name": "Arulmigu Koodalazhagar Thirukovil",
+      "lat": 9.9146355,
+      "lon": 78.1140603,
+      "type": "Temple Zone",
+      "area": 0,
+      "confidence": 0.99,
+      "desc": "Verified Madurai religious monument zone."
+    },
+    {
+      "name": "St. George's Church",
+      "lat": 9.9170512,
+      "lon": 78.117162,
+      "type": "Temple Zone",
+      "area": 0,
+      "confidence": 0.99,
+      "desc": "Verified Madurai religious monument zone."
+    },
+    {
+      "name": "Dasa kali amman thirukovil",
+      "lat": 9.9145166,
+      "lon": 78.1195956,
+      "type": "Temple Zone",
+      "area": 0,
+      "confidence": 0.99,
+      "desc": "Verified Madurai religious monument zone."
+    },
+    {
+      "name": NaN,
+      "lat": 9.9027426,
+      "lon": 78.11218,
+      "type": "Temple Zone",
+      "area": 0,
+      "confidence": 0.99,
+      "desc": "Verified Madurai religious monument zone."
+    },
+    {
+      "name": "\u0b9f\u0bb5\u0bc1\u0ba3\u0bcd \u0bb9\u0bbe\u0bb2\u0bcd \u0bb0\u0bcb\u0b9f\u0bc1 \u0baa\u0bb3\u0bcd\u0bb3\u0bbf\u0bb5\u0bbe\u0b9a\u0bb2\u0bcd",
+      "lat": 9.9182159,
+      "lon": 78.1119082,
+      "type": "Temple Zone",
+      "area": 0,
+      "confidence": 0.99,
+      "desc": "Verified Madurai religious monument zone."
+    },
+    {
+      "name": "Viswanathapuram Ganesh temple",
+      "lat": 9.95283,
+      "lon": 78.1270178,
+      "type": "Temple Zone",
+      "area": 0,
+      "confidence": 0.99,
+      "desc": "Verified Madurai religious monument zone."
+    },
+    {
+      "name": "Paripoorana Vinayagar Temple",
+      "lat": 9.9310283,
+      "lon": 78.1150981,
+      "type": "Temple Zone",
+      "area": 0,
+      "confidence": 0.99,
+      "desc": "Verified Madurai religious monument zone."
+    },
+    {
+      "name": "Karuppana Sami Temple",
+      "lat": 9.9230048,
+      "lon": 78.1240272,
+      "type": "Temple Zone",
+      "area": 0,
+      "confidence": 0.99,
+      "desc": "Verified Madurai religious monument zone."
+    },
+    {
+      "name": "Sri Meenakshi Amman Temple",
+      "lat": 9.919485250537889,
+      "lon": 78.1193524385268,
+      "type": "Temple Zone",
+      "area": 0,
+      "confidence": 0.99,
+      "desc": "Verified Madurai religious monument zone."
+    },
+    {
+      "name": "Pudhu Mandapam",
+      "lat": 9.920123162583712,
+      "lon": 78.12119494192423,
+      "type": "Temple Zone",
+      "area": 0,
+      "confidence": 0.99,
+      "desc": "Verified Madurai religious monument zone."
+    },
+    {
+      "name": "Sai Baba Mandir",
+      "lat": 9.9014213,
+      "lon": 78.102899,
+      "type": "Temple Zone",
+      "area": 0,
+      "confidence": 0.99,
+      "desc": "Verified Madurai religious monument zone."
+    },
+    {
+      "name": "Sathaiyar",
+      "lat": 9.93657562443618,
+      "lon": 78.12375371651724,
+      "type": "River Pollution",
+      "area": 0,
+      "confidence": 0.95,
+      "desc": "Vaigai river infrastructure corridor."
+    },
+    {
+      "name": "Vaigai",
+      "lat": 9.935966201616449,
+      "lon": 78.10676735106617,
+      "type": "River Pollution",
+      "area": 0,
+      "confidence": 0.95,
+      "desc": "Vaigai river infrastructure corridor."
+    },
+    {
+      "name": "Vaigai",
+      "lat": 9.887727124106654,
+      "lon": 78.18414751455835,
+      "type": "River Pollution",
+      "area": 0,
+      "confidence": 0.95,
+      "desc": "Vaigai river infrastructure corridor."
+    },
+    {
+      "name": "Sathaiyar",
+      "lat": 9.93657562443618,
+      "lon": 78.12375371651724,
+      "type": "River Pollution",
+      "area": 0,
+      "confidence": 0.95,
+      "desc": "Vaigai river infrastructure corridor."
+    },
+    {
+      "name": "Vaigai",
+      "lat": 9.935966201616449,
+      "lon": 78.10676735106617,
+      "type": "River Pollution",
+      "area": 0,
+      "confidence": 0.95,
+      "desc": "Vaigai river infrastructure corridor."
+    },
+    {
+      "name": "Vaigai",
+      "lat": 9.887727124106654,
+      "lon": 78.18414751455835,
+      "type": "River Pollution",
+      "area": 0,
+      "confidence": 0.95,
+      "desc": "Vaigai river infrastructure corridor."
+    },
+    {
+      "name": "Sathaiyar",
+      "lat": 9.93657562443618,
+      "lon": 78.12375371651724,
+      "type": "River Pollution",
+      "area": 0,
+      "confidence": 0.95,
+      "desc": "Vaigai river infrastructure corridor."
+    },
+    {
+      "name": "Vaigai",
+      "lat": 9.935966201616449,
+      "lon": 78.10676735106617,
+      "type": "River Pollution",
+      "area": 0,
+      "confidence": 0.95,
+      "desc": "Vaigai river infrastructure corridor."
+    },
+    {
+      "name": "Vaigai",
+      "lat": 9.887727124106654,
+      "lon": 78.18414751455835,
+      "type": "River Pollution",
+      "area": 0,
+      "confidence": 0.95,
+      "desc": "Vaigai river infrastructure corridor."
+    }
+  ],
+  "dustbins": []
+}

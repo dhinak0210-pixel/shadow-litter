@@ -1,0 +1,134 @@
+// packages/database/prisma/schema.prisma
+// Single schema, multiple generators
+
+generator client {
+  provider = "prisma-client-js"
+  output   = "../node_modules/.prisma/client"
+}
+
+generator python {
+  provider = "prisma-client-py"
+  output   = "../prisma_python"
+  interface = "asyncio"
+  enable_experimental_decimal = true
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// Core tables
+model SatelliteScene {
+  id                String   @id
+  constellation     String
+  satelliteId       String
+  acquisitionTime   DateTime @db.Timestamptz(6)
+  cloudCover        Float
+  bbox              Json     // GeoJSON bbox: [minX, minY, maxX, maxY]
+  resolution        Int
+  sizeBytes         BigInt
+  status            String   @default("ARCHIVED")
+  bands             String[]
+  downloadUrl       String?
+  cogUrl            String?
+  
+  // Relations
+  detections        Detection[]
+  
+  @@index([acquisitionTime])
+  @@index([constellation, status])
+}
+
+model Detection {
+  id                String   @id @default(uuid())
+  sceneId           String
+  zoneId            String
+  geometry          Json     // GeoJSON Polygon
+  centerLat         Decimal  @db.Decimal(10, 8)
+  centerLon         Decimal  @db.Decimal(11, 8)
+  areaSqm           Float
+  confidence        Float
+  wasteType         String
+  growthRate        Float?
+  toxicityIndex     Float?
+  firstDetectedAt   DateTime @default(now())
+  lastVerifiedAt    DateTime?
+  status            String   @default("NEW")
+  modelVersion      String
+  processingPipeline String
+  municipalTicketId String?
+  alertSent         Boolean  @default(false)
+  groundPhotos      String[]
+  
+  // Relations
+  scene             SatelliteScene @relation(fields: [sceneId], references: [id])
+  zone              Zone @relation(fields: [zoneId], references: [id])
+  alerts            Alert[]
+  verifications     Verification[]
+  
+  @@index([zoneId, status])
+  @@index([centerLat, centerLon])
+  @@index([firstDetectedAt])
+}
+
+model Zone {
+  id                  String   @id
+  name                String
+  nameTamil           String
+  centerLat         Decimal  @db.Decimal(10, 8)
+  centerLon         Decimal  @db.Decimal(11, 8)
+  radiusM             Int
+  riskLevel           String
+  municipalWard       String
+  policeStation       String
+  estimatedPopulation Int
+  
+  // Relations
+  detections          Detection[]
+  
+  @@index([riskLevel])
+}
+
+model Alert {
+  id          String   @id @default(uuid())
+  detectionId String
+  type        String
+  priority    Int
+  sentAt      DateTime @default(now())
+  detection   Detection @relation(fields: [detectionId], references: [id])
+}
+
+model Verification {
+  id          String   @id @default(uuid())
+  detectionId String
+  verifiedBy  String
+  verifiedAt  DateTime @default(now())
+  status      String
+  notes       String?
+  detection   Detection @relation(fields: [detectionId], references: [id])
+}
+
+// Real-time events
+model StreamEvent {
+  id          String   @id @default(uuid())
+  type        String
+  timestamp   DateTime @default(now())
+  payload     Json
+  priority    Int
+  processed   Boolean  @default(false)
+  
+  @@index([timestamp, processed])
+}
+
+// Civic integration
+model MunicipalTicket {
+  id            String   @id
+  detectionId   String
+  createdAt     DateTime @default(now())
+  status        String   @default("OPEN")
+  department    String
+  assignedTo    String?
+  resolvedAt    DateTime?
+  resolutionNotes String?
+}

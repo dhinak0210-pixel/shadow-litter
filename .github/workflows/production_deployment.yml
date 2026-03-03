@@ -1,0 +1,60 @@
+"""
+.github/workflows/production_deployment.yml
+─────────────────────────────────────────────
+The High-Performance CI/CD Pipeline for Shadow Litter.
+Automated Infra + Automated Model Rollouts.
+"""
+
+name: Shadow Litter Production CD
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  infrastructure:
+    name: Provision Cloud Infrastructure
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Terraform
+        uses: hashicorp/setup-terraform@v3
+      - name: Terraform Init & Apply
+        run: |
+          cd infra/terraform/aws
+          terraform init
+          terraform apply -auto-approve
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+
+  deploy:
+    name: Deploy to EKS
+    needs: infrastructure
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: us-east-1
+
+      - name: Login to Amazon ECR
+        uses: aws-actions/amazon-ecr-login@v2
+        
+      - name: Build and Push Docker Images
+        run: |
+          docker build -t shadow-litter:latest .
+          docker tag shadow-litter:latest ${{ secrets.ECR_REGISTRY }}/shadow-litter:latest
+          docker push ${{ secrets.ECR_REGISTRY }}/shadow-litter:latest
+
+      - name: Helm Update & Deploy
+        run: |
+          aws eks update-kubeconfig --name shadow-litter-orbital
+          helm upgrade --install shadow-litter ./infra/kubernetes/helm \
+            --set image.repository=${{ secrets.ECR_REGISTRY }}/shadow-litter \
+            --set env.COPERNICUS_USER=${{ secrets.COPERNICUS_USER }} \
+            --set env.COPERNICUS_PASS=${{ secrets.COPERNICUS_PASS }}

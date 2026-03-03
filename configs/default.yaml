@@ -1,0 +1,21 @@
+# configurations for testing/development
+copernicus_user: "${COPERNICUS_USER}"
+copernicus_pass: "${COPERNICUS_PASS}"
+device: "cpu" # Set to 'cuda' if GPU is available
+model_weights: "weights/shadow_litter_v1.pth"
+database_path: "data/shadow_litter.db"
+
+zones:
+  Madurai_North:
+    coords:
+      n: 9.96
+      s: 9.92
+      e: 78.16
+      w: 78.12
+    radius: 5000 # Meters
+
+# Example integration endpoints (Leave blank for dev)
+corporation_webhook: "" 
+twilio_sid: ""
+twilio_token: ""
+dashboard_api: ""

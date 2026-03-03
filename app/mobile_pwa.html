@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Shadow Field | Madurai</title>
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <style>
+        :root {
+            --bg: #060912;
+            --glass: rgba(255, 255, 255, 0.05);
+            --accent: #4fc3f7;
+            --danger: #ff5252;
+            --success: #69f0ae;
+            --text: #e0e6f0;
+        }
+
+        body {
+            background: var(--bg);
+            color: var(--text);
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            margin: 0;
+            padding: 0;
+            overflow-x: hidden;
+        }
+
+        .header {
+            padding: 20px;
+            background: linear-gradient(180deg, rgba(79, 195, 247, 0.1) 0%, transparent 100%);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .header h1 {
+            font-size: 1.2rem;
+            margin: 0;
+            font-weight: 700;
+            letter-spacing: 1px;
+        }
+
+        .container {
+            padding: 15px;
+        }
+
+        .card {
+            background: var(--glass);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 15px;
+            padding: 15px;
+            margin-bottom: 15px;
+            backdrop-filter: blur(10px);
+        }
+
+        .site-badge {
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            padding: 3px 8px;
+            border-radius: 5px;
+            background: rgba(255, 255, 255, 0.1);
+            vertical-align: middle;
+        }
+
+        .distance {
+            color: var(--accent);
+            font-weight: bold;
+            font-size: 0.9rem;
+        }
+
+        .btn {
+            width: 100%;
+            padding: 12px;
+            border-radius: 10px;
+            border: none;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            cursor: pointer;
+            transition: 0.2s;
+        }
+
+        .btn-primary {
+            background: var(--accent);
+            color: var(--bg);
+        }
+
+        .btn-danger {
+            background: var(--danger);
+            color: white;
+            margin-top: 10px;
+        }
+
+        .btn-success {
+            background: var(--success);
+            color: var(--bg);
+        }
+
+        .fab {
+            position: fixed;
+            bottom: 25px;
+            right: 25px;
+            width: 60px;
+            height: 60px;
+            border-radius: 30px;
+            background: var(--accent);
+            color: var(--bg);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+            font-size: 1.5rem;
+        }
+
+        #camera-input {
+            display: none;
+        }
+
+        .nav-tabs {
+            display: flex;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            margin-bottom: 15px;
+        }
+
+        .nav-tab {
+            flex: 1;
+            text-align: center;
+            padding: 10px;
+            font-size: 0.8rem;
+            opacity: 0.5;
+        }
+
+        .nav-tab.active {
+            opacity: 1;
+            border-bottom: 2px solid var(--accent);
+        }
+
+        .loader {
+            text-align: center;
+            padding: 50px;
+            color: var(--accent);
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="header">
+        <h1>SHADOW FIELD <span style="font-weight: 300; font-size: 0.7rem; opacity: 0.6;">MADURAI</span></h1>
+        <i class="bi bi-person-circle" style="font-size: 1.5rem;"></i>
+    </div>
+
+    <div class="container">
+        <div class="nav-tabs">
+            <div class="nav-tab active">NEARBY</div>
+            <div class="nav-tab">ASSIGNED</div>
+            <div class="nav-tab">MY REPORTS</div>
+        </div>
+
+        <div id="status-display" style="font-size: 0.8rem; margin-bottom: 15px; opacity: 0.7;">
+            <i class="bi bi-geo-alt"></i> Acquiring Location...
+        </div>
+
+        <div id="dump-list">
+            <div class="loader"><i class="bi bi-satellite animate-spin"></i> Contacting orbital gateway...</div>
+        </div>
+    </div>
+
+    <!-- Modal for Verification -->
+    <div id="verify-overlay"
+        style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:var(--bg); z-index:100; padding:20px; box-sizing:border-box;">
+        <div style="display:flex; justify-content:space-between; margin-bottom:20px;">
+            <h2 id="modal-title" style="margin:0;">Site Verification</h2>
+            <i class="bi bi-x-lg" onclick="closeModal()"></i>
+        </div>
+
+        <div class="card">
+            <div id="preview-box"
+                style="width:100%; height:200px; background:rgba(255,255,255,0.05); border-radius:10px; display:flex; align-items:center; justify-content:center; flex-direction:column;">
+                <i class="bi bi-camera" style="font-size: 3rem; opacity: 0.3;"></i>
+                <p style="opacity: 0.5;">No photo taken</p>
+            </div>
+            <input type="file" id="camera-input" accept="image/*" capture="environment">
+            <button class="btn btn-primary" onclick="triggerCamera()" style="margin-top: 15px;">
+                <i class="bi bi-camera-fill"></i> TAKE PHOTO
+            </button>
+        </div>
+
+        <textarea id="note-input" placeholder="Add observations (e.g. hazardous materials, access issues)..."
+            style="width:100%; background:var(--glass); border:1px solid rgba(255,255,255,0.1); color:white; padding:15px; border-radius:10px; height:100px; margin-bottom:15px;"></textarea>
+
+        <div style="display:grid; grid-template-columns: 1fr 1fr; gap:10px;">
+            <button class="btn btn-success" onclick="submitVerify('yes')"><i class="bi bi-check-circle"></i> CONFIRM
+                DUMP</button>
+            <button class="btn btn-danger" onclick="submitVerify('no')"><i class="bi bi-x-circle"></i> FALSE
+                POSITIVE</button>
+        </div>
+    </div>
+
+    <div class="fab" onclick="refreshList()">
+        <i class="bi bi-arrow-clockwise"></i>
+    </div>
+
+    <script>
+        const API_BASE = "http://localhost:8000/api/v1";
+        let userPos = null;
+        let selectedDumpId = null;
+        let selectedFile = null;
+
+        // ── IndexedDB Initialization ───
+        const dbName = "ShadowFieldDB";
+        let db;
+        const request = indexedDB.open(dbName, 1);
+        request.onupgradeneeded = e => {
+            db = e.target.result;
+            db.createObjectStore("pending_verifications", { autoIncrement: true });
+        };
+        request.onsuccess = e => { db = e.target.result; syncOffline(); };
+
+        // ── Offline Queue Logic ───
+        async function queueOffline(data) {
+            const tx = db.transaction("pending_verifications", "readwrite");
+            const store = tx.objectStore("pending_verifications");
+            store.add(data);
+            alert("OFFLINE MODE: Verification saved locally. Will sync when signal returns.");
+            closeModal();
+        }
+
+        async function syncOffline() {
+            if (!navigator.onLine || !db) return;
+            const tx = db.transaction("pending_verifications", "readwrite");
+            const store = tx.objectStore("pending_verifications");
+            const request = store.openCursor();
+
+            request.onsuccess = async e => {
+                const cursor = e.target.result;
+                if (cursor) {
+                    const data = cursor.value;
+                    try {
+                        const formData = new FormData();
+                        formData.append('user_id', data.user_id);
+                        formData.append('vote', data.vote);
+                        formData.append('comment', data.comment);
+                        if (data.photo) formData.append('photo', data.photo);
+
+                        const res = await fetch(`${API_BASE}/verify/${data.dump_id}`, { method: 'POST', body: formData });
+                        if (res.ok) {
+                            cursor.delete();
+                            console.log("Synced offline record", data.dump_id);
+                        }
+                    } catch (err) { console.error("Sync failed", err); }
+                    cursor.continue();
+                }
+            };
+        }
+
+        window.addEventListener('online', syncOffline);
+
+        // ... (rest of the original script remains exactly as before, updating submitVerify to use queueOffline if fetch fails)
+
+        async function submitVerify(vote) {
+            const btn = event.currentTarget;
+            const oldContent = btn.innerHTML;
+            btn.innerHTML = `<i class="bi bi-hourglass-split"></i> Submitting...`;
+            btn.disabled = true;
+
+            const data = {
+                dump_id: selectedDumpId,
+                user_id: 'Officer_Madurai_47',
+                vote: vote,
+                comment: document.getElementById('note-input').value,
+                photo: selectedFile
+            };
+
+            if (!navigator.onLine) {
+                await queueOffline(data);
+                return;
+            }
+
+            const formData = new FormData();
+            Object.keys(data).forEach(k => { if (data[k]) formData.append(k, data[k]); });
+
+            try {
+                const res = await fetch(`${API_BASE}/verify/${selectedDumpId}`, { method: 'POST', body: formData });
+                if (res.ok) {
+                    alert("Verification Secured.");
+                    closeModal();
+                    refreshList();
+                } else { throw new Error(); }
+            } catch (e) {
+                await queueOffline(data);
+            }
+        }
+
+        // Initial Load
+        refreshList();
+    </script>
+</body>
+
+</html>

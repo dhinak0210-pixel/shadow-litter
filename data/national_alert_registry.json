@@ -1,0 +1,4311 @@
+[
+  {
+    "id": "IND-DET-89927",
+    "state": "Karnataka",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Karnataka SPCB",
+      "Karnataka District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743095",
+    "response_deadline": "2026-03-03T14:09:40.743111",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-43733",
+    "state": "Chandigarh",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Chandigarh SPCB",
+      "Chandigarh District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743133",
+    "response_deadline": "2026-03-03T14:09:40.743137",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-43248",
+    "state": "Himachal Pradesh",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Himachal Pradesh SPCB",
+      "Himachal Pradesh District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743155",
+    "response_deadline": "2026-03-03T14:09:40.743159",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-46554",
+    "state": "Arunachal Pradesh",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "HIGH",
+    "stakeholders": [
+      "Arunachal Pradesh SPCB",
+      "Arunachal Pradesh District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743174",
+    "response_deadline": "2026-03-03T14:09:40.743176",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-66187",
+    "state": "Bihar",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "MEDIUM",
+    "stakeholders": [
+      "Bihar SPCB",
+      "Bihar District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743187",
+    "response_deadline": "2026-03-03T14:09:40.743190",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-83163",
+    "state": "Bihar",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "LOW",
+    "stakeholders": [
+      "Bihar SPCB",
+      "Bihar District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743200",
+    "response_deadline": "2026-03-03T14:09:40.743203",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-71342",
+    "state": "Maharashtra",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Maharashtra SPCB",
+      "Maharashtra District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743213",
+    "response_deadline": "2026-03-03T14:09:40.743216",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-17560",
+    "state": "Delhi",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Delhi SPCB",
+      "Delhi District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743231",
+    "response_deadline": "2026-03-03T14:09:40.743233",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-70005",
+    "state": "Kerala",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Kerala SPCB",
+      "Kerala District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743246",
+    "response_deadline": "2026-03-03T14:09:40.743248",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-37635",
+    "state": "Ladakh",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "LOW",
+    "stakeholders": [
+      "Ladakh SPCB",
+      "Ladakh District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743261",
+    "response_deadline": "2026-03-03T14:09:40.743264",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-39408",
+    "state": "Manipur",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Manipur SPCB",
+      "Manipur District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743274",
+    "response_deadline": "2026-03-03T14:09:40.743277",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-23002",
+    "state": "Tripura",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Tripura SPCB",
+      "Tripura District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743286",
+    "response_deadline": "2026-03-03T14:09:40.743289",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-17624",
+    "state": "Lakshadweep",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Lakshadweep SPCB",
+      "Lakshadweep District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743303",
+    "response_deadline": "2026-03-03T14:09:40.743307",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-27821",
+    "state": "Odisha",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "MEDIUM",
+    "stakeholders": [
+      "Odisha SPCB",
+      "Odisha District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743318",
+    "response_deadline": "2026-03-03T14:09:40.743321",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-26333",
+    "state": "Kerala",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "MEDIUM",
+    "stakeholders": [
+      "Kerala SPCB",
+      "Kerala District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743331",
+    "response_deadline": "2026-03-03T14:09:40.743335",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-93773",
+    "state": "Arunachal Pradesh",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "HIGH",
+    "stakeholders": [
+      "Arunachal Pradesh SPCB",
+      "Arunachal Pradesh District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743349",
+    "response_deadline": "2026-03-03T14:09:40.743353",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-31216",
+    "state": "Haryana",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "MEDIUM",
+    "stakeholders": [
+      "Haryana SPCB",
+      "Haryana District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743369",
+    "response_deadline": "2026-03-03T14:09:40.743373",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-71197",
+    "state": "Telangana",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Telangana SPCB",
+      "Telangana District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743387",
+    "response_deadline": "2026-03-03T14:09:40.743391",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-82005",
+    "state": "Uttarakhand",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Uttarakhand SPCB",
+      "Uttarakhand District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743406",
+    "response_deadline": "2026-03-03T14:09:40.743410",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-61651",
+    "state": "Gujarat",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Gujarat SPCB",
+      "Gujarat District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743422",
+    "response_deadline": "2026-03-03T14:09:40.743425",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-57432",
+    "state": "Telangana",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Telangana SPCB",
+      "Telangana District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743440",
+    "response_deadline": "2026-03-03T14:09:40.743444",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-85685",
+    "state": "Mizoram",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Mizoram SPCB",
+      "Mizoram District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743456",
+    "response_deadline": "2026-03-03T14:09:40.743459",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-53420",
+    "state": "Rajasthan",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Rajasthan SPCB",
+      "Rajasthan District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743485",
+    "response_deadline": "2026-03-03T14:09:40.743489",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-89167",
+    "state": "Maharashtra",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Maharashtra SPCB",
+      "Maharashtra District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743504",
+    "response_deadline": "2026-03-03T14:09:40.743507",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-15980",
+    "state": "Chandigarh",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Chandigarh SPCB",
+      "Chandigarh District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743520",
+    "response_deadline": "2026-03-03T14:09:40.743522",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-49484",
+    "state": "Assam",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Assam SPCB",
+      "Assam District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743533",
+    "response_deadline": "2026-03-03T14:09:40.743537",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-81553",
+    "state": "Odisha",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Odisha SPCB",
+      "Odisha District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743547",
+    "response_deadline": "2026-03-03T14:09:40.743549",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-61725",
+    "state": "Karnataka",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "MEDIUM",
+    "stakeholders": [
+      "Karnataka SPCB",
+      "Karnataka District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743558",
+    "response_deadline": "2026-03-03T14:09:40.743560",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-59957",
+    "state": "Sikkim",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "MEDIUM",
+    "stakeholders": [
+      "Sikkim SPCB",
+      "Sikkim District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743583",
+    "response_deadline": "2026-03-03T14:09:40.743587",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-73338",
+    "state": "Chandigarh",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "LOW",
+    "stakeholders": [
+      "Chandigarh SPCB",
+      "Chandigarh District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743596",
+    "response_deadline": "2026-03-03T14:09:40.743599",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-54815",
+    "state": "Kerala",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Kerala SPCB",
+      "Kerala District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743609",
+    "response_deadline": "2026-03-03T14:09:40.743611",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-72759",
+    "state": "Tamil Nadu",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Tamil Nadu SPCB",
+      "Tamil Nadu District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743621",
+    "response_deadline": "2026-03-03T14:09:40.743625",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-88267",
+    "state": "Kerala",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Kerala SPCB",
+      "Kerala District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743636",
+    "response_deadline": "2026-03-03T14:09:40.743640",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-21464",
+    "state": "Jammu and Kashmir",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Jammu and Kashmir SPCB",
+      "Jammu and Kashmir District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743653",
+    "response_deadline": "2026-03-03T14:09:40.743655",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-72405",
+    "state": "Gujarat",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Gujarat SPCB",
+      "Gujarat District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743665",
+    "response_deadline": "2026-03-03T14:09:40.743667",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-58555",
+    "state": "West Bengal",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "West Bengal SPCB",
+      "West Bengal District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743677",
+    "response_deadline": "2026-03-03T14:09:40.743679",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-65261",
+    "state": "Manipur",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Manipur SPCB",
+      "Manipur District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743691",
+    "response_deadline": "2026-03-03T14:09:40.743694",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-64811",
+    "state": "Telangana",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Telangana SPCB",
+      "Telangana District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743706",
+    "response_deadline": "2026-03-03T14:09:40.743708",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-72636",
+    "state": "Himachal Pradesh",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Himachal Pradesh SPCB",
+      "Himachal Pradesh District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743723",
+    "response_deadline": "2026-03-03T14:09:40.743726",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-83111",
+    "state": "Andaman and Nicobar Islands",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Andaman and Nicobar Islands SPCB",
+      "Andaman and Nicobar Islands District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743736",
+    "response_deadline": "2026-03-03T14:09:40.743739",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-28548",
+    "state": "Sikkim",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Sikkim SPCB",
+      "Sikkim District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743753",
+    "response_deadline": "2026-03-03T14:09:40.743756",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-23909",
+    "state": "Arunachal Pradesh",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Arunachal Pradesh SPCB",
+      "Arunachal Pradesh District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743766",
+    "response_deadline": "2026-03-03T14:09:40.743768",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-92866",
+    "state": "Chandigarh",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Chandigarh SPCB",
+      "Chandigarh District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743778",
+    "response_deadline": "2026-03-03T14:09:40.743783",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-28630",
+    "state": "Maharashtra",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "MEDIUM",
+    "stakeholders": [
+      "Maharashtra SPCB",
+      "Maharashtra District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743797",
+    "response_deadline": "2026-03-03T14:09:40.743800",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-92245",
+    "state": "Gujarat",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "LOW",
+    "stakeholders": [
+      "Gujarat SPCB",
+      "Gujarat District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743820",
+    "response_deadline": "2026-03-03T14:09:40.743822",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-43179",
+    "state": "Maharashtra",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Maharashtra SPCB",
+      "Maharashtra District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743832",
+    "response_deadline": "2026-03-03T14:09:40.743835",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-48410",
+    "state": "Chandigarh",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Chandigarh SPCB",
+      "Chandigarh District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743844",
+    "response_deadline": "2026-03-03T14:09:40.743846",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-14474",
+    "state": "Jharkhand",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Jharkhand SPCB",
+      "Jharkhand District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743858",
+    "response_deadline": "2026-03-03T14:09:40.743862",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-77716",
+    "state": "Sikkim",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Sikkim SPCB",
+      "Sikkim District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743876",
+    "response_deadline": "2026-03-03T14:09:40.743879",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-84403",
+    "state": "Goa",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "MEDIUM",
+    "stakeholders": [
+      "Goa SPCB",
+      "Goa District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743887",
+    "response_deadline": "2026-03-03T14:09:40.743890",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-88290",
+    "state": "Gujarat",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "LOW",
+    "stakeholders": [
+      "Gujarat SPCB",
+      "Gujarat District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743900",
+    "response_deadline": "2026-03-03T14:09:40.743903",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-64431",
+    "state": "Jharkhand",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "LOW",
+    "stakeholders": [
+      "Jharkhand SPCB",
+      "Jharkhand District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743916",
+    "response_deadline": "2026-03-03T14:09:40.743919",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-97954",
+    "state": "Andaman and Nicobar Islands",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "MEDIUM",
+    "stakeholders": [
+      "Andaman and Nicobar Islands SPCB",
+      "Andaman and Nicobar Islands District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743931",
+    "response_deadline": "2026-03-03T14:09:40.743933",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-12142",
+    "state": "Gujarat",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Gujarat SPCB",
+      "Gujarat District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743942",
+    "response_deadline": "2026-03-03T14:09:40.743945",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-25073",
+    "state": "Assam",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Assam SPCB",
+      "Assam District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743959",
+    "response_deadline": "2026-03-03T14:09:40.743963",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-84053",
+    "state": "Mizoram",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Mizoram SPCB",
+      "Mizoram District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743973",
+    "response_deadline": "2026-03-03T14:09:40.743975",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-38346",
+    "state": "Puducherry",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Puducherry SPCB",
+      "Puducherry District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.743984",
+    "response_deadline": "2026-03-03T14:09:40.743986",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-21714",
+    "state": "Karnataka",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Karnataka SPCB",
+      "Karnataka District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744000",
+    "response_deadline": "2026-03-03T14:09:40.744003",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-65085",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "MEDIUM",
+    "stakeholders": [
+      "Dadra and Nagar Haveli and Daman and Diu SPCB",
+      "Dadra and Nagar Haveli and Daman and Diu District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744016",
+    "response_deadline": "2026-03-03T14:09:40.744018",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-79751",
+    "state": "Andhra Pradesh",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Andhra Pradesh SPCB",
+      "Andhra Pradesh District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744027",
+    "response_deadline": "2026-03-03T14:09:40.744030",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-98014",
+    "state": "Telangana",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Telangana SPCB",
+      "Telangana District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744046",
+    "response_deadline": "2026-03-03T14:09:40.744050",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-64336",
+    "state": "Karnataka",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Karnataka SPCB",
+      "Karnataka District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744060",
+    "response_deadline": "2026-03-03T14:09:40.744063",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-87228",
+    "state": "Rajasthan",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Rajasthan SPCB",
+      "Rajasthan District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744072",
+    "response_deadline": "2026-03-03T14:09:40.744074",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-39131",
+    "state": "Haryana",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Haryana SPCB",
+      "Haryana District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744084",
+    "response_deadline": "2026-03-03T14:09:40.744088",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-85878",
+    "state": "Himachal Pradesh",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Himachal Pradesh SPCB",
+      "Himachal Pradesh District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744100",
+    "response_deadline": "2026-03-03T14:09:40.744103",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-57161",
+    "state": "Manipur",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Manipur SPCB",
+      "Manipur District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744112",
+    "response_deadline": "2026-03-03T14:09:40.744114",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-39549",
+    "state": "Andhra Pradesh",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "MEDIUM",
+    "stakeholders": [
+      "Andhra Pradesh SPCB",
+      "Andhra Pradesh District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744124",
+    "response_deadline": "2026-03-03T14:09:40.744126",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-24837",
+    "state": "Assam",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Assam SPCB",
+      "Assam District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744136",
+    "response_deadline": "2026-03-03T14:09:40.744140",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-25599",
+    "state": "Karnataka",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Karnataka SPCB",
+      "Karnataka District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744158",
+    "response_deadline": "2026-03-03T14:09:40.744161",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-62348",
+    "state": "Goa",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "LOW",
+    "stakeholders": [
+      "Goa SPCB",
+      "Goa District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744171",
+    "response_deadline": "2026-03-03T14:09:40.744173",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-39567",
+    "state": "Himachal Pradesh",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Himachal Pradesh SPCB",
+      "Himachal Pradesh District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744183",
+    "response_deadline": "2026-03-03T14:09:40.744186",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-98508",
+    "state": "Jharkhand",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "LOW",
+    "stakeholders": [
+      "Jharkhand SPCB",
+      "Jharkhand District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744201",
+    "response_deadline": "2026-03-03T14:09:40.744204",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-56071",
+    "state": "Telangana",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Telangana SPCB",
+      "Telangana District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744216",
+    "response_deadline": "2026-03-03T14:09:40.744220",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-94164",
+    "state": "Chandigarh",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Chandigarh SPCB",
+      "Chandigarh District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744232",
+    "response_deadline": "2026-03-03T14:09:40.744234",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-26290",
+    "state": "Delhi",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "LOW",
+    "stakeholders": [
+      "Delhi SPCB",
+      "Delhi District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744248",
+    "response_deadline": "2026-03-03T14:09:40.744251",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-10382",
+    "state": "Telangana",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "MEDIUM",
+    "stakeholders": [
+      "Telangana SPCB",
+      "Telangana District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744261",
+    "response_deadline": "2026-03-03T14:09:40.744264",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-87527",
+    "state": "Telangana",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Telangana SPCB",
+      "Telangana District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744274",
+    "response_deadline": "2026-03-03T14:09:40.744276",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-39899",
+    "state": "Telangana",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "LOW",
+    "stakeholders": [
+      "Telangana SPCB",
+      "Telangana District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744287",
+    "response_deadline": "2026-03-03T14:09:40.744290",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-45924",
+    "state": "Puducherry",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Puducherry SPCB",
+      "Puducherry District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744308",
+    "response_deadline": "2026-03-03T14:09:40.744311",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-39552",
+    "state": "Gujarat",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "LOW",
+    "stakeholders": [
+      "Gujarat SPCB",
+      "Gujarat District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744319",
+    "response_deadline": "2026-03-03T14:09:40.744322",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-27539",
+    "state": "Manipur",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Manipur SPCB",
+      "Manipur District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744331",
+    "response_deadline": "2026-03-03T14:09:40.744333",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-17497",
+    "state": "Delhi",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Delhi SPCB",
+      "Delhi District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744347",
+    "response_deadline": "2026-03-03T14:09:40.744351",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-39610",
+    "state": "Arunachal Pradesh",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Arunachal Pradesh SPCB",
+      "Arunachal Pradesh District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744362",
+    "response_deadline": "2026-03-03T14:09:40.744365",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-51738",
+    "state": "Puducherry",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "CRITICAL",
+    "stakeholders": [
+      "Puducherry SPCB",
+      "Puducherry District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744385",
+    "response_deadline": "2026-03-03T14:09:40.744388",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-56557",
+    "state": "Kerala",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "CRITICAL",
+    "stakeholders": [
+      "Kerala SPCB",
+      "Kerala District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744402",
+    "response_deadline": "2026-03-03T14:09:40.744406",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-26964",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Dadra and Nagar Haveli and Daman and Diu SPCB",
+      "Dadra and Nagar Haveli and Daman and Diu District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744419",
+    "response_deadline": "2026-03-03T14:09:40.744422",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-62399",
+    "state": "Jammu and Kashmir",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "LOW",
+    "stakeholders": [
+      "Jammu and Kashmir SPCB",
+      "Jammu and Kashmir District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744437",
+    "response_deadline": "2026-03-03T14:09:40.744440",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-63792",
+    "state": "Meghalaya",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "CRITICAL",
+    "stakeholders": [
+      "Meghalaya SPCB",
+      "Meghalaya District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744455",
+    "response_deadline": "2026-03-03T14:09:40.744458",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-82825",
+    "state": "Andaman and Nicobar Islands",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "CRITICAL",
+    "stakeholders": [
+      "Andaman and Nicobar Islands SPCB",
+      "Andaman and Nicobar Islands District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744487",
+    "response_deadline": "2026-03-03T14:09:40.744491",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-37391",
+    "state": "Himachal Pradesh",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "CRITICAL",
+    "stakeholders": [
+      "Himachal Pradesh SPCB",
+      "Himachal Pradesh District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744505",
+    "response_deadline": "2026-03-03T14:09:40.744508",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-16243",
+    "state": "Chhattisgarh",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Chhattisgarh SPCB",
+      "Chhattisgarh District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744525",
+    "response_deadline": "2026-03-03T14:09:40.744528",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-59429",
+    "state": "Lakshadweep",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Lakshadweep SPCB",
+      "Lakshadweep District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744545",
+    "response_deadline": "2026-03-03T14:09:40.744549",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-80209",
+    "state": "Puducherry",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Puducherry SPCB",
+      "Puducherry District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744563",
+    "response_deadline": "2026-03-03T14:09:40.744566",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-28829",
+    "state": "Telangana",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Telangana SPCB",
+      "Telangana District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744577",
+    "response_deadline": "2026-03-03T14:09:40.744580",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-68478",
+    "state": "Andhra Pradesh",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Andhra Pradesh SPCB",
+      "Andhra Pradesh District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744593",
+    "response_deadline": "2026-03-03T14:09:40.744597",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-45910",
+    "state": "Lakshadweep",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Lakshadweep SPCB",
+      "Lakshadweep District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744609",
+    "response_deadline": "2026-03-03T14:09:40.744612",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-23576",
+    "state": "Gujarat",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "LOW",
+    "stakeholders": [
+      "Gujarat SPCB",
+      "Gujarat District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744622",
+    "response_deadline": "2026-03-03T14:09:40.744624",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-29621",
+    "state": "Kerala",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Kerala SPCB",
+      "Kerala District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744633",
+    "response_deadline": "2026-03-03T14:09:40.744635",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-99443",
+    "state": "Madhya Pradesh",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "HIGH",
+    "stakeholders": [
+      "Madhya Pradesh SPCB",
+      "Madhya Pradesh District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744648",
+    "response_deadline": "2026-03-03T14:09:40.744651",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-87668",
+    "state": "Assam",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Assam SPCB",
+      "Assam District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744660",
+    "response_deadline": "2026-03-03T14:09:40.744662",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-53628",
+    "state": "Arunachal Pradesh",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Arunachal Pradesh SPCB",
+      "Arunachal Pradesh District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744671",
+    "response_deadline": "2026-03-03T14:09:40.744673",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-73403",
+    "state": "Puducherry",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Puducherry SPCB",
+      "Puducherry District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744682",
+    "response_deadline": "2026-03-03T14:09:40.744685",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-45135",
+    "state": "Jharkhand",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Jharkhand SPCB",
+      "Jharkhand District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744693",
+    "response_deadline": "2026-03-03T14:09:40.744695",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-93319",
+    "state": "Andhra Pradesh",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Andhra Pradesh SPCB",
+      "Andhra Pradesh District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744705",
+    "response_deadline": "2026-03-03T14:09:40.744707",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-59930",
+    "state": "Tripura",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Tripura SPCB",
+      "Tripura District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744717",
+    "response_deadline": "2026-03-03T14:09:40.744719",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-50597",
+    "state": "Gujarat",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "LOW",
+    "stakeholders": [
+      "Gujarat SPCB",
+      "Gujarat District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744729",
+    "response_deadline": "2026-03-03T14:09:40.744731",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-34461",
+    "state": "Tripura",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "MEDIUM",
+    "stakeholders": [
+      "Tripura SPCB",
+      "Tripura District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744741",
+    "response_deadline": "2026-03-03T14:09:40.744744",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-87416",
+    "state": "Gujarat",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "LOW",
+    "stakeholders": [
+      "Gujarat SPCB",
+      "Gujarat District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744753",
+    "response_deadline": "2026-03-03T14:09:40.744756",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-70351",
+    "state": "Odisha",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Odisha SPCB",
+      "Odisha District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744768",
+    "response_deadline": "2026-03-03T14:09:40.744771",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-67719",
+    "state": "Uttarakhand",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "LOW",
+    "stakeholders": [
+      "Uttarakhand SPCB",
+      "Uttarakhand District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744780",
+    "response_deadline": "2026-03-03T14:09:40.744782",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-67233",
+    "state": "Sikkim",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Sikkim SPCB",
+      "Sikkim District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744794",
+    "response_deadline": "2026-03-03T14:09:40.744797",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-81822",
+    "state": "Bihar",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Bihar SPCB",
+      "Bihar District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744805",
+    "response_deadline": "2026-03-03T14:09:40.744808",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-49911",
+    "state": "Haryana",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Haryana SPCB",
+      "Haryana District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744820",
+    "response_deadline": "2026-03-03T14:09:40.744824",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-19522",
+    "state": "Lakshadweep",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Lakshadweep SPCB",
+      "Lakshadweep District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744835",
+    "response_deadline": "2026-03-03T14:09:40.744837",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-50877",
+    "state": "Haryana",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Haryana SPCB",
+      "Haryana District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744846",
+    "response_deadline": "2026-03-03T14:09:40.744849",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-35977",
+    "state": "Jharkhand",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Jharkhand SPCB",
+      "Jharkhand District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744857",
+    "response_deadline": "2026-03-03T14:09:40.744860",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-32200",
+    "state": "Manipur",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "LOW",
+    "stakeholders": [
+      "Manipur SPCB",
+      "Manipur District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744869",
+    "response_deadline": "2026-03-03T14:09:40.744871",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-97659",
+    "state": "Kerala",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Kerala SPCB",
+      "Kerala District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744881",
+    "response_deadline": "2026-03-03T14:09:40.744884",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-17251",
+    "state": "Haryana",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Haryana SPCB",
+      "Haryana District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744896",
+    "response_deadline": "2026-03-03T14:09:40.744898",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-76086",
+    "state": "Jharkhand",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Jharkhand SPCB",
+      "Jharkhand District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744907",
+    "response_deadline": "2026-03-03T14:09:40.744910",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-72371",
+    "state": "Uttar Pradesh",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Uttar Pradesh SPCB",
+      "Uttar Pradesh District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744920",
+    "response_deadline": "2026-03-03T14:09:40.744922",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-51037",
+    "state": "Arunachal Pradesh",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "LOW",
+    "stakeholders": [
+      "Arunachal Pradesh SPCB",
+      "Arunachal Pradesh District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744931",
+    "response_deadline": "2026-03-03T14:09:40.744934",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-37893",
+    "state": "Assam",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Assam SPCB",
+      "Assam District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744943",
+    "response_deadline": "2026-03-03T14:09:40.744946",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-94818",
+    "state": "Sikkim",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Sikkim SPCB",
+      "Sikkim District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744954",
+    "response_deadline": "2026-03-03T14:09:40.744957",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-48053",
+    "state": "Mizoram",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Mizoram SPCB",
+      "Mizoram District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744966",
+    "response_deadline": "2026-03-03T14:09:40.744969",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-69958",
+    "state": "Haryana",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Haryana SPCB",
+      "Haryana District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744977",
+    "response_deadline": "2026-03-03T14:09:40.744980",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-49540",
+    "state": "West Bengal",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "West Bengal SPCB",
+      "West Bengal District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.744989",
+    "response_deadline": "2026-03-03T14:09:40.744991",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-64772",
+    "state": "Bihar",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Bihar SPCB",
+      "Bihar District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745001",
+    "response_deadline": "2026-03-03T14:09:40.745004",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-39687",
+    "state": "Tamil Nadu",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Tamil Nadu SPCB",
+      "Tamil Nadu District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745021",
+    "response_deadline": "2026-03-03T14:09:40.745023",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-56903",
+    "state": "Rajasthan",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Rajasthan SPCB",
+      "Rajasthan District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745034",
+    "response_deadline": "2026-03-03T14:09:40.745036",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-17114",
+    "state": "Gujarat",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Gujarat SPCB",
+      "Gujarat District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745046",
+    "response_deadline": "2026-03-03T14:09:40.745049",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-38248",
+    "state": "Uttarakhand",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "LOW",
+    "stakeholders": [
+      "Uttarakhand SPCB",
+      "Uttarakhand District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745058",
+    "response_deadline": "2026-03-03T14:09:40.745060",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-71021",
+    "state": "Madhya Pradesh",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Madhya Pradesh SPCB",
+      "Madhya Pradesh District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745069",
+    "response_deadline": "2026-03-03T14:09:40.745071",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-94948",
+    "state": "Chandigarh",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Chandigarh SPCB",
+      "Chandigarh District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745081",
+    "response_deadline": "2026-03-03T14:09:40.745083",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-87850",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Dadra and Nagar Haveli and Daman and Diu SPCB",
+      "Dadra and Nagar Haveli and Daman and Diu District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745092",
+    "response_deadline": "2026-03-03T14:09:40.745095",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-88412",
+    "state": "Uttarakhand",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Uttarakhand SPCB",
+      "Uttarakhand District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745105",
+    "response_deadline": "2026-03-03T14:09:40.745108",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-23802",
+    "state": "Jharkhand",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Jharkhand SPCB",
+      "Jharkhand District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745116",
+    "response_deadline": "2026-03-03T14:09:40.745119",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-60814",
+    "state": "Andaman and Nicobar Islands",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "MEDIUM",
+    "stakeholders": [
+      "Andaman and Nicobar Islands SPCB",
+      "Andaman and Nicobar Islands District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745128",
+    "response_deadline": "2026-03-03T14:09:40.745130",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-97745",
+    "state": "Uttarakhand",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "HIGH",
+    "stakeholders": [
+      "Uttarakhand SPCB",
+      "Uttarakhand District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745142",
+    "response_deadline": "2026-03-03T14:09:40.745145",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-51671",
+    "state": "Ladakh",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Ladakh SPCB",
+      "Ladakh District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745154",
+    "response_deadline": "2026-03-03T14:09:40.745157",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-79163",
+    "state": "Andaman and Nicobar Islands",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Andaman and Nicobar Islands SPCB",
+      "Andaman and Nicobar Islands District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745166",
+    "response_deadline": "2026-03-03T14:09:40.745169",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-93480",
+    "state": "Lakshadweep",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Lakshadweep SPCB",
+      "Lakshadweep District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745178",
+    "response_deadline": "2026-03-03T14:09:40.745181",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-22282",
+    "state": "Odisha",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Odisha SPCB",
+      "Odisha District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745190",
+    "response_deadline": "2026-03-03T14:09:40.745192",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-72358",
+    "state": "Punjab",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Punjab SPCB",
+      "Punjab District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745201",
+    "response_deadline": "2026-03-03T14:09:40.745204",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-83665",
+    "state": "Kerala",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Kerala SPCB",
+      "Kerala District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745216",
+    "response_deadline": "2026-03-03T14:09:40.745218",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-69345",
+    "state": "Bihar",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Bihar SPCB",
+      "Bihar District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745228",
+    "response_deadline": "2026-03-03T14:09:40.745230",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-55823",
+    "state": "Kerala",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "MEDIUM",
+    "stakeholders": [
+      "Kerala SPCB",
+      "Kerala District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745240",
+    "response_deadline": "2026-03-03T14:09:40.745245",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-45390",
+    "state": "Ladakh",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Ladakh SPCB",
+      "Ladakh District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745255",
+    "response_deadline": "2026-03-03T14:09:40.745257",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-93958",
+    "state": "Manipur",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Manipur SPCB",
+      "Manipur District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745269",
+    "response_deadline": "2026-03-03T14:09:40.745272",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-81853",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "LOW",
+    "stakeholders": [
+      "Dadra and Nagar Haveli and Daman and Diu SPCB",
+      "Dadra and Nagar Haveli and Daman and Diu District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745282",
+    "response_deadline": "2026-03-03T14:09:40.745284",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-57094",
+    "state": "Andaman and Nicobar Islands",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "MEDIUM",
+    "stakeholders": [
+      "Andaman and Nicobar Islands SPCB",
+      "Andaman and Nicobar Islands District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745294",
+    "response_deadline": "2026-03-03T14:09:40.745296",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-20469",
+    "state": "Punjab",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Punjab SPCB",
+      "Punjab District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745305",
+    "response_deadline": "2026-03-03T14:09:40.745308",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-51941",
+    "state": "Nagaland",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Nagaland SPCB",
+      "Nagaland District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745317",
+    "response_deadline": "2026-03-03T14:09:40.745319",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-54444",
+    "state": "Punjab",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Punjab SPCB",
+      "Punjab District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745329",
+    "response_deadline": "2026-03-03T14:09:40.745331",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-19264",
+    "state": "Puducherry",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "LOW",
+    "stakeholders": [
+      "Puducherry SPCB",
+      "Puducherry District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745343",
+    "response_deadline": "2026-03-03T14:09:40.745347",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-11355",
+    "state": "Goa",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Goa SPCB",
+      "Goa District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745355",
+    "response_deadline": "2026-03-03T14:09:40.745358",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-65784",
+    "state": "Meghalaya",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Meghalaya SPCB",
+      "Meghalaya District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745366",
+    "response_deadline": "2026-03-03T14:09:40.745369",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-33067",
+    "state": "Chandigarh",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Chandigarh SPCB",
+      "Chandigarh District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745378",
+    "response_deadline": "2026-03-03T14:09:40.745381",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-91483",
+    "state": "Chandigarh",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Chandigarh SPCB",
+      "Chandigarh District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745392",
+    "response_deadline": "2026-03-03T14:09:40.745394",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-59724",
+    "state": "Delhi",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "MEDIUM",
+    "stakeholders": [
+      "Delhi SPCB",
+      "Delhi District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745404",
+    "response_deadline": "2026-03-03T14:09:40.745406",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-28930",
+    "state": "Puducherry",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "MEDIUM",
+    "stakeholders": [
+      "Puducherry SPCB",
+      "Puducherry District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745418",
+    "response_deadline": "2026-03-03T14:09:40.745421",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-16850",
+    "state": "Delhi",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "LOW",
+    "stakeholders": [
+      "Delhi SPCB",
+      "Delhi District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745432",
+    "response_deadline": "2026-03-03T14:09:40.745435",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-55654",
+    "state": "Maharashtra",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Maharashtra SPCB",
+      "Maharashtra District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745444",
+    "response_deadline": "2026-03-03T14:09:40.745446",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-23813",
+    "state": "Andhra Pradesh",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "HIGH",
+    "stakeholders": [
+      "Andhra Pradesh SPCB",
+      "Andhra Pradesh District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745455",
+    "response_deadline": "2026-03-03T14:09:40.745458",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-96034",
+    "state": "West Bengal",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "LOW",
+    "stakeholders": [
+      "West Bengal SPCB",
+      "West Bengal District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745485",
+    "response_deadline": "2026-03-03T14:09:40.745488",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-57807",
+    "state": "Himachal Pradesh",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Himachal Pradesh SPCB",
+      "Himachal Pradesh District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745499",
+    "response_deadline": "2026-03-03T14:09:40.745502",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-27893",
+    "state": "Uttar Pradesh",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Uttar Pradesh SPCB",
+      "Uttar Pradesh District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745517",
+    "response_deadline": "2026-03-03T14:09:40.745521",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-62197",
+    "state": "Bihar",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "LOW",
+    "stakeholders": [
+      "Bihar SPCB",
+      "Bihar District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745534",
+    "response_deadline": "2026-03-03T14:09:40.745538",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-58251",
+    "state": "Tamil Nadu",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "CRITICAL",
+    "stakeholders": [
+      "Tamil Nadu SPCB",
+      "Tamil Nadu District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745551",
+    "response_deadline": "2026-03-03T14:09:40.745554",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-96276",
+    "state": "Jharkhand",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "CRITICAL",
+    "stakeholders": [
+      "Jharkhand SPCB",
+      "Jharkhand District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745565",
+    "response_deadline": "2026-03-03T14:09:40.745569",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-60430",
+    "state": "Gujarat",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "CRITICAL",
+    "stakeholders": [
+      "Gujarat SPCB",
+      "Gujarat District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745582",
+    "response_deadline": "2026-03-03T14:09:40.745585",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-24973",
+    "state": "Lakshadweep",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "HIGH",
+    "stakeholders": [
+      "Lakshadweep SPCB",
+      "Lakshadweep District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745594",
+    "response_deadline": "2026-03-03T14:09:40.745597",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-14866",
+    "state": "Arunachal Pradesh",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Arunachal Pradesh SPCB",
+      "Arunachal Pradesh District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745606",
+    "response_deadline": "2026-03-03T14:09:40.745609",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-68641",
+    "state": "Rajasthan",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Rajasthan SPCB",
+      "Rajasthan District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745623",
+    "response_deadline": "2026-03-03T14:09:40.745628",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-13789",
+    "state": "Tamil Nadu",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Tamil Nadu SPCB",
+      "Tamil Nadu District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745644",
+    "response_deadline": "2026-03-03T14:09:40.745647",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-22813",
+    "state": "Goa",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Goa SPCB",
+      "Goa District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745657",
+    "response_deadline": "2026-03-03T14:09:40.745659",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-29799",
+    "state": "Kerala",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Kerala SPCB",
+      "Kerala District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745673",
+    "response_deadline": "2026-03-03T14:09:40.745677",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-71294",
+    "state": "Meghalaya",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Meghalaya SPCB",
+      "Meghalaya District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745686",
+    "response_deadline": "2026-03-03T14:09:40.745689",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-29693",
+    "state": "Nagaland",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Nagaland SPCB",
+      "Nagaland District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745703",
+    "response_deadline": "2026-03-03T14:09:40.745705",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-77402",
+    "state": "Meghalaya",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Meghalaya SPCB",
+      "Meghalaya District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745719",
+    "response_deadline": "2026-03-03T14:09:40.745723",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-84807",
+    "state": "Odisha",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Odisha SPCB",
+      "Odisha District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745734",
+    "response_deadline": "2026-03-03T14:09:40.745736",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-29408",
+    "state": "Jammu and Kashmir",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "LOW",
+    "stakeholders": [
+      "Jammu and Kashmir SPCB",
+      "Jammu and Kashmir District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745749",
+    "response_deadline": "2026-03-03T14:09:40.745751",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-12251",
+    "state": "Puducherry",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Puducherry SPCB",
+      "Puducherry District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745763",
+    "response_deadline": "2026-03-03T14:09:40.745767",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-64041",
+    "state": "Haryana",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Haryana SPCB",
+      "Haryana District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745780",
+    "response_deadline": "2026-03-03T14:09:40.745782",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-40696",
+    "state": "Assam",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Assam SPCB",
+      "Assam District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745792",
+    "response_deadline": "2026-03-03T14:09:40.745795",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-48885",
+    "state": "Lakshadweep",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "LOW",
+    "stakeholders": [
+      "Lakshadweep SPCB",
+      "Lakshadweep District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745805",
+    "response_deadline": "2026-03-03T14:09:40.745808",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-99180",
+    "state": "Andhra Pradesh",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Andhra Pradesh SPCB",
+      "Andhra Pradesh District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745821",
+    "response_deadline": "2026-03-03T14:09:40.745824",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-46259",
+    "state": "Odisha",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Odisha SPCB",
+      "Odisha District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745833",
+    "response_deadline": "2026-03-03T14:09:40.745836",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-41839",
+    "state": "Jharkhand",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Jharkhand SPCB",
+      "Jharkhand District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745848",
+    "response_deadline": "2026-03-03T14:09:40.745850",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-76408",
+    "state": "Uttar Pradesh",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Uttar Pradesh SPCB",
+      "Uttar Pradesh District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745863",
+    "response_deadline": "2026-03-03T14:09:40.745868",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-31968",
+    "state": "Haryana",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "MEDIUM",
+    "stakeholders": [
+      "Haryana SPCB",
+      "Haryana District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745916",
+    "response_deadline": "2026-03-03T14:09:40.745920",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-90674",
+    "state": "Jharkhand",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Jharkhand SPCB",
+      "Jharkhand District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745932",
+    "response_deadline": "2026-03-03T14:09:40.745936",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-81916",
+    "state": "Jammu and Kashmir",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Jammu and Kashmir SPCB",
+      "Jammu and Kashmir District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745946",
+    "response_deadline": "2026-03-03T14:09:40.745949",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-18476",
+    "state": "Puducherry",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Puducherry SPCB",
+      "Puducherry District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745958",
+    "response_deadline": "2026-03-03T14:09:40.745961",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-57844",
+    "state": "Tamil Nadu",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Tamil Nadu SPCB",
+      "Tamil Nadu District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745971",
+    "response_deadline": "2026-03-03T14:09:40.745973",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-34855",
+    "state": "West Bengal",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "West Bengal SPCB",
+      "West Bengal District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.745987",
+    "response_deadline": "2026-03-03T14:09:40.745991",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-16339",
+    "state": "Mizoram",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Mizoram SPCB",
+      "Mizoram District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.746009",
+    "response_deadline": "2026-03-03T14:09:40.746013",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-87094",
+    "state": "Arunachal Pradesh",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Arunachal Pradesh SPCB",
+      "Arunachal Pradesh District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.746023",
+    "response_deadline": "2026-03-03T14:09:40.746026",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-88075",
+    "state": "Maharashtra",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "MEDIUM",
+    "stakeholders": [
+      "Maharashtra SPCB",
+      "Maharashtra District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.746040",
+    "response_deadline": "2026-03-03T14:09:40.746042",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-79444",
+    "state": "Nagaland",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Nagaland SPCB",
+      "Nagaland District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.746056",
+    "response_deadline": "2026-03-03T14:09:40.746061",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-97513",
+    "state": "Karnataka",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Karnataka SPCB",
+      "Karnataka District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.746071",
+    "response_deadline": "2026-03-03T14:09:40.746074",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-52104",
+    "state": "West Bengal",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "West Bengal SPCB",
+      "West Bengal District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.746084",
+    "response_deadline": "2026-03-03T14:09:40.746086",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-33176",
+    "state": "Manipur",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Manipur SPCB",
+      "Manipur District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.746098",
+    "response_deadline": "2026-03-03T14:09:40.746102",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-59923",
+    "state": "Mizoram",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "LOW",
+    "stakeholders": [
+      "Mizoram SPCB",
+      "Mizoram District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.746114",
+    "response_deadline": "2026-03-03T14:09:40.746117",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-16014",
+    "state": "Sikkim",
+    "type": "INDUSTRIAL_DUMP",
+    "priority": "LOW",
+    "stakeholders": [
+      "Sikkim SPCB",
+      "Sikkim District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.746126",
+    "response_deadline": "2026-03-03T14:09:40.746129",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-19554",
+    "state": "Odisha",
+    "type": "MUNICIPAL_LANDFILL",
+    "priority": "LOW",
+    "stakeholders": [
+      "Odisha SPCB",
+      "Odisha District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.746141",
+    "response_deadline": "2026-03-03T14:09:40.746144",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-30885",
+    "state": "Jharkhand",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "HIGH",
+    "stakeholders": [
+      "Jharkhand SPCB",
+      "Jharkhand District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.746157",
+    "response_deadline": "2026-03-03T14:09:40.746161",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-99459",
+    "state": "Haryana",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "LOW",
+    "stakeholders": [
+      "Haryana SPCB",
+      "Haryana District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.746171",
+    "response_deadline": "2026-03-03T14:09:40.746173",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-55394",
+    "state": "Assam",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Assam SPCB",
+      "Assam District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.746186",
+    "response_deadline": "2026-03-03T14:09:40.746188",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-42048",
+    "state": "Himachal Pradesh",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Himachal Pradesh SPCB",
+      "Himachal Pradesh District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.746200",
+    "response_deadline": "2026-03-03T14:09:40.746203",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-73050",
+    "state": "Madhya Pradesh",
+    "type": "PLASTIC_BURNING_SITE",
+    "priority": "MEDIUM",
+    "stakeholders": [
+      "Madhya Pradesh SPCB",
+      "Madhya Pradesh District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.746217",
+    "response_deadline": "2026-03-03T14:09:40.746219",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-49573",
+    "state": "Uttar Pradesh",
+    "type": "CONSTRUCTION_DEBRIS",
+    "priority": "LOW",
+    "stakeholders": [
+      "Uttar Pradesh SPCB",
+      "Uttar Pradesh District Collector"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.746231",
+    "response_deadline": "2026-03-03T14:09:40.746233",
+    "responded": false,
+    "escalated": false
+  },
+  {
+    "id": "IND-DET-83432",
+    "state": "Punjab",
+    "type": "HAZARDOUS_WASTE",
+    "priority": "LOW",
+    "stakeholders": [
+      "Punjab SPCB",
+      "Punjab District Collector",
+      "CPCB (Central Board)"
+    ],
+    "channels": [
+      "SMS",
+      "Email",
+      "WhatsApp"
+    ],
+    "status": "DISPATCHED",
+    "dispatch_time": "2026-03-01T14:09:40.746243",
+    "response_deadline": "2026-03-03T14:09:40.746246",
+    "responded": false,
+    "escalated": false
+  }
+]

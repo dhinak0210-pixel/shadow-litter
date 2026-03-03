@@ -1,0 +1,39 @@
+"""
+infra/kubernetes/helm/values.yaml
+──────────────────────────────────
+Helm chart values for Shadow Litter scaling.
+"""
+
+replicaCount: 2
+
+image:
+  repository: shadow-litter
+  pullPolicy: IfNotPresent
+  tag: "latest"
+
+service:
+  type: LoadBalancer
+  port: 80
+
+resources:
+  limits:
+    cpu: 1000m
+    memory: 4Gi
+    nvidia.com/gpu: 1
+  requests:
+    cpu: 500m
+    memory: 2Gi
+    nvidia.com/gpu: 1
+
+env:
+  COPERNICUS_USER: "${COPERNICUS_USER}"
+  COPERNICUS_PASS: "${COPERNICUS_PASS}"
+  GEE_PROJECT_ID: "${GEE_PROJECT_ID}"
+  DATABASE_URL: "postgresql://user:pass@shadowlitter.rds.amazonaws.com:5432/shadowlitter"
+
+autoscaling:
+  enabled: true
+  minReplicas: 2
+  maxReplicas: 10
+  targetCPUUtilizationPercentage: 80
+  targetMemoryUtilizationPercentage: 80

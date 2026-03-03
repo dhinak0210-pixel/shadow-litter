@@ -1,0 +1,212 @@
+[
+  {
+    "plate": "TN-59-BZ-2001",
+    "cam_id": "CAM-01-PERIYAR",
+    "lat": 9.919,
+    "lon": 78.115,
+    "timestamp": "2026-03-01T13:51:43.911011",
+    "direction": "NORTHBOUND",
+    "v_type": "Compactor (Green)",
+    "confidence": 0.94
+  },
+  {
+    "plate": "TN-59-BZ-2392",
+    "cam_id": "CAM-03-ARASARADI",
+    "lat": 9.9252,
+    "lon": 78.1005,
+    "timestamp": "2026-03-01T13:51:44.911795",
+    "direction": "WESTBOUND",
+    "v_type": "Compactor (Green)",
+    "confidence": 0.92
+  },
+  {
+    "plate": "TN-59-AY-7148",
+    "cam_id": "CAM-04-RAILWAY",
+    "lat": 9.9192,
+    "lon": 78.11,
+    "timestamp": "2026-03-01T13:51:45.412557",
+    "direction": "SOUTHBOUND",
+    "v_type": "Compactor (Green)",
+    "confidence": 0.98
+  },
+  {
+    "plate": "TN-59-CW-4682",
+    "cam_id": "CAM-05-SOUTHGATE",
+    "lat": 9.9145,
+    "lon": 78.125,
+    "timestamp": "2026-03-01T13:51:45.913220",
+    "direction": "NORTHBOUND",
+    "v_type": "Compactor (Green)",
+    "confidence": 0.96
+  },
+  {
+    "plate": "TN-59-DK-9628",
+    "cam_id": "CAM-01-PERIYAR",
+    "lat": 9.919,
+    "lon": 78.115,
+    "timestamp": "2026-03-01T13:51:46.413872",
+    "direction": "NORTHBOUND",
+    "v_type": "Compactor (Green)",
+    "confidence": 0.92
+  },
+  {
+    "plate": "TN-59-DK-8906",
+    "cam_id": "CAM-04-RAILWAY",
+    "lat": 9.9192,
+    "lon": 78.11,
+    "timestamp": "2026-03-01T13:51:47.914561",
+    "direction": "EASTBOUND",
+    "v_type": "Compactor (Green)",
+    "confidence": 0.94
+  },
+  {
+    "plate": "TN-59-DK-3972",
+    "cam_id": "CAM-02-MATTUTHAVANI",
+    "lat": 9.9405,
+    "lon": 78.1305,
+    "timestamp": "2026-03-01T13:51:49.415478",
+    "direction": "SOUTHBOUND",
+    "v_type": "Compactor (Green)",
+    "confidence": 0.94
+  },
+  {
+    "plate": "TN-59-CW-6772",
+    "cam_id": "CAM-03-ARASARADI",
+    "lat": 9.9252,
+    "lon": 78.1005,
+    "timestamp": "2026-03-01T13:51:49.919827",
+    "direction": "EASTBOUND",
+    "v_type": "Compactor (Green)",
+    "confidence": 0.96
+  },
+  {
+    "plate": "TN-59-BZ-8353",
+    "cam_id": "CAM-05-SOUTHGATE",
+    "lat": 9.9145,
+    "lon": 78.125,
+    "timestamp": "2026-03-01T13:51:50.920688",
+    "direction": "NORTHBOUND",
+    "v_type": "Compactor (Green)",
+    "confidence": 0.96
+  },
+  {
+    "plate": "TN-59-BZ-6077",
+    "cam_id": "CAM-01-PERIYAR",
+    "lat": 9.919,
+    "lon": 78.115,
+    "timestamp": "2026-03-01T13:53:53.348698",
+    "direction": "WESTBOUND",
+    "v_type": "Compactor (Green)",
+    "confidence": 0.99
+  },
+  {
+    "plate": "TN-59-CW-4553",
+    "cam_id": "CAM-02-MATTUTHAVANI",
+    "lat": 9.9405,
+    "lon": 78.1305,
+    "timestamp": "2026-03-01T13:53:53.849506",
+    "direction": "SOUTHBOUND",
+    "v_type": "Compactor (Green)",
+    "confidence": 0.96
+  },
+  {
+    "plate": "TN-59-AY-7747",
+    "cam_id": "CAM-03-ARASARADI",
+    "lat": 9.9252,
+    "lon": 78.1005,
+    "timestamp": "2026-03-01T13:53:54.350130",
+    "direction": "WESTBOUND",
+    "v_type": "Compactor (Green)",
+    "confidence": 0.96
+  },
+  {
+    "plate": "TN-59-BZ-3112",
+    "cam_id": "CAM-05-SOUTHGATE",
+    "lat": 9.9145,
+    "lon": 78.125,
+    "timestamp": "2026-03-01T13:53:55.351138",
+    "direction": "NORTHBOUND",
+    "v_type": "Compactor (Green)",
+    "confidence": 0.98
+  },
+  {
+    "plate": "TN-59-DK-5608",
+    "cam_id": "CAM-02-MATTUTHAVANI",
+    "lat": 9.9405,
+    "lon": 78.1305,
+    "timestamp": "2026-03-01T13:53:56.352171",
+    "direction": "SOUTHBOUND",
+    "v_type": "Compactor (Green)",
+    "confidence": 0.97
+  },
+  {
+    "plate": "TN-59-AY-9629",
+    "cam_id": "CAM-03-ARASARADI",
+    "lat": 9.9252,
+    "lon": 78.1005,
+    "timestamp": "2026-03-01T13:53:56.852838",
+    "direction": "WESTBOUND",
+    "v_type": "Compactor (Green)",
+    "confidence": 0.96
+  },
+  {
+    "plate": "TN-59-DK-2646",
+    "cam_id": "CAM-05-SOUTHGATE",
+    "lat": 9.9145,
+    "lon": 78.125,
+    "timestamp": "2026-03-01T13:53:57.853554",
+    "direction": "WESTBOUND",
+    "v_type": "Compactor (Green)",
+    "confidence": 0.97
+  },
+  {
+    "plate": "TN-59-BZ-1777",
+    "cam_id": "CAM-01-PERIYAR",
+    "lat": 9.919,
+    "lon": 78.115,
+    "timestamp": "2026-03-01T13:53:58.354148",
+    "direction": "EASTBOUND",
+    "v_type": "Compactor (Green)",
+    "confidence": 0.96
+  },
+  {
+    "plate": "TN-59-CW-2896",
+    "cam_id": "CAM-02-MATTUTHAVANI",
+    "lat": 9.9405,
+    "lon": 78.1305,
+    "timestamp": "2026-03-01T13:53:58.854849",
+    "direction": "NORTHBOUND",
+    "v_type": "Compactor (Green)",
+    "confidence": 0.99
+  },
+  {
+    "plate": "TN-59-CW-6055",
+    "cam_id": "CAM-03-ARASARADI",
+    "lat": 9.9252,
+    "lon": 78.1005,
+    "timestamp": "2026-03-01T13:53:59.355553",
+    "direction": "NORTHBOUND",
+    "v_type": "Compactor (Green)",
+    "confidence": 0.96
+  },
+  {
+    "plate": "TN-59-DK-4649",
+    "cam_id": "CAM-04-RAILWAY",
+    "lat": 9.9192,
+    "lon": 78.11,
+    "timestamp": "2026-03-01T13:53:59.856232",
+    "direction": "WESTBOUND",
+    "v_type": "Compactor (Green)",
+    "confidence": 0.96
+  },
+  {
+    "plate": "TN-59-CW-3473",
+    "cam_id": "CAM-05-SOUTHGATE",
+    "lat": 9.9145,
+    "lon": 78.125,
+    "timestamp": "2026-03-01T13:54:00.356901",
+    "direction": "EASTBOUND",
+    "v_type": "Compactor (Green)",
+    "confidence": 0.96
+  }
+]

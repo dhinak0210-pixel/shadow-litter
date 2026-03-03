@@ -1,0 +1,61 @@
+# shadow-litter — .gitignore
+
+# ── Dependency Managers ──────────────────────────────────────────
+node_modules/
+**/node_modules/
+.venv/
+venv/
+env/
+.env/
+**/venv/
+**/node_modules/
+
+# ── Build Outputs ────────────────────────────────────────────────
+.next/
+**/ .next/
+dist/
+build/
+*.egg-info/
+
+# ── Python ─────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+.eggs/
+*.whl
+
+# ── Jupyter ─────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── Data (large files) ──────────────────────────────────────────
+data/raw/
+data/processed/
+data/splits/
+outputs/
+cache/
+
+# ── Model weights ───────────────────────────────────────────────
+models/checkpoints/
+models/final/
+*.pth
+*.h5
+*.onnx
+
+# ── Environment secrets ─────────────────────────────────────────
+.env
+*.env
+*.secret
+
+# ── OS / editor ─────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# ── Logs ────────────────────────────────────────────────────────
+logs/
+*.log

@@ -1,0 +1,28 @@
+# Dockerfile.production
+FROM nvidia/cuda:11.8.0-cudnn8-runtime-ubuntu22.04
+
+WORKDIR /app
+
+# System dependencies for geospatial
+RUN apt-get update && apt-get install -y \
+    gdal-bin libgdal-dev \
+    libspatialindex-dev \
+    python3-pip \
+    && rm -rf /var/lib/apt/lists/*
+
+# Python dependencies
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Download model weights (Prithvi, SatMAE, trained ShadowLitter)
+RUN python -c "\
+from transformers import AutoModel; \
+AutoModel.from_pretrained('ibm-nasa-geospatial/Prithvi-100M', trust_remote_code=True)"
+
+# Application code
+COPY src/ ./src/
+COPY configs/ ./configs/
+COPY weights/ ./weights/
+
+# Entry point
+CMD ["python", "-m", "src.agent.autonomous_monitor", "--config", "configs/production.yaml"]

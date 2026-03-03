@@ -1,0 +1,36 @@
+[
+  {
+    "site_id": "SM-09",
+    "location": [
+      9.918,
+      78.108
+    ],
+    "weight": 120.0,
+    "timestamp": "2026-03-01T13:43:38.555867",
+    "status": "PROCESSED",
+    "satellite": "PlanetScope-3.7m",
+    "priority": "HIGH",
+    "eta_hours": 24,
+    "label": "PlanetScope Daily Refresh",
+    "task_id": "PLN-TASK-1772352818",
+    "map_label": "Emergency Verification",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Illegal_garbage_dump.jpg/320px-Illegal_garbage_dump.jpg"
+  },
+  {
+    "site_id": "SM-14",
+    "location": [
+      9.935,
+      78.13
+    ],
+    "weight": 750.0,
+    "timestamp": "2026-03-01T13:43:38.556119",
+    "status": "PROCESSED",
+    "satellite": "SkySat-0.8m",
+    "priority": "EMERGENCY",
+    "eta_hours": 4,
+    "label": "SkySat High-Res Rapid Tasking",
+    "task_id": "PLN-TASK-1772352818",
+    "map_label": "Emergency Verification",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Waste_Management_1_bg_043004.jpg/320px-Waste_Management_1_bg_043004.jpg"
+  }
+]

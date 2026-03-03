@@ -1,0 +1,41 @@
+# k8s/shadow-litter-deployment.yaml
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: shadow-litter-agent
+spec:
+  replicas: 1  # Single agent instance (scheduler prevents conflicts)
+  selector:
+    matchLabels:
+      app: shadow-litter
+  template:
+    metadata:
+      labels:
+        app: shadow-litter
+    spec:
+      containers:
+      - name: agent
+        image: shadow-litter:latest
+        resources:
+          limits:
+            nvidia.com/gpu: 1  # A100 or V100
+            memory: "32Gi"
+            cpu: "8"
+        env:
+        - name: COPERNICUS_USER
+          valueFrom:
+            secretKeyRef:
+              name: esa-credentials
+              key: username
+        - name: COPERNICUS_PASS
+          valueFrom:
+            secretKeyRef:
+              name: esa-credentials
+              key: password
+        volumeMounts:
+        - name: persistent-storage
+          mountPath: /app/data
+      volumes:
+      - name: persistent-storage
+        persistentVolumeClaim:
+          claimName: shadow-litter-pvc

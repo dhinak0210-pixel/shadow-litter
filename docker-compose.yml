@@ -1,0 +1,58 @@
+version: '3.8'
+
+services:
+  api:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - REDIS_URL=redis://redis:6379
+      - MODEL_PATH=/weights/shadow-litter.ckpt
+    volumes:
+      - ./weights:/weights
+      - ./data:/data
+    depends_on:
+      - redis
+      - worker
+
+  worker:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    command: celery -A agent.core_agent worker --loglevel=info
+    environment:
+      - REDIS_URL=redis://redis:6379
+    volumes:
+      - ./weights:/weights
+      - ./data:/data
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+
+  redis:
+    image: redis:alpine
+    ports:
+      - "6379:6379"
+
+  dashboard:
+    build: 
+      context: .
+      dockerfile: dash_Dockerfile
+    ports:
+      - "8501:8501"
+    environment:
+      - API_URL=http://api:8000
+
+  scheduler:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    command: celery -A agent.core_agent beat --loglevel=info
+    depends_on:
+      - redis

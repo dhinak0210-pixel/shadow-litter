@@ -1,0 +1,218 @@
+[
+  {
+    "state": "Punjab",
+    "score": 93.5,
+    "avg_response_hrs": 34.2,
+    "active_detections": 25
+  },
+  {
+    "state": "Andhra Pradesh",
+    "score": 93.4,
+    "avg_response_hrs": 28.9,
+    "active_detections": 20
+  },
+  {
+    "state": "Assam",
+    "score": 91.4,
+    "avg_response_hrs": 19.6,
+    "active_detections": 47
+  },
+  {
+    "state": "Kerala",
+    "score": 88.2,
+    "avg_response_hrs": 21.7,
+    "active_detections": 29
+  },
+  {
+    "state": "Madhya Pradesh",
+    "score": 88.1,
+    "avg_response_hrs": 62.2,
+    "active_detections": 34
+  },
+  {
+    "state": "Uttarakhand",
+    "score": 86.1,
+    "avg_response_hrs": 60.1,
+    "active_detections": 5
+  },
+  {
+    "state": "Odisha",
+    "score": 85.7,
+    "avg_response_hrs": 3.6,
+    "active_detections": 35
+  },
+  {
+    "state": "Himachal Pradesh",
+    "score": 83.7,
+    "avg_response_hrs": 45.1,
+    "active_detections": 44
+  },
+  {
+    "state": "Meghalaya",
+    "score": 82.9,
+    "avg_response_hrs": 40.3,
+    "active_detections": 27
+  },
+  {
+    "state": "Karnataka",
+    "score": 77.2,
+    "avg_response_hrs": 10.6,
+    "active_detections": 26
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "score": 77.0,
+    "avg_response_hrs": 35.7,
+    "active_detections": 30
+  },
+  {
+    "state": "West Bengal",
+    "score": 76.8,
+    "avg_response_hrs": 22.3,
+    "active_detections": 24
+  },
+  {
+    "state": "Nagaland",
+    "score": 75.2,
+    "avg_response_hrs": 57.1,
+    "active_detections": 17
+  },
+  {
+    "state": "Tamil Nadu",
+    "score": 74.2,
+    "avg_response_hrs": 59.2,
+    "active_detections": 16
+  },
+  {
+    "state": "Mizoram",
+    "score": 73.2,
+    "avg_response_hrs": 42.4,
+    "active_detections": 47
+  },
+  {
+    "state": "Delhi",
+    "score": 71.6,
+    "avg_response_hrs": 17.2,
+    "active_detections": 8
+  },
+  {
+    "state": "Telangana",
+    "score": 67.6,
+    "avg_response_hrs": 37.5,
+    "active_detections": 23
+  },
+  {
+    "state": "Sikkim",
+    "score": 67.1,
+    "avg_response_hrs": 47.3,
+    "active_detections": 18
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "score": 67.0,
+    "avg_response_hrs": 68.4,
+    "active_detections": 6
+  },
+  {
+    "state": "Chandigarh",
+    "score": 65.6,
+    "avg_response_hrs": 57.0,
+    "active_detections": 10
+  },
+  {
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "score": 62.9,
+    "avg_response_hrs": 2.3,
+    "active_detections": 48
+  },
+  {
+    "state": "Andaman and Nicobar Islands",
+    "score": 62.6,
+    "avg_response_hrs": 4.6,
+    "active_detections": 9
+  },
+  {
+    "state": "Maharashtra",
+    "score": 60.7,
+    "avg_response_hrs": 43.9,
+    "active_detections": 5
+  },
+  {
+    "state": "Jharkhand",
+    "score": 60.6,
+    "avg_response_hrs": 19.1,
+    "active_detections": 43
+  },
+  {
+    "state": "Uttar Pradesh",
+    "score": 60.2,
+    "avg_response_hrs": 15.3,
+    "active_detections": 16
+  },
+  {
+    "state": "Puducherry",
+    "score": 59.7,
+    "avg_response_hrs": 16.6,
+    "active_detections": 28
+  },
+  {
+    "state": "Rajasthan",
+    "score": 57.4,
+    "avg_response_hrs": 22.2,
+    "active_detections": 34
+  },
+  {
+    "state": "Bihar",
+    "score": 56.6,
+    "avg_response_hrs": 49.2,
+    "active_detections": 25
+  },
+  {
+    "state": "Haryana",
+    "score": 53.9,
+    "avg_response_hrs": 24.5,
+    "active_detections": 16
+  },
+  {
+    "state": "Gujarat",
+    "score": 52.5,
+    "avg_response_hrs": 52.3,
+    "active_detections": 41
+  },
+  {
+    "state": "Goa",
+    "score": 52.3,
+    "avg_response_hrs": 16.2,
+    "active_detections": 44
+  },
+  {
+    "state": "Manipur",
+    "score": 50.1,
+    "avg_response_hrs": 64.7,
+    "active_detections": 25
+  },
+  {
+    "state": "Tripura",
+    "score": 47.9,
+    "avg_response_hrs": 42.9,
+    "active_detections": 9
+  },
+  {
+    "state": "Ladakh",
+    "score": 47.7,
+    "avg_response_hrs": 44.0,
+    "active_detections": 9
+  },
+  {
+    "state": "Chhattisgarh",
+    "score": 42.8,
+    "avg_response_hrs": 21.1,
+    "active_detections": 7
+  },
+  {
+    "state": "Lakshadweep",
+    "score": 40.4,
+    "avg_response_hrs": 49.4,
+    "active_detections": 9
+  }
+]

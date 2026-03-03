@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.14,
+          9.932
+        ]
+      },
+      "properties": {
+        "id": "S2-AUTO-001",
+        "area": 1250.0,
+        "confidence": 0.94,
+        "timestamp": "2026-03-01T13:30:31.662325",
+        "status": "AWAITING_VERIFICATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.115,
+          9.915
+        ]
+      },
+      "properties": {
+        "id": "S2-AUTO-002",
+        "area": 450.0,
+        "confidence": 0.72,
+        "timestamp": "2026-03-01T13:30:31.662348",
+        "status": "MONITORING"
+      }
+    }
+  ]
+}

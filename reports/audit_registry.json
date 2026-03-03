@@ -1,0 +1,104 @@
+[
+  {
+    "audit_id": "AUDIT-202608",
+    "mean_growth": 15.5,
+    "sites": [
+      {
+        "id": "SL-MAD-001",
+        "name": "Gandhi Market",
+        "lat": 9.928,
+        "lon": 78.1205,
+        "area": 1200,
+        "confidence": 0.95,
+        "growth": 13.7,
+        "prev_area": 1055.7,
+        "timestamp": "2026-03-01T13:46:43.341024"
+      },
+      {
+        "id": "SL-MAD-002",
+        "name": "Vilangudi",
+        "lat": 9.915,
+        "lon": 78.11,
+        "area": 850,
+        "confidence": 0.92,
+        "growth": 9.2,
+        "prev_area": 778.7,
+        "timestamp": "2026-03-01T13:46:43.341094"
+      },
+      {
+        "id": "SL-MAD-003",
+        "name": "Mattuthavani",
+        "lat": 9.935,
+        "lon": 78.13,
+        "area": 620,
+        "confidence": 0.88,
+        "growth": 22.5,
+        "prev_area": 506.3,
+        "timestamp": "2026-03-01T13:46:43.341130"
+      },
+      {
+        "id": "ML-002",
+        "name": "Vaigai River",
+        "lat": 9.929,
+        "lon": 78.125,
+        "area": 45,
+        "confidence": 0.82,
+        "growth": 16.6,
+        "prev_area": 38.6,
+        "timestamp": "2026-03-01T13:46:43.341166"
+      }
+    ],
+    "pdf_path": "reports/weekly_audits/Audit_2026060.pdf"
+  },
+  {
+    "audit_id": "AUDIT-202608",
+    "mean_growth": 11.5,
+    "sites": [
+      {
+        "id": "SL-MAD-001",
+        "name": "Gandhi Market",
+        "lat": 9.928,
+        "lon": 78.1205,
+        "area": 1200,
+        "confidence": 0.95,
+        "growth": 8.1,
+        "prev_area": 1110.3,
+        "timestamp": "2026-03-01T13:48:26.889824"
+      },
+      {
+        "id": "SL-MAD-002",
+        "name": "Vilangudi",
+        "lat": 9.915,
+        "lon": 78.11,
+        "area": 850,
+        "confidence": 0.92,
+        "growth": 23.1,
+        "prev_area": 690.7,
+        "timestamp": "2026-03-01T13:48:26.889885"
+      },
+      {
+        "id": "SL-MAD-003",
+        "name": "Mattuthavani",
+        "lat": 9.935,
+        "lon": 78.13,
+        "area": 620,
+        "confidence": 0.88,
+        "growth": 5.9,
+        "prev_area": 585.5,
+        "timestamp": "2026-03-01T13:48:26.889925"
+      },
+      {
+        "id": "ML-002",
+        "name": "Vaigai River",
+        "lat": 9.929,
+        "lon": 78.125,
+        "area": 45,
+        "confidence": 0.82,
+        "growth": 9.0,
+        "prev_area": 41.3,
+        "timestamp": "2026-03-01T13:48:26.889963"
+      }
+    ],
+    "pdf_path": "reports/weekly_audits/Audit_2026060.pdf"
+  }
+]

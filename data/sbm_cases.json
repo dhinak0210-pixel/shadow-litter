@@ -1,0 +1,4160 @@
+[
+  {
+    "case_id": "SBM-2026-A1DD3042",
+    "detection_id": "SBM-DET-119233",
+    "coordinates": [
+      73.52640930402325,
+      9.754339240064368
+    ],
+    "type": "FARM_FIRE",
+    "priority": "MEDIUM",
+    "state": "IND-STATE-11",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.073780",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xc551d87475d2465085311ffdd0b239a75ef5bfca3cad49259ae68e9883bdf587",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-A1DD3042_sat.png",
+      "ai_report": "reports/cases/SBM-2026-A1DD3042_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-8A4A897C",
+    "detection_id": "SBM-DET-463550",
+    "coordinates": [
+      77.38010351323733,
+      34.59715838969637
+    ],
+    "type": "PLASTIC_HOTSPOT",
+    "priority": "LOW",
+    "state": "IND-STATE-8",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.074083",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xd2929928268b4278ad4a25a4ea341703ae605cb4eb9842b8a90d7ddb61df3e92",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-8A4A897C_sat.png",
+      "ai_report": "reports/cases/SBM-2026-8A4A897C_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-F0C503C4",
+    "detection_id": "SBM-DET-149845",
+    "coordinates": [
+      81.19823068437958,
+      16.107829265826368
+    ],
+    "type": "RAIL_TRACK_WASTE",
+    "priority": "LOW",
+    "state": "IND-STATE-1",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.074378",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x09239f2592014beaaa5988ecf28c673242adf5f11d42477e8a7eefc261d4bb17",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-F0C503C4_sat.png",
+      "ai_report": "reports/cases/SBM-2026-F0C503C4_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-76D28155",
+    "detection_id": "SBM-DET-420541",
+    "coordinates": [
+      85.49382016435797,
+      34.06360851921492
+    ],
+    "type": "FARM_FIRE",
+    "priority": "MEDIUM",
+    "state": "IND-STATE-2",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.074680",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xe9e1d3383b6d43038253b47dd1787f5dba4b57bcc5174bd49ea6f6ac81644f6d",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-76D28155_sat.png",
+      "ai_report": "reports/cases/SBM-2026-76D28155_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-5200A27F",
+    "detection_id": "SBM-DET-526093",
+    "coordinates": [
+      95.01090853644435,
+      21.6187009458057
+    ],
+    "type": "LANDFILL_OVERFLOW",
+    "priority": "LOW",
+    "state": "IND-STATE-16",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.074983",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x782a87f3271141a381e742ab8e4198a4bfed76f36eda4cebb9f40c4410027753",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-5200A27F_sat.png",
+      "ai_report": "reports/cases/SBM-2026-5200A27F_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-61A78567",
+    "detection_id": "SBM-DET-644544",
+    "coordinates": [
+      91.04165588523637,
+      14.755880899229183
+    ],
+    "type": "LANDFILL_OVERFLOW",
+    "priority": "LOW",
+    "state": "IND-STATE-22",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.075310",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x50965eacb1a5473ba5e1d3c89e81ef29e04a1f00ee2741a8a53ede263a968a19",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-61A78567_sat.png",
+      "ai_report": "reports/cases/SBM-2026-61A78567_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-6FD02016",
+    "detection_id": "SBM-DET-426388",
+    "coordinates": [
+      90.24035252418798,
+      8.619592733945819
+    ],
+    "type": "COASTAL_POLLUTION",
+    "priority": "LOW",
+    "state": "IND-STATE-20",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.075681",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x85b1c6108bbc4201a0119a177eaf49bdf2c4364614bc4cf89029cf797e918678",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-6FD02016_sat.png",
+      "ai_report": "reports/cases/SBM-2026-6FD02016_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-4A11AA57",
+    "detection_id": "SBM-DET-663336",
+    "coordinates": [
+      72.25130012891478,
+      30.631739065508047
+    ],
+    "type": "ILLEGAL_DUMPING",
+    "priority": "LOW",
+    "state": "IND-STATE-13",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.076054",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xffdc36226f7b4fc182094d0cc1b4773db72c36fc92fd4f4a9a64bd9d3851302f",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-4A11AA57_sat.png",
+      "ai_report": "reports/cases/SBM-2026-4A11AA57_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-A93BF836",
+    "detection_id": "SBM-DET-385606",
+    "coordinates": [
+      91.42800208774446,
+      10.226482996681087
+    ],
+    "type": "GROUNDWATER_CONTAM",
+    "priority": "LOW",
+    "state": "IND-STATE-5",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.076435",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xc6a8be127c334fd3aa636794fc51a0cdada2fb92e36b42b68d6dacbda6d44c80",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-A93BF836_sat.png",
+      "ai_report": "reports/cases/SBM-2026-A93BF836_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-D51223F1",
+    "detection_id": "SBM-DET-249248",
+    "coordinates": [
+      70.88223071490465,
+      8.42232154239175
+    ],
+    "type": "ILLEGAL_DUMPING",
+    "priority": "LOW",
+    "state": "IND-STATE-24",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.076854",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xef117d94f73f4e9b8a217986f77daf6dd00f2f61ac6940759ed493d14e93b159",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-D51223F1_sat.png",
+      "ai_report": "reports/cases/SBM-2026-D51223F1_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-8BE52113",
+    "detection_id": "SBM-DET-419765",
+    "coordinates": [
+      75.21224691439078,
+      22.64377821303501
+    ],
+    "type": "MINING_ZONE_ENCROACH",
+    "priority": "LOW",
+    "state": "IND-STATE-15",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.077307",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xae056e8923b548399164db0b9caa975198ca44dc9fd84869bb005d882f438885",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-8BE52113_sat.png",
+      "ai_report": "reports/cases/SBM-2026-8BE52113_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-AAACDB48",
+    "detection_id": "SBM-DET-900902",
+    "coordinates": [
+      85.1002488339271,
+      7.240315180700206
+    ],
+    "type": "SLUM_SANITATION_FAIL",
+    "priority": "MEDIUM",
+    "state": "IND-STATE-26",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.077898",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x8a59011c85f648cbbedc6cab2371f088c28a910f0a124f889b33be8c1a46d21c",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-AAACDB48_sat.png",
+      "ai_report": "reports/cases/SBM-2026-AAACDB48_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-BA08D874",
+    "detection_id": "SBM-DET-909544",
+    "coordinates": [
+      85.33694928359965,
+      17.823242444960034
+    ],
+    "type": "RAIL_TRACK_WASTE",
+    "priority": "LOW",
+    "state": "IND-STATE-20",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.078382",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xe561d4a2424341f587a7d8d96c74bc358b31fccd2a344459a25e410c099ce420",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-BA08D874_sat.png",
+      "ai_report": "reports/cases/SBM-2026-BA08D874_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-987A78E8",
+    "detection_id": "SBM-DET-810200",
+    "coordinates": [
+      86.35532862180062,
+      9.31147638783001
+    ],
+    "type": "RIVER_HEALTH_CRITICAL",
+    "priority": "LOW",
+    "state": "IND-STATE-32",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.078902",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xcc342270c562450596029ccce7c8a7a8fbb6aa0c329341c6a2c81d4748a4a8f4",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-987A78E8_sat.png",
+      "ai_report": "reports/cases/SBM-2026-987A78E8_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-B6DABD0D",
+    "detection_id": "SBM-DET-379262",
+    "coordinates": [
+      74.91486836738966,
+      32.66374087470769
+    ],
+    "type": "PLASTIC_HOTSPOT",
+    "priority": "LOW",
+    "state": "IND-STATE-16",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.079504",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x862cf205e21745cfb852d65b01cd6bd3782ddc36b6144930bf74ad7eda29d161",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-B6DABD0D_sat.png",
+      "ai_report": "reports/cases/SBM-2026-B6DABD0D_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-8C36B2B2",
+    "detection_id": "SBM-DET-502650",
+    "coordinates": [
+      91.86382708584422,
+      16.66317424223516
+    ],
+    "type": "PLASTIC_HOTSPOT",
+    "priority": "LOW",
+    "state": "IND-STATE-14",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.080109",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x492f182e82e94c75bbcf049ff4c404b26e257f3c0895417cab491e49f235efbd",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-8C36B2B2_sat.png",
+      "ai_report": "reports/cases/SBM-2026-8C36B2B2_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-24E478FC",
+    "detection_id": "SBM-DET-962891",
+    "coordinates": [
+      91.28829550127082,
+      9.546904785958947
+    ],
+    "type": "ILLEGAL_DUMPING",
+    "priority": "MEDIUM",
+    "state": "IND-STATE-25",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.080791",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xc91c1d899b0943c1b6f96380e988ac7a5ee48a75764643efbad8eac083fbec75",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-24E478FC_sat.png",
+      "ai_report": "reports/cases/SBM-2026-24E478FC_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-21324A6C",
+    "detection_id": "SBM-DET-660456",
+    "coordinates": [
+      77.65454800131562,
+      14.00034848552215
+    ],
+    "type": "RIVER_HEALTH_CRITICAL",
+    "priority": "CRITICAL",
+    "state": "IND-STATE-30",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.081394",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xa99e2f0484e34a0e8e94b7ecd71462cf23f03be3d6414650ac9e798265e8482c",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-21324A6C_sat.png",
+      "ai_report": "reports/cases/SBM-2026-21324A6C_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-658626CC",
+    "detection_id": "SBM-DET-123567",
+    "coordinates": [
+      89.64851370405991,
+      13.813518576961478
+    ],
+    "type": "FARM_FIRE",
+    "priority": "LOW",
+    "state": "IND-STATE-4",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.082091",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x0ac877a0d69a4915a517cd241d0b7a372a3017b2e36444daa98ebf1c1c6671bb",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-658626CC_sat.png",
+      "ai_report": "reports/cases/SBM-2026-658626CC_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-F3B799C2",
+    "detection_id": "SBM-DET-232527",
+    "coordinates": [
+      81.73260419563573,
+      21.821594473889906
+    ],
+    "type": "ILLEGAL_DUMPING",
+    "priority": "LOW",
+    "state": "IND-STATE-22",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.082713",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x82422079a3d54594b4ce47eacb8456cb200aeed893194433b5e67e4b14ad5fb4",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-F3B799C2_sat.png",
+      "ai_report": "reports/cases/SBM-2026-F3B799C2_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-F69AED02",
+    "detection_id": "SBM-DET-179654",
+    "coordinates": [
+      90.09588903966822,
+      25.498651635945354
+    ],
+    "type": "COASTAL_POLLUTION",
+    "priority": "LOW",
+    "state": "IND-STATE-24",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.083383",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xa529ed362ce74ebd8c3100180f73dc5da20530f373c04f79a9aa801e72eaa54e",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-F69AED02_sat.png",
+      "ai_report": "reports/cases/SBM-2026-F69AED02_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-DD0A4AF0",
+    "detection_id": "SBM-DET-237254",
+    "coordinates": [
+      78.12336702855518,
+      22.467834742873016
+    ],
+    "type": "FARM_FIRE",
+    "priority": "LOW",
+    "state": "IND-STATE-32",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.084110",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x6b00a5dc3abf4d2b83346c0e1e1bbb23b3f307129fc34982ab4989c490488024",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-DD0A4AF0_sat.png",
+      "ai_report": "reports/cases/SBM-2026-DD0A4AF0_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-B463A000",
+    "detection_id": "SBM-DET-241826",
+    "coordinates": [
+      75.12717521475528,
+      33.198149635412236
+    ],
+    "type": "COASTAL_POLLUTION",
+    "priority": "LOW",
+    "state": "IND-STATE-22",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.084888",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x5763132f4c38499cb8a10975b8b4ac18d30a52c9bd064a44ac98e78c653d51e3",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-B463A000_sat.png",
+      "ai_report": "reports/cases/SBM-2026-B463A000_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-64A47087",
+    "detection_id": "SBM-DET-777898",
+    "coordinates": [
+      73.18072589801059,
+      7.003101231305002
+    ],
+    "type": "INDUSTRIAL_POLLUTION",
+    "priority": "LOW",
+    "state": "IND-STATE-27",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.085632",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xd1b90a27f7174eab8f57419ed388c41c2d47ee3e4927466faa1ffe43246a67c9",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-64A47087_sat.png",
+      "ai_report": "reports/cases/SBM-2026-64A47087_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-8246517F",
+    "detection_id": "SBM-DET-497218",
+    "coordinates": [
+      90.78154645040827,
+      29.783274530058655
+    ],
+    "type": "CONSTRUCTION_WASTE",
+    "priority": "LOW",
+    "state": "IND-STATE-22",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.086375",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xafe18f5b6ad54e4cb7925f475b40b621e4e10c31c4a741408c167760ef5228f6",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-8246517F_sat.png",
+      "ai_report": "reports/cases/SBM-2026-8246517F_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-1BC8C462",
+    "detection_id": "SBM-DET-902752",
+    "coordinates": [
+      81.60178061180122,
+      33.89122699269737
+    ],
+    "type": "BIOMEDICAL_WASTE",
+    "priority": "LOW",
+    "state": "IND-STATE-29",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.087154",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x61f257dc87a34c069e1473cf466019081f5a95abe9dd4df99edfe6ab88261249",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-1BC8C462_sat.png",
+      "ai_report": "reports/cases/SBM-2026-1BC8C462_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-005116B7",
+    "detection_id": "SBM-DET-275000",
+    "coordinates": [
+      81.86458805147835,
+      34.054835730315155
+    ],
+    "type": "GROUNDWATER_CONTAM",
+    "priority": "LOW",
+    "state": "IND-STATE-19",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.087939",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x718c46a84c3c4f718b407b1e1a91006c6877e7c4454346a9979ba49da85a2f3e",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-005116B7_sat.png",
+      "ai_report": "reports/cases/SBM-2026-005116B7_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-D6B16E7D",
+    "detection_id": "SBM-DET-831700",
+    "coordinates": [
+      70.19542102580475,
+      9.416592856613613
+    ],
+    "type": "PLASTIC_HOTSPOT",
+    "priority": "LOW",
+    "state": "IND-STATE-12",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.088752",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x756f04424d3240968df194a914bf17da1a0bb2606cea4677ac767a5756183a1a",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-D6B16E7D_sat.png",
+      "ai_report": "reports/cases/SBM-2026-D6B16E7D_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-6256A8FF",
+    "detection_id": "SBM-DET-165835",
+    "coordinates": [
+      91.17114099063232,
+      34.93749028736774
+    ],
+    "type": "COASTAL_POLLUTION",
+    "priority": "LOW",
+    "state": "IND-STATE-21",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.089636",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xaaf10ea7914f4ee784cdb5d230b4686455c64b5873e74c9aa7d087a0235f391e",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-6256A8FF_sat.png",
+      "ai_report": "reports/cases/SBM-2026-6256A8FF_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-C323169F",
+    "detection_id": "SBM-DET-512230",
+    "coordinates": [
+      68.12264267502353,
+      29.99444605564195
+    ],
+    "type": "COASTAL_POLLUTION",
+    "priority": "HIGH",
+    "state": "IND-STATE-27",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.090526",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x94632987833b4100bc32b0e8e4b5a0f2fda169e9a499479895ff5af128967d99",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-C323169F_sat.png",
+      "ai_report": "reports/cases/SBM-2026-C323169F_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-65627B9F",
+    "detection_id": "SBM-DET-735251",
+    "coordinates": [
+      71.04909218136137,
+      7.252831754731946
+    ],
+    "type": "LANDFILL_OVERFLOW",
+    "priority": "LOW",
+    "state": "IND-STATE-33",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.091420",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xd17b3ef6e0ec4434bfcf5578340972bc7247919e4eb84550bf599a62a8346400",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-65627B9F_sat.png",
+      "ai_report": "reports/cases/SBM-2026-65627B9F_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-CD12AFEA",
+    "detection_id": "SBM-DET-426620",
+    "coordinates": [
+      88.71695232004369,
+      30.167569767401613
+    ],
+    "type": "AQI_DANGER_CORRIDOR",
+    "priority": "LOW",
+    "state": "IND-STATE-34",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.092678",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xfb56ea19003a47cd96804563619edc9b206391e0a1704ed987c0031713199686",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-CD12AFEA_sat.png",
+      "ai_report": "reports/cases/SBM-2026-CD12AFEA_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-26BE45B5",
+    "detection_id": "SBM-DET-835415",
+    "coordinates": [
+      93.12469422951563,
+      32.97414551977862
+    ],
+    "type": "MINING_ZONE_ENCROACH",
+    "priority": "LOW",
+    "state": "IND-STATE-1",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.094093",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x2a6839da99a646da8ce5b0b6abd5a11786d102962eab4be28b511bf14e4e9d8b",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-26BE45B5_sat.png",
+      "ai_report": "reports/cases/SBM-2026-26BE45B5_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-B4D3B097",
+    "detection_id": "SBM-DET-818529",
+    "coordinates": [
+      90.96410071467433,
+      28.19289897891268
+    ],
+    "type": "COASTAL_POLLUTION",
+    "priority": "LOW",
+    "state": "IND-STATE-15",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.095267",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xbf46890c9e9a435984b27e5e2848a9f65fdc3cc038f8414d9cbff8d388f56e07",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-B4D3B097_sat.png",
+      "ai_report": "reports/cases/SBM-2026-B4D3B097_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-B2C967DF",
+    "detection_id": "SBM-DET-585359",
+    "coordinates": [
+      68.07603066841395,
+      33.40617187075777
+    ],
+    "type": "INDUSTRIAL_POLLUTION",
+    "priority": "MEDIUM",
+    "state": "IND-STATE-36",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.096261",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x4bc42dea7c354605bdd919687447ab1f5bd198d8fa8d4f1f9199a402aea150fd",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-B2C967DF_sat.png",
+      "ai_report": "reports/cases/SBM-2026-B2C967DF_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-C59122E6",
+    "detection_id": "SBM-DET-217032",
+    "coordinates": [
+      78.65031971419332,
+      20.365173338025848
+    ],
+    "type": "BIOMEDICAL_WASTE",
+    "priority": "LOW",
+    "state": "IND-STATE-31",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.097458",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x08072bc57ed74b87a307949691d1f1ee720dd0de29a64697aafad394bc441e55",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-C59122E6_sat.png",
+      "ai_report": "reports/cases/SBM-2026-C59122E6_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-1729E65F",
+    "detection_id": "SBM-DET-282318",
+    "coordinates": [
+      85.17516958899466,
+      25.733855923493966
+    ],
+    "type": "RAIL_TRACK_WASTE",
+    "priority": "LOW",
+    "state": "IND-STATE-15",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.098457",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x53a69c5dc9d342c2812e1d669f2ad9b6a2fb03b611c3409181f05f6fff71c771",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-1729E65F_sat.png",
+      "ai_report": "reports/cases/SBM-2026-1729E65F_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-E74E481C",
+    "detection_id": "SBM-DET-547519",
+    "coordinates": [
+      73.03986436705925,
+      21.682470617899323
+    ],
+    "type": "LANDFILL_OVERFLOW",
+    "priority": "LOW",
+    "state": "IND-STATE-6",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.099542",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x6aa8a85541df4d13b8a274ac13c80da5a3867ea5a879498c8e73fc65edb1e294",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-E74E481C_sat.png",
+      "ai_report": "reports/cases/SBM-2026-E74E481C_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-4608094F",
+    "detection_id": "SBM-DET-120357",
+    "coordinates": [
+      92.76154965269791,
+      31.781836280285457
+    ],
+    "type": "RAIL_TRACK_WASTE",
+    "priority": "LOW",
+    "state": "IND-STATE-19",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.100560",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x156862a3b06e4caa8671ae5cff356de8e11a34b2784d40a1bb9796ba14e89055",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-4608094F_sat.png",
+      "ai_report": "reports/cases/SBM-2026-4608094F_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-3CE20596",
+    "detection_id": "SBM-DET-685359",
+    "coordinates": [
+      86.53069568482147,
+      27.998096993911165
+    ],
+    "type": "GROUNDWATER_CONTAM",
+    "priority": "LOW",
+    "state": "IND-STATE-22",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.101575",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xde7ae0a884ed49afa69abedf51c8b664ea1e557ba2c542bab67ee26269c61e50",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-3CE20596_sat.png",
+      "ai_report": "reports/cases/SBM-2026-3CE20596_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-FBE66DDC",
+    "detection_id": "SBM-DET-114019",
+    "coordinates": [
+      91.61749820707061,
+      18.052030362584812
+    ],
+    "type": "GROUNDWATER_CONTAM",
+    "priority": "LOW",
+    "state": "IND-STATE-25",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.102603",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x7a0bfcde9d56412e84a713a10f2ad93df68d67a901db4cf1ba44127e344b089a",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-FBE66DDC_sat.png",
+      "ai_report": "reports/cases/SBM-2026-FBE66DDC_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-B956C657",
+    "detection_id": "SBM-DET-978957",
+    "coordinates": [
+      92.87619774954638,
+      33.33203453184902
+    ],
+    "type": "AQI_DANGER_CORRIDOR",
+    "priority": "LOW",
+    "state": "IND-STATE-1",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.103650",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x104a5d52ed0b4c52ba05a9910daa0ab89bb8a154433742aa9f2e3f3d872922b3",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-B956C657_sat.png",
+      "ai_report": "reports/cases/SBM-2026-B956C657_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-AF547824",
+    "detection_id": "SBM-DET-139946",
+    "coordinates": [
+      78.42102692492936,
+      28.219777642811994
+    ],
+    "type": "SLUM_SANITATION_FAIL",
+    "priority": "LOW",
+    "state": "IND-STATE-4",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.104746",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x7c4298cb4fbc468397b1ac664cf725683c2f3a9cfaff45dda913dec60d4e4cdd",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-AF547824_sat.png",
+      "ai_report": "reports/cases/SBM-2026-AF547824_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-48527377",
+    "detection_id": "SBM-DET-789853",
+    "coordinates": [
+      84.97371878292029,
+      27.817969459868
+    ],
+    "type": "SLUM_SANITATION_FAIL",
+    "priority": "LOW",
+    "state": "IND-STATE-29",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.105847",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x6933f7f8acc244dd9ca1fb9d3f837639c03ad4e21525497181e0e0bc799cba5d",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-48527377_sat.png",
+      "ai_report": "reports/cases/SBM-2026-48527377_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-E6C16FFC",
+    "detection_id": "SBM-DET-595297",
+    "coordinates": [
+      71.51485228407878,
+      27.246314613589103
+    ],
+    "type": "MINING_ZONE_ENCROACH",
+    "priority": "MEDIUM",
+    "state": "IND-STATE-35",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.107067",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x38f127937aa3415c99aab048cf819091ec13e7aa020144329354b4a7262a5af0",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-E6C16FFC_sat.png",
+      "ai_report": "reports/cases/SBM-2026-E6C16FFC_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-49A5A79A",
+    "detection_id": "SBM-DET-495571",
+    "coordinates": [
+      71.24074100660454,
+      17.1295641056997
+    ],
+    "type": "SLUM_SANITATION_FAIL",
+    "priority": "LOW",
+    "state": "IND-STATE-19",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.108264",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x2163e6df07f54bbea1afe285cc955812d34ad2ffd33e45d5b7304d2315d2ce89",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-49A5A79A_sat.png",
+      "ai_report": "reports/cases/SBM-2026-49A5A79A_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-758D0134",
+    "detection_id": "SBM-DET-356978",
+    "coordinates": [
+      76.43860316854334,
+      10.605764312110347
+    ],
+    "type": "BIOMEDICAL_WASTE",
+    "priority": "LOW",
+    "state": "IND-STATE-17",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.110015",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xadaab9332797420db292adbfb309fce5b9f53933ff6241619fcf705c1c56f5c0",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-758D0134_sat.png",
+      "ai_report": "reports/cases/SBM-2026-758D0134_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-29306C93",
+    "detection_id": "SBM-DET-675414",
+    "coordinates": [
+      83.0552184156434,
+      16.063863403762674
+    ],
+    "type": "FARM_FIRE",
+    "priority": "LOW",
+    "state": "IND-STATE-31",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.111972",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xdb38ab6a8c28443dae811d003e6d238c76c433754b254a1b81a77c1445648b0e",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-29306C93_sat.png",
+      "ai_report": "reports/cases/SBM-2026-29306C93_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-0B0C1A57",
+    "detection_id": "SBM-DET-672757",
+    "coordinates": [
+      71.84696662727688,
+      29.675941283075975
+    ],
+    "type": "COASTAL_POLLUTION",
+    "priority": "LOW",
+    "state": "IND-STATE-30",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.113174",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x7edeca78768e45b88aff06a53a8f1412ad8d3a007ade4cfd9eddac180db8dc1c",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-0B0C1A57_sat.png",
+      "ai_report": "reports/cases/SBM-2026-0B0C1A57_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-CD29521A",
+    "detection_id": "SBM-DET-643312",
+    "coordinates": [
+      95.24270852314024,
+      24.197125253792485
+    ],
+    "type": "RAIL_TRACK_WASTE",
+    "priority": "LOW",
+    "state": "IND-STATE-30",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.114770",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x725526d8726343e58fc76730e532aecd38d28fe478c14ae5a29e248cac19284c",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-CD29521A_sat.png",
+      "ai_report": "reports/cases/SBM-2026-CD29521A_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-CEAC96CB",
+    "detection_id": "SBM-DET-293437",
+    "coordinates": [
+      92.58674566931774,
+      19.30961652432752
+    ],
+    "type": "ILLEGAL_DUMPING",
+    "priority": "MEDIUM",
+    "state": "IND-STATE-14",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.116158",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x8712afe21f1740a5b6c932fd5c0d3fbaab2037a3c6af472b9945819f94889ede",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-CEAC96CB_sat.png",
+      "ai_report": "reports/cases/SBM-2026-CEAC96CB_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-7FB19040",
+    "detection_id": "SBM-DET-772407",
+    "coordinates": [
+      75.03876526492134,
+      24.79498226934053
+    ],
+    "type": "PLASTIC_HOTSPOT",
+    "priority": "LOW",
+    "state": "IND-STATE-24",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.117495",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xc7be7fe3770f4c91a3d9e8a373c42218dab6e75f6f0a4d18a0f1ae14ebd0d9a4",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-7FB19040_sat.png",
+      "ai_report": "reports/cases/SBM-2026-7FB19040_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-4BD14903",
+    "detection_id": "SBM-DET-788256",
+    "coordinates": [
+      73.73033464816258,
+      12.851651092271354
+    ],
+    "type": "FARM_FIRE",
+    "priority": "LOW",
+    "state": "IND-STATE-9",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.118833",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x9725b7916d6b442f93b5646214cc997190533bc813954bcda0bcd0fddfb3be21",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-4BD14903_sat.png",
+      "ai_report": "reports/cases/SBM-2026-4BD14903_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-CC07339A",
+    "detection_id": "SBM-DET-420082",
+    "coordinates": [
+      69.61121697890448,
+      11.385467951427723
+    ],
+    "type": "BIOMEDICAL_WASTE",
+    "priority": "LOW",
+    "state": "IND-STATE-34",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.120437",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x1e8f04e090a246eaa11fda269cb85037c92cfcfb22a04567bd31541175811158",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-CC07339A_sat.png",
+      "ai_report": "reports/cases/SBM-2026-CC07339A_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-F948A0DD",
+    "detection_id": "SBM-DET-694433",
+    "coordinates": [
+      73.2358326061534,
+      33.8296190106966
+    ],
+    "type": "LANDFILL_OVERFLOW",
+    "priority": "LOW",
+    "state": "IND-STATE-34",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.121839",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xfead682aa5c347fca5283a70b7e0549ae9908ace383d440d82a69a848278b63b",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-F948A0DD_sat.png",
+      "ai_report": "reports/cases/SBM-2026-F948A0DD_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-2C784B91",
+    "detection_id": "SBM-DET-952752",
+    "coordinates": [
+      82.69704018685236,
+      11.901655072819281
+    ],
+    "type": "AQI_DANGER_CORRIDOR",
+    "priority": "LOW",
+    "state": "IND-STATE-8",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.123311",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xa9765db693e34b23b4c95e40b8500b1219ec814770ba4f5a809b0fa76b48d448",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-2C784B91_sat.png",
+      "ai_report": "reports/cases/SBM-2026-2C784B91_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-316D4078",
+    "detection_id": "SBM-DET-277968",
+    "coordinates": [
+      94.87946557634916,
+      34.96128306373334
+    ],
+    "type": "SLUM_SANITATION_FAIL",
+    "priority": "LOW",
+    "state": "IND-STATE-21",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.124852",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xa9fc161bdf54453094d365e13f3f382230d7f030032343ac873f2a6fe32fbfa3",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-316D4078_sat.png",
+      "ai_report": "reports/cases/SBM-2026-316D4078_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-1990E240",
+    "detection_id": "SBM-DET-826695",
+    "coordinates": [
+      80.61078298908168,
+      29.768900371757702
+    ],
+    "type": "RIVER_HEALTH_CRITICAL",
+    "priority": "LOW",
+    "state": "IND-STATE-32",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.126272",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x226271e08b73442a88b2e3879b05aec18912f4954685449a96a71c7166fe380a",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-1990E240_sat.png",
+      "ai_report": "reports/cases/SBM-2026-1990E240_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-44FB2B9B",
+    "detection_id": "SBM-DET-803516",
+    "coordinates": [
+      93.6662793444389,
+      21.377541900058795
+    ],
+    "type": "LANDFILL_OVERFLOW",
+    "priority": "LOW",
+    "state": "IND-STATE-32",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.127733",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xa87fed527b304f619af9f2c946a707551dabd7c9b39b4684b66e94fce9e71b12",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-44FB2B9B_sat.png",
+      "ai_report": "reports/cases/SBM-2026-44FB2B9B_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-0585043B",
+    "detection_id": "SBM-DET-869792",
+    "coordinates": [
+      86.69117540938134,
+      11.360325429017248
+    ],
+    "type": "CONSTRUCTION_WASTE",
+    "priority": "LOW",
+    "state": "IND-STATE-21",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.129199",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x3bc054a5818142e080140621c99a020532630adcd23a45a18627c8304c641cbb",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-0585043B_sat.png",
+      "ai_report": "reports/cases/SBM-2026-0585043B_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-A2C8371E",
+    "detection_id": "SBM-DET-575044",
+    "coordinates": [
+      76.31667223564328,
+      25.318829309160776
+    ],
+    "type": "PLASTIC_HOTSPOT",
+    "priority": "MEDIUM",
+    "state": "IND-STATE-25",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.130943",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x24009f5848cf4c74866adc85c7c5c9ca6bc3fa1f9b504f8e936166244b33fa29",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-A2C8371E_sat.png",
+      "ai_report": "reports/cases/SBM-2026-A2C8371E_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-E18701EC",
+    "detection_id": "SBM-DET-692393",
+    "coordinates": [
+      88.03594147176435,
+      22.85048577657585
+    ],
+    "type": "LANDFILL_OVERFLOW",
+    "priority": "CRITICAL",
+    "state": "IND-STATE-33",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.132521",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xdeb14dbd5e084a11bd17da8ad6cccd93d5a588b1f3a14f489b871d1db433458a",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-E18701EC_sat.png",
+      "ai_report": "reports/cases/SBM-2026-E18701EC_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-1C81F498",
+    "detection_id": "SBM-DET-233615",
+    "coordinates": [
+      96.99881592515938,
+      31.566851114395554
+    ],
+    "type": "CONSTRUCTION_WASTE",
+    "priority": "LOW",
+    "state": "IND-STATE-33",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.134288",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xb75eb66feae84b25b54aca44c60412d31a252b2541ac4c0f89ddf272c030b523",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-1C81F498_sat.png",
+      "ai_report": "reports/cases/SBM-2026-1C81F498_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-EF6BBF68",
+    "detection_id": "SBM-DET-390437",
+    "coordinates": [
+      68.62007300179171,
+      8.05885624166361
+    ],
+    "type": "BIOMEDICAL_WASTE",
+    "priority": "LOW",
+    "state": "IND-STATE-18",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.135971",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xa9860549772d45c4a543e7a4c9fb575fc636c331c40044549cfd3b352fe141f7",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-EF6BBF68_sat.png",
+      "ai_report": "reports/cases/SBM-2026-EF6BBF68_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-63B655BA",
+    "detection_id": "SBM-DET-871734",
+    "coordinates": [
+      91.33535580674469,
+      14.4839297590256
+    ],
+    "type": "GROUNDWATER_CONTAM",
+    "priority": "LOW",
+    "state": "IND-STATE-19",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.137654",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x5f720056e29f462184b0addb75a22650f6a2d16c58d6446eb4586797530d65d1",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-63B655BA_sat.png",
+      "ai_report": "reports/cases/SBM-2026-63B655BA_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-91169907",
+    "detection_id": "SBM-DET-173001",
+    "coordinates": [
+      71.1830571876161,
+      18.909540495312832
+    ],
+    "type": "FARM_FIRE",
+    "priority": "LOW",
+    "state": "IND-STATE-13",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.139247",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xd209efc987294e308e63112901eeaa5d5b6dbdd0a7b540cfb887f6a581d95e78",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-91169907_sat.png",
+      "ai_report": "reports/cases/SBM-2026-91169907_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-6643DD83",
+    "detection_id": "SBM-DET-542888",
+    "coordinates": [
+      78.23310739202557,
+      32.63977035777855
+    ],
+    "type": "FARM_FIRE",
+    "priority": "LOW",
+    "state": "IND-STATE-32",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.140905",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x7721020ba5764c53abfb78ee63b81350267c9a0f17444130b8ad5815dd1a5a5e",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-6643DD83_sat.png",
+      "ai_report": "reports/cases/SBM-2026-6643DD83_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-D2D801C3",
+    "detection_id": "SBM-DET-939045",
+    "coordinates": [
+      74.55672632985964,
+      20.545544600153193
+    ],
+    "type": "RAIL_TRACK_WASTE",
+    "priority": "LOW",
+    "state": "IND-STATE-18",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.142676",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x8542cc1b86274b95bcc056f4e150a7430fd7c35324b44b37afeebe51202801b6",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-D2D801C3_sat.png",
+      "ai_report": "reports/cases/SBM-2026-D2D801C3_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-1093F535",
+    "detection_id": "SBM-DET-716525",
+    "coordinates": [
+      84.50397048113278,
+      15.6323901521526
+    ],
+    "type": "RIVER_HEALTH_CRITICAL",
+    "priority": "HIGH",
+    "state": "IND-STATE-32",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.144312",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x6ec03621649749c8a8dcb0a7442ac7570817ad3e2e024acb8667d2a32531f74e",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-1093F535_sat.png",
+      "ai_report": "reports/cases/SBM-2026-1093F535_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-F4AF0637",
+    "detection_id": "SBM-DET-917701",
+    "coordinates": [
+      79.27905301593931,
+      30.416467203996966
+    ],
+    "type": "INDUSTRIAL_POLLUTION",
+    "priority": "LOW",
+    "state": "IND-STATE-27",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.145975",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xc8eb3246bcb64c4faee4efabcc47a4f4d62ba98d5f0e4cda9330ebf9134922e2",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-F4AF0637_sat.png",
+      "ai_report": "reports/cases/SBM-2026-F4AF0637_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-DD377A3E",
+    "detection_id": "SBM-DET-923938",
+    "coordinates": [
+      69.86912099706396,
+      14.545591474265454
+    ],
+    "type": "RAIL_TRACK_WASTE",
+    "priority": "LOW",
+    "state": "IND-STATE-34",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.148482",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x32c0adfe908c40dabbf6b2bf2c7a29b935ff81a6cf004b048c0827ee25d50323",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-DD377A3E_sat.png",
+      "ai_report": "reports/cases/SBM-2026-DD377A3E_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-DF29300C",
+    "detection_id": "SBM-DET-162185",
+    "coordinates": [
+      74.87995841388802,
+      11.072655545322979
+    ],
+    "type": "MINING_ZONE_ENCROACH",
+    "priority": "LOW",
+    "state": "IND-STATE-27",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.150556",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x9ff073f2cc0d41598abba22e4b7553c282f3d4d337f5474db52dccd4bcfb8fc9",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-DF29300C_sat.png",
+      "ai_report": "reports/cases/SBM-2026-DF29300C_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-9CCBCD8C",
+    "detection_id": "SBM-DET-754090",
+    "coordinates": [
+      86.67759203904892,
+      11.598168819555212
+    ],
+    "type": "COASTAL_POLLUTION",
+    "priority": "LOW",
+    "state": "IND-STATE-28",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.152229",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x993fb48c862c4fca9ac9ff9d32a03942b84ea7bf2f8e4634944591e5373e03ff",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-9CCBCD8C_sat.png",
+      "ai_report": "reports/cases/SBM-2026-9CCBCD8C_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-2ACEB2C3",
+    "detection_id": "SBM-DET-204624",
+    "coordinates": [
+      68.04302879570574,
+      23.25824293438866
+    ],
+    "type": "FARM_FIRE",
+    "priority": "LOW",
+    "state": "IND-STATE-26",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.154008",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xe9421510dfe34d06bc070cebe9699215d1201e7503b645979df7985a03d9a16c",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-2ACEB2C3_sat.png",
+      "ai_report": "reports/cases/SBM-2026-2ACEB2C3_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-D939725B",
+    "detection_id": "SBM-DET-515272",
+    "coordinates": [
+      76.8136458500292,
+      13.807115078873437
+    ],
+    "type": "PLASTIC_HOTSPOT",
+    "priority": "LOW",
+    "state": "IND-STATE-31",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.155861",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x858c37135e634c3ca2bfa975c6b10bcecdacf8fe54bd4fd99512e53cfc0ac144",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-D939725B_sat.png",
+      "ai_report": "reports/cases/SBM-2026-D939725B_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-939C640C",
+    "detection_id": "SBM-DET-844953",
+    "coordinates": [
+      68.60618574007334,
+      28.237205578784454
+    ],
+    "type": "AQI_DANGER_CORRIDOR",
+    "priority": "LOW",
+    "state": "IND-STATE-19",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.158032",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xd82badcf0166420eb497b73cb5bd960f7dc0c7da241d4ea9a368dffb366e1559",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-939C640C_sat.png",
+      "ai_report": "reports/cases/SBM-2026-939C640C_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-31CAE53B",
+    "detection_id": "SBM-DET-712144",
+    "coordinates": [
+      91.58194988195858,
+      34.96151476586121
+    ],
+    "type": "BIOMEDICAL_WASTE",
+    "priority": "MEDIUM",
+    "state": "IND-STATE-13",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.160076",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x067fda499e0042b2af9a838954d1def09a945469b0b34c32b036f7c6ab9d6207",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-31CAE53B_sat.png",
+      "ai_report": "reports/cases/SBM-2026-31CAE53B_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-DBAE14F3",
+    "detection_id": "SBM-DET-795364",
+    "coordinates": [
+      83.44991359672898,
+      12.087365742186359
+    ],
+    "type": "CONSTRUCTION_WASTE",
+    "priority": "HIGH",
+    "state": "IND-STATE-22",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.161954",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x553eb6c85c984eac8b1d7b9dc990f4193b54dbc18dbb4d8ab3879a853396c6eb",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-DBAE14F3_sat.png",
+      "ai_report": "reports/cases/SBM-2026-DBAE14F3_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-8FC72237",
+    "detection_id": "SBM-DET-655626",
+    "coordinates": [
+      68.05144818665505,
+      34.61559222996274
+    ],
+    "type": "WETLAND_ENCROACH",
+    "priority": "LOW",
+    "state": "IND-STATE-17",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T14:58:43.163897",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x911786638c9e488eb9901977bd096654f3ac524963c144f4b4940a5838a891a3",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-8FC72237_sat.png",
+      "ai_report": "reports/cases/SBM-2026-8FC72237_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-F6235D19",
+    "detection_id": "SBM-DET-649278",
+    "coordinates": [
+      70.26159558316691,
+      25.990088067387983
+    ],
+    "type": "AQI_DANGER_CORRIDOR",
+    "priority": "LOW",
+    "state": "IND-STATE-7",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.112008",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xb195920713db4ccba625ee6b7094d7cc1958464fe3c54a7b9c4f7217ccd172ba",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-F6235D19_sat.png",
+      "ai_report": "reports/cases/SBM-2026-F6235D19_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-E3D39E15",
+    "detection_id": "SBM-DET-622161",
+    "coordinates": [
+      93.94280424608358,
+      7.335933053558928
+    ],
+    "type": "WETLAND_ENCROACH",
+    "priority": "LOW",
+    "state": "IND-STATE-11",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.114190",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x3b41ffefcd1d4a0ca81d103a152b80b9db4a2475140e494b87b9a92e85ef4d91",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-E3D39E15_sat.png",
+      "ai_report": "reports/cases/SBM-2026-E3D39E15_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-91D1345D",
+    "detection_id": "SBM-DET-977598",
+    "coordinates": [
+      70.16685396661127,
+      34.52035630875201
+    ],
+    "type": "BIOMEDICAL_WASTE",
+    "priority": "LOW",
+    "state": "IND-STATE-36",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.119277",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x624ce28583b84dfea6a593e138a439c40477e050cc2c491185e1b2149140a89a",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-91D1345D_sat.png",
+      "ai_report": "reports/cases/SBM-2026-91D1345D_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-03B4C605",
+    "detection_id": "SBM-DET-793541",
+    "coordinates": [
+      73.69198968509625,
+      34.5785312687289
+    ],
+    "type": "RIVER_HEALTH_CRITICAL",
+    "priority": "LOW",
+    "state": "IND-STATE-20",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.121266",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x7279c410b79441cc914f3747e397424d2a432c6507ba42c6807dc55ae2e88316",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-03B4C605_sat.png",
+      "ai_report": "reports/cases/SBM-2026-03B4C605_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-7232EB38",
+    "detection_id": "SBM-DET-971004",
+    "coordinates": [
+      71.04508424056999,
+      34.64850756902069
+    ],
+    "type": "WETLAND_ENCROACH",
+    "priority": "LOW",
+    "state": "IND-STATE-1",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.123163",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x6de081056190487c825de27d5167d073073894d614244fe2aaa0e81761be9708",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-7232EB38_sat.png",
+      "ai_report": "reports/cases/SBM-2026-7232EB38_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-317F1568",
+    "detection_id": "SBM-DET-675881",
+    "coordinates": [
+      74.85967022728668,
+      31.481782966863822
+    ],
+    "type": "LANDFILL_OVERFLOW",
+    "priority": "LOW",
+    "state": "IND-STATE-35",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.125480",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xe5ac0465c9a94bbb8ca35b5212eee4eeeb4059efdf2a4cf3880212f4dc9182fe",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-317F1568_sat.png",
+      "ai_report": "reports/cases/SBM-2026-317F1568_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-387CC4A8",
+    "detection_id": "SBM-DET-549799",
+    "coordinates": [
+      71.9824753388668,
+      10.26832858117669
+    ],
+    "type": "COASTAL_POLLUTION",
+    "priority": "HIGH",
+    "state": "IND-STATE-9",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.127810",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xdbb39b8b4c5c4a749514beeae2b9d1ab1d32aaa87c684b399245ba750eb74869",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-387CC4A8_sat.png",
+      "ai_report": "reports/cases/SBM-2026-387CC4A8_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-B4AD6558",
+    "detection_id": "SBM-DET-568165",
+    "coordinates": [
+      93.58998945619666,
+      27.084422459820306
+    ],
+    "type": "CONSTRUCTION_WASTE",
+    "priority": "LOW",
+    "state": "IND-STATE-31",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.130121",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xb6b1a2f6becb46dd976eecd07b69f6c882bfb82c946f40eca410e6fe38914b5e",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-B4AD6558_sat.png",
+      "ai_report": "reports/cases/SBM-2026-B4AD6558_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-94129693",
+    "detection_id": "SBM-DET-110958",
+    "coordinates": [
+      92.54947840915088,
+      10.291171617154244
+    ],
+    "type": "ILLEGAL_DUMPING",
+    "priority": "LOW",
+    "state": "IND-STATE-9",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.132367",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x9ccfeb52a90f4a028a4b375944cb101f34151bc8592045179046d7ad91dca81c",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-94129693_sat.png",
+      "ai_report": "reports/cases/SBM-2026-94129693_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-EFAEAEC7",
+    "detection_id": "SBM-DET-743651",
+    "coordinates": [
+      75.85198734121445,
+      17.432049255322088
+    ],
+    "type": "BIOMEDICAL_WASTE",
+    "priority": "LOW",
+    "state": "IND-STATE-16",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.134568",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x6630dbf71b7f4cfa9a005ffd22335b241392f2bcc6f54f1cb10959a912ee8a49",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-EFAEAEC7_sat.png",
+      "ai_report": "reports/cases/SBM-2026-EFAEAEC7_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-C228C686",
+    "detection_id": "SBM-DET-301565",
+    "coordinates": [
+      68.09774656179805,
+      29.208168990579807
+    ],
+    "type": "BIOMEDICAL_WASTE",
+    "priority": "LOW",
+    "state": "IND-STATE-23",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.136690",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x5e7e27015e5c4e69913b2ba9298ba92225b54c3eb1884cb5b36f8045870a680c",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-C228C686_sat.png",
+      "ai_report": "reports/cases/SBM-2026-C228C686_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-DA164EC3",
+    "detection_id": "SBM-DET-698577",
+    "coordinates": [
+      69.08733266576455,
+      16.207176115785195
+    ],
+    "type": "CONSTRUCTION_WASTE",
+    "priority": "LOW",
+    "state": "IND-STATE-18",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.138870",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x9d8e76a667b44c77ad8885b82d3e6feb5fc73a1092cc48a7870b13bbc6869972",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-DA164EC3_sat.png",
+      "ai_report": "reports/cases/SBM-2026-DA164EC3_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-289F4711",
+    "detection_id": "SBM-DET-217498",
+    "coordinates": [
+      91.78536065442738,
+      28.633631583172335
+    ],
+    "type": "SLUM_SANITATION_FAIL",
+    "priority": "LOW",
+    "state": "IND-STATE-19",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.141071",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x1552f703bda3423e8b515688f1b6a2d9d8a5d6b582f041878cdd27bfe0091ea0",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-289F4711_sat.png",
+      "ai_report": "reports/cases/SBM-2026-289F4711_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-CCD28B9B",
+    "detection_id": "SBM-DET-809942",
+    "coordinates": [
+      76.91972048833323,
+      26.351134864009538
+    ],
+    "type": "RAIL_TRACK_WASTE",
+    "priority": "LOW",
+    "state": "IND-STATE-24",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.143376",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xcb3cb743eef44c5ab77483da3a80a447bab1520b611d4e6daa39e0e5b7c0b199",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-CCD28B9B_sat.png",
+      "ai_report": "reports/cases/SBM-2026-CCD28B9B_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-B27976CF",
+    "detection_id": "SBM-DET-660921",
+    "coordinates": [
+      82.22622737641855,
+      21.231924231717873
+    ],
+    "type": "AQI_DANGER_CORRIDOR",
+    "priority": "HIGH",
+    "state": "IND-STATE-25",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.145943",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xbed9486110674216819d04a740549246b64d7d4e61c84893838f3637f5ca5e5b",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-B27976CF_sat.png",
+      "ai_report": "reports/cases/SBM-2026-B27976CF_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-4AEE0485",
+    "detection_id": "SBM-DET-393589",
+    "coordinates": [
+      86.34357845356408,
+      21.406586679236835
+    ],
+    "type": "SLUM_SANITATION_FAIL",
+    "priority": "LOW",
+    "state": "IND-STATE-27",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.148504",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xe22d2f1fbbc14b6db2b871c8ae93c93b9d2963014a35491aaa176eceb06565c4",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-4AEE0485_sat.png",
+      "ai_report": "reports/cases/SBM-2026-4AEE0485_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-7B8D9A81",
+    "detection_id": "SBM-DET-497290",
+    "coordinates": [
+      82.09194491572438,
+      30.62614251173979
+    ],
+    "type": "BIOMEDICAL_WASTE",
+    "priority": "LOW",
+    "state": "IND-STATE-16",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.150772",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x16acbf302f4e4f7594e48e241c1dfab6387a46a07b514d7582973c222a0deeed",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-7B8D9A81_sat.png",
+      "ai_report": "reports/cases/SBM-2026-7B8D9A81_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-E360E6FB",
+    "detection_id": "SBM-DET-580388",
+    "coordinates": [
+      86.06044477006785,
+      30.60936264592677
+    ],
+    "type": "FARM_FIRE",
+    "priority": "LOW",
+    "state": "IND-STATE-31",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.153152",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x2b809c1ca72c486680a737cb8fbd90a5cb7591ae99b1437fb15f2d87a0d618c8",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-E360E6FB_sat.png",
+      "ai_report": "reports/cases/SBM-2026-E360E6FB_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-2F0F8866",
+    "detection_id": "SBM-DET-285583",
+    "coordinates": [
+      85.4179727619946,
+      30.004370331885873
+    ],
+    "type": "AQI_DANGER_CORRIDOR",
+    "priority": "MEDIUM",
+    "state": "IND-STATE-3",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.155513",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xac71cadebd1544129c23faea570e786067b54cd02d5c4897baee12f2d953bbb8",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-2F0F8866_sat.png",
+      "ai_report": "reports/cases/SBM-2026-2F0F8866_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-99479089",
+    "detection_id": "SBM-DET-182823",
+    "coordinates": [
+      69.44763725106397,
+      31.41267178082581
+    ],
+    "type": "SLUM_SANITATION_FAIL",
+    "priority": "LOW",
+    "state": "IND-STATE-25",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.157882",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xb2e7dce8e3034671933d6553b23c08bf5d45f336fa954dd2bbaf93f9a25ff89a",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-99479089_sat.png",
+      "ai_report": "reports/cases/SBM-2026-99479089_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-B432EF92",
+    "detection_id": "SBM-DET-741091",
+    "coordinates": [
+      75.74270991302461,
+      24.50282417283192
+    ],
+    "type": "WETLAND_ENCROACH",
+    "priority": "LOW",
+    "state": "IND-STATE-35",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.160414",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xabf39a9c42ed4341a47af6db063619dc79458b5d3f5042c3abcb398aebe20e7d",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-B432EF92_sat.png",
+      "ai_report": "reports/cases/SBM-2026-B432EF92_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-0B4A8BA5",
+    "detection_id": "SBM-DET-791083",
+    "coordinates": [
+      70.75569627378411,
+      13.020217185131502
+    ],
+    "type": "PLASTIC_HOTSPOT",
+    "priority": "LOW",
+    "state": "IND-STATE-6",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.163090",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x9e1905ea01f841de9f6dfc6ca7dd000e9ef26073937b4486a48dadc44e924f52",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-0B4A8BA5_sat.png",
+      "ai_report": "reports/cases/SBM-2026-0B4A8BA5_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-B6E550CC",
+    "detection_id": "SBM-DET-418611",
+    "coordinates": [
+      83.68902103410855,
+      9.261394886353703
+    ],
+    "type": "CONSTRUCTION_WASTE",
+    "priority": "LOW",
+    "state": "IND-STATE-13",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.165395",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xbe2bd7cba5d646f6b5857b39c9fb7dde16d2292b4f764055a01a7d1f903c97ae",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-B6E550CC_sat.png",
+      "ai_report": "reports/cases/SBM-2026-B6E550CC_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-A2DF6E4D",
+    "detection_id": "SBM-DET-457518",
+    "coordinates": [
+      73.22258887768405,
+      20.650177431246238
+    ],
+    "type": "BIOMEDICAL_WASTE",
+    "priority": "LOW",
+    "state": "IND-STATE-19",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.167974",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xacb902f77819432f9f896ace9c3f120eee1991417a9148d189649146dc970e47",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-A2DF6E4D_sat.png",
+      "ai_report": "reports/cases/SBM-2026-A2DF6E4D_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-65E4C75C",
+    "detection_id": "SBM-DET-562674",
+    "coordinates": [
+      95.31582750133168,
+      16.177059384914052
+    ],
+    "type": "BIOMEDICAL_WASTE",
+    "priority": "LOW",
+    "state": "IND-STATE-9",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.170366",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x9980964dbb97474a96f2b54b2163059de901d1784f3547b1aea9aadfcb89e8f3",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-65E4C75C_sat.png",
+      "ai_report": "reports/cases/SBM-2026-65E4C75C_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-5BA8D21C",
+    "detection_id": "SBM-DET-963141",
+    "coordinates": [
+      71.16553809459985,
+      31.092936372708692
+    ],
+    "type": "MINING_ZONE_ENCROACH",
+    "priority": "LOW",
+    "state": "IND-STATE-19",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.172695",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x2be32de093d64ad590d32285271b675f04a64b423a2d4220b08b95f5cbe45d0a",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-5BA8D21C_sat.png",
+      "ai_report": "reports/cases/SBM-2026-5BA8D21C_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-EF04FE03",
+    "detection_id": "SBM-DET-117138",
+    "coordinates": [
+      95.52384944406172,
+      29.316463281443223
+    ],
+    "type": "FARM_FIRE",
+    "priority": "LOW",
+    "state": "IND-STATE-9",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.175537",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xc0bbc654a39e4b809af4ff25ef3aea3c71d565719749427fbf5e478cab1b6aeb",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-EF04FE03_sat.png",
+      "ai_report": "reports/cases/SBM-2026-EF04FE03_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-A149C563",
+    "detection_id": "SBM-DET-739414",
+    "coordinates": [
+      93.24666774670462,
+      17.327378443728808
+    ],
+    "type": "CONSTRUCTION_WASTE",
+    "priority": "LOW",
+    "state": "IND-STATE-35",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.178546",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x7c10e2eb746247808848031f143f68212dc33841f2c54fbfafd26572ec084f48",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-A149C563_sat.png",
+      "ai_report": "reports/cases/SBM-2026-A149C563_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-09FAE6C0",
+    "detection_id": "SBM-DET-539879",
+    "coordinates": [
+      90.35120764329848,
+      28.223238395721097
+    ],
+    "type": "FARM_FIRE",
+    "priority": "LOW",
+    "state": "IND-STATE-24",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.181252",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x4a05b41f10654a4696452371ad3aa2aedb8a0c2fc0ca458b8560f8bab4c86fb7",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-09FAE6C0_sat.png",
+      "ai_report": "reports/cases/SBM-2026-09FAE6C0_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-575047F3",
+    "detection_id": "SBM-DET-338404",
+    "coordinates": [
+      94.94547166182332,
+      21.4357793156821
+    ],
+    "type": "SLUM_SANITATION_FAIL",
+    "priority": "MEDIUM",
+    "state": "IND-STATE-7",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.183818",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x91b67547aa8e4dec9be8fdcf1c088a8f31e0ce8106ea4f8c8ca540b1d2b13d45",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-575047F3_sat.png",
+      "ai_report": "reports/cases/SBM-2026-575047F3_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-8D6A2F37",
+    "detection_id": "SBM-DET-274968",
+    "coordinates": [
+      74.97207966283422,
+      23.371483570174068
+    ],
+    "type": "COASTAL_POLLUTION",
+    "priority": "LOW",
+    "state": "IND-STATE-20",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.186455",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xc31d1594cd204fc1a3037bc5d50b172d22f87ceebef8401c97e67ee74586012f",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-8D6A2F37_sat.png",
+      "ai_report": "reports/cases/SBM-2026-8D6A2F37_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-631AB66D",
+    "detection_id": "SBM-DET-712691",
+    "coordinates": [
+      84.12135024981927,
+      35.14131050432037
+    ],
+    "type": "GROUNDWATER_CONTAM",
+    "priority": "LOW",
+    "state": "IND-STATE-17",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.189156",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x5481888142f841e8b5c9884faa778d4eb8142b06388a4894b8c437bbeb7b40c3",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-631AB66D_sat.png",
+      "ai_report": "reports/cases/SBM-2026-631AB66D_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-A4D6A693",
+    "detection_id": "SBM-DET-209601",
+    "coordinates": [
+      96.87694494814544,
+      31.15178560591659
+    ],
+    "type": "WETLAND_ENCROACH",
+    "priority": "LOW",
+    "state": "IND-STATE-27",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.192554",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x41edbfa7a9684c9997edd135ef24caa5d6b260bc9e6143568cc1273a887368b4",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-A4D6A693_sat.png",
+      "ai_report": "reports/cases/SBM-2026-A4D6A693_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-52D0471C",
+    "detection_id": "SBM-DET-911357",
+    "coordinates": [
+      89.97737370436639,
+      29.089138931218493
+    ],
+    "type": "CONSTRUCTION_WASTE",
+    "priority": "LOW",
+    "state": "IND-STATE-13",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.195952",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xa78698c25b9d45e0a60df8ab4f60aadba66b6b92853f4780b0bad36f3ac31647",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-52D0471C_sat.png",
+      "ai_report": "reports/cases/SBM-2026-52D0471C_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-C12B68A1",
+    "detection_id": "SBM-DET-853969",
+    "coordinates": [
+      82.0245461408798,
+      22.445267585652648
+    ],
+    "type": "RIVER_HEALTH_CRITICAL",
+    "priority": "LOW",
+    "state": "IND-STATE-24",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.198913",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xbacbc0c9e40949c08a8f76431f6c803b973a0312455f49ca9e75ea028eb08d11",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-C12B68A1_sat.png",
+      "ai_report": "reports/cases/SBM-2026-C12B68A1_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-AE9EC77D",
+    "detection_id": "SBM-DET-850655",
+    "coordinates": [
+      88.41637884217928,
+      12.223406042754407
+    ],
+    "type": "ILLEGAL_DUMPING",
+    "priority": "LOW",
+    "state": "IND-STATE-16",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.201551",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x6f4df96d73ee40eb903fee3f2850493c25033c84a096469b85a934d0a8e5e702",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-AE9EC77D_sat.png",
+      "ai_report": "reports/cases/SBM-2026-AE9EC77D_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-B4C27D8C",
+    "detection_id": "SBM-DET-687441",
+    "coordinates": [
+      71.41285209745743,
+      29.09250495259483
+    ],
+    "type": "AQI_DANGER_CORRIDOR",
+    "priority": "LOW",
+    "state": "IND-STATE-3",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.204147",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xbbeadad8dc5c4a82849ada0219f47186ba2dade70a1e4384a1c85ddba5b74a24",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-B4C27D8C_sat.png",
+      "ai_report": "reports/cases/SBM-2026-B4C27D8C_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-EDCFE44F",
+    "detection_id": "SBM-DET-180423",
+    "coordinates": [
+      70.38609644601127,
+      27.03684250226905
+    ],
+    "type": "SLUM_SANITATION_FAIL",
+    "priority": "LOW",
+    "state": "IND-STATE-33",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.206832",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xcd3dfb0b135a444ea428b09cd2d389592a0fc602396b4e54a4f06da2e69315aa",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-EDCFE44F_sat.png",
+      "ai_report": "reports/cases/SBM-2026-EDCFE44F_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-4D2D4DDB",
+    "detection_id": "SBM-DET-567988",
+    "coordinates": [
+      94.80775918431279,
+      6.845294214863269
+    ],
+    "type": "FARM_FIRE",
+    "priority": "LOW",
+    "state": "IND-STATE-18",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.209995",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x45dd22d7861e40549f4e3c4c1f72982236e81952528f47948b58c0bd48216efa",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-4D2D4DDB_sat.png",
+      "ai_report": "reports/cases/SBM-2026-4D2D4DDB_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-B2866102",
+    "detection_id": "SBM-DET-601645",
+    "coordinates": [
+      78.04563341135466,
+      15.853685061995732
+    ],
+    "type": "RAIL_TRACK_WASTE",
+    "priority": "LOW",
+    "state": "IND-STATE-25",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.213408",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xf90d23ba4b944ae8a45296859c99ce06d6192353caf94afabbb7fb2fba51aa77",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-B2866102_sat.png",
+      "ai_report": "reports/cases/SBM-2026-B2866102_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-13A1278C",
+    "detection_id": "SBM-DET-843992",
+    "coordinates": [
+      69.00358660659816,
+      32.62381647542678
+    ],
+    "type": "LANDFILL_OVERFLOW",
+    "priority": "MEDIUM",
+    "state": "IND-STATE-18",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.216216",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x9bbd03cb827a4833a44a221ac79deac1b5231046972b4e65be31cb12a13b917d",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-13A1278C_sat.png",
+      "ai_report": "reports/cases/SBM-2026-13A1278C_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-4ACF9247",
+    "detection_id": "SBM-DET-298801",
+    "coordinates": [
+      77.90878689329904,
+      6.6975263579530875
+    ],
+    "type": "SLUM_SANITATION_FAIL",
+    "priority": "LOW",
+    "state": "IND-STATE-24",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.218982",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x3bfc6de1203f4a2db63cee22de10e5d6740d5d949002424fa600bbfc0e5f585b",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-4ACF9247_sat.png",
+      "ai_report": "reports/cases/SBM-2026-4ACF9247_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-E6387DDA",
+    "detection_id": "SBM-DET-482550",
+    "coordinates": [
+      80.29441727574827,
+      22.135068823657395
+    ],
+    "type": "LANDFILL_OVERFLOW",
+    "priority": "LOW",
+    "state": "IND-STATE-23",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.221731",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x45b7ac61c7ba4d879f5a90ac5e5eca64b1b1230df1e14243890ee0cd0522e132",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-E6387DDA_sat.png",
+      "ai_report": "reports/cases/SBM-2026-E6387DDA_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-780932E7",
+    "detection_id": "SBM-DET-411689",
+    "coordinates": [
+      83.01257822227188,
+      27.821263851890695
+    ],
+    "type": "COASTAL_POLLUTION",
+    "priority": "LOW",
+    "state": "IND-STATE-4",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.224457",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xb39c782b851b46508ceb06a0d4073a7d8ef126d5c3f948a095b71f15bfbac9c2",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-780932E7_sat.png",
+      "ai_report": "reports/cases/SBM-2026-780932E7_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-404CCB2F",
+    "detection_id": "SBM-DET-262624",
+    "coordinates": [
+      75.76960061559207,
+      20.208558111432303
+    ],
+    "type": "GROUNDWATER_CONTAM",
+    "priority": "HIGH",
+    "state": "IND-STATE-27",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.227400",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x57880dab1e434d6cbcd5d153ad6ac00c7e2450cb895445f1ae07dbe59353994e",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-404CCB2F_sat.png",
+      "ai_report": "reports/cases/SBM-2026-404CCB2F_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-C7D026E6",
+    "detection_id": "SBM-DET-205595",
+    "coordinates": [
+      69.24262507574913,
+      15.629700766425954
+    ],
+    "type": "BIOMEDICAL_WASTE",
+    "priority": "HIGH",
+    "state": "IND-STATE-15",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.230744",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x28c9dd153ca84029bbf6b4ae3a59ad6b3eaee51a1f2c49d7b116102d8d7e6a1a",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-C7D026E6_sat.png",
+      "ai_report": "reports/cases/SBM-2026-C7D026E6_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-6612D163",
+    "detection_id": "SBM-DET-905946",
+    "coordinates": [
+      74.62523707001338,
+      16.408859377849964
+    ],
+    "type": "RIVER_HEALTH_CRITICAL",
+    "priority": "LOW",
+    "state": "IND-STATE-5",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.233645",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x9ef4c8ddc5044a3dbcf2eca7015d72d15cd2510d248845188e9f3ce4205719e3",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-6612D163_sat.png",
+      "ai_report": "reports/cases/SBM-2026-6612D163_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-9F4A3398",
+    "detection_id": "SBM-DET-726748",
+    "coordinates": [
+      77.82576470387504,
+      18.720418042785322
+    ],
+    "type": "INDUSTRIAL_POLLUTION",
+    "priority": "LOW",
+    "state": "IND-STATE-14",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.236441",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x415884666f554f4bb5c4ea18a35eab0cfaa0f13f48c845d9a0d5a987591515a9",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-9F4A3398_sat.png",
+      "ai_report": "reports/cases/SBM-2026-9F4A3398_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-0B0A787D",
+    "detection_id": "SBM-DET-845007",
+    "coordinates": [
+      88.39895005774774,
+      24.661833326500773
+    ],
+    "type": "RIVER_HEALTH_CRITICAL",
+    "priority": "HIGH",
+    "state": "IND-STATE-22",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.239311",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xb14b06b6a9244593b4af55f851c2c93e84950e5cf4334df1b1d4016109c92904",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-0B0A787D_sat.png",
+      "ai_report": "reports/cases/SBM-2026-0B0A787D_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-90674423",
+    "detection_id": "SBM-DET-116691",
+    "coordinates": [
+      80.37139742863903,
+      15.344352305384755
+    ],
+    "type": "WETLAND_ENCROACH",
+    "priority": "LOW",
+    "state": "IND-STATE-14",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.242173",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x05e9726e0e9b4229bd6c54309d96e91f81aa30b7aa404901b4677dc6d8b54bea",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-90674423_sat.png",
+      "ai_report": "reports/cases/SBM-2026-90674423_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-88399E3D",
+    "detection_id": "SBM-DET-629102",
+    "coordinates": [
+      95.37965460460414,
+      18.738386263507714
+    ],
+    "type": "SLUM_SANITATION_FAIL",
+    "priority": "LOW",
+    "state": "IND-STATE-8",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.245751",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x965f65ef73974614b5e88ac0105e5753ed22b4ec93e5486f9822b17d1e7db55f",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-88399E3D_sat.png",
+      "ai_report": "reports/cases/SBM-2026-88399E3D_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-248D6DA2",
+    "detection_id": "SBM-DET-604236",
+    "coordinates": [
+      91.21808442266344,
+      15.216339133557938
+    ],
+    "type": "LANDFILL_OVERFLOW",
+    "priority": "LOW",
+    "state": "IND-STATE-23",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.248761",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x8ba17e3f5c1b4b6d9ef234e6add1615a1c546e10e62745df9bc8b36b63d6cfa6",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-248D6DA2_sat.png",
+      "ai_report": "reports/cases/SBM-2026-248D6DA2_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-9D14E06A",
+    "detection_id": "SBM-DET-340145",
+    "coordinates": [
+      75.04023340083117,
+      13.16880927763469
+    ],
+    "type": "GROUNDWATER_CONTAM",
+    "priority": "HIGH",
+    "state": "IND-STATE-26",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.251834",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xa32dd761619e443393129f8741cb86c48a5751dad1164971b7c14fd7621d0396",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-9D14E06A_sat.png",
+      "ai_report": "reports/cases/SBM-2026-9D14E06A_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-1E059EC2",
+    "detection_id": "SBM-DET-182305",
+    "coordinates": [
+      73.93525365155551,
+      24.200140176289363
+    ],
+    "type": "MINING_ZONE_ENCROACH",
+    "priority": "LOW",
+    "state": "IND-STATE-10",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.254934",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xa96dca9ae97642acbc5dc763d2663e7e0e71a20f0fd943ca8b51a97a01f34174",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-1E059EC2_sat.png",
+      "ai_report": "reports/cases/SBM-2026-1E059EC2_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-1FA16B18",
+    "detection_id": "SBM-DET-944862",
+    "coordinates": [
+      93.70788151970105,
+      23.091286725156067
+    ],
+    "type": "AQI_DANGER_CORRIDOR",
+    "priority": "MEDIUM",
+    "state": "IND-STATE-3",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.257991",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x688e577b988b4677bb5bcce1269dcaac2342ce6f032b4763968f63deeb402352",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-1FA16B18_sat.png",
+      "ai_report": "reports/cases/SBM-2026-1FA16B18_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-FDBBE93F",
+    "detection_id": "SBM-DET-368404",
+    "coordinates": [
+      77.59103631959577,
+      20.522362359921217
+    ],
+    "type": "WETLAND_ENCROACH",
+    "priority": "LOW",
+    "state": "IND-STATE-17",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.261356",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x5cac95af577340708a6e89598bcf81269d20f3a5f187445bbac7c7a43a002d39",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-FDBBE93F_sat.png",
+      "ai_report": "reports/cases/SBM-2026-FDBBE93F_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-CA477325",
+    "detection_id": "SBM-DET-969549",
+    "coordinates": [
+      76.04908226185277,
+      32.0599492415738
+    ],
+    "type": "WETLAND_ENCROACH",
+    "priority": "MEDIUM",
+    "state": "IND-STATE-2",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.264744",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x0e187ebc20d94378a98d0d209cfa2d5619c645dc26b0486ea994d68b779d1e32",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-CA477325_sat.png",
+      "ai_report": "reports/cases/SBM-2026-CA477325_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-CBA11AC3",
+    "detection_id": "SBM-DET-687694",
+    "coordinates": [
+      84.95192693380983,
+      28.23451216586228
+    ],
+    "type": "INDUSTRIAL_POLLUTION",
+    "priority": "LOW",
+    "state": "IND-STATE-8",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.269031",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x0c36daab6155422c847ea6fc4a0bc0819800b23c2ad143969a5ca6c35e44608f",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-CBA11AC3_sat.png",
+      "ai_report": "reports/cases/SBM-2026-CBA11AC3_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-4F2D5EBC",
+    "detection_id": "SBM-DET-311870",
+    "coordinates": [
+      94.43814373278089,
+      14.893751570396205
+    ],
+    "type": "FARM_FIRE",
+    "priority": "LOW",
+    "state": "IND-STATE-21",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.274506",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x957c0fb376344712b50c4efdeb0659afae569edd5c30419381c17b8bf0c05341",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-4F2D5EBC_sat.png",
+      "ai_report": "reports/cases/SBM-2026-4F2D5EBC_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-912F16D5",
+    "detection_id": "SBM-DET-130919",
+    "coordinates": [
+      79.95428441825698,
+      23.53890835764182
+    ],
+    "type": "INDUSTRIAL_POLLUTION",
+    "priority": "LOW",
+    "state": "IND-STATE-10",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.279906",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xb71ff45225fe481bba7404b03c8798d5fdc0686ee48b46a191e981b6f6aa5ccf",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-912F16D5_sat.png",
+      "ai_report": "reports/cases/SBM-2026-912F16D5_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-54876C08",
+    "detection_id": "SBM-DET-935626",
+    "coordinates": [
+      89.90229687389645,
+      10.346638729627308
+    ],
+    "type": "SLUM_SANITATION_FAIL",
+    "priority": "MEDIUM",
+    "state": "IND-STATE-8",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.284823",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x52dbf4fc7ba947198d29e4fd7470d185cec3c99a50584bb0bae9366b7f7f5d05",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-54876C08_sat.png",
+      "ai_report": "reports/cases/SBM-2026-54876C08_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-63433890",
+    "detection_id": "SBM-DET-402410",
+    "coordinates": [
+      73.58580862010513,
+      31.829239792022047
+    ],
+    "type": "PLASTIC_HOTSPOT",
+    "priority": "LOW",
+    "state": "IND-STATE-27",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.288545",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x35f97109e9fc45dd9abfd806d95759767f0bbe293f5f470b86d0ca713e7caaec",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-63433890_sat.png",
+      "ai_report": "reports/cases/SBM-2026-63433890_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-D61FE415",
+    "detection_id": "SBM-DET-257752",
+    "coordinates": [
+      84.54880826925077,
+      17.6011741060494
+    ],
+    "type": "COASTAL_POLLUTION",
+    "priority": "LOW",
+    "state": "IND-STATE-21",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.293138",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xa61586322af345d7812678a88c85a21d1309bfb71d6841e1ab9f6db331ca3467",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-D61FE415_sat.png",
+      "ai_report": "reports/cases/SBM-2026-D61FE415_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-F4A0DAE2",
+    "detection_id": "SBM-DET-497028",
+    "coordinates": [
+      74.02251337421976,
+      17.148713225717817
+    ],
+    "type": "INDUSTRIAL_POLLUTION",
+    "priority": "LOW",
+    "state": "IND-STATE-17",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.298669",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x27a8c86291114b8b9e9251396b0dc26af8827a7b9e6449669ff23e2178cbcfc0",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-F4A0DAE2_sat.png",
+      "ai_report": "reports/cases/SBM-2026-F4A0DAE2_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-28D1D1A0",
+    "detection_id": "SBM-DET-880202",
+    "coordinates": [
+      74.42101566872442,
+      22.863662264585855
+    ],
+    "type": "PLASTIC_HOTSPOT",
+    "priority": "MEDIUM",
+    "state": "IND-STATE-18",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.303201",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x95bf32a8a92743649035abfc8face4abb9f1d09a61c445e69c08350d32915421",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-28D1D1A0_sat.png",
+      "ai_report": "reports/cases/SBM-2026-28D1D1A0_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-415D66D5",
+    "detection_id": "SBM-DET-861633",
+    "coordinates": [
+      86.00339430393791,
+      34.21790654055163
+    ],
+    "type": "BIOMEDICAL_WASTE",
+    "priority": "LOW",
+    "state": "IND-STATE-22",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.307162",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x82399f310ab146509b8dcbc6c8cc4762bf5ad3c9013146f2b17e2fadeb8456f3",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-415D66D5_sat.png",
+      "ai_report": "reports/cases/SBM-2026-415D66D5_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-77A165AC",
+    "detection_id": "SBM-DET-407410",
+    "coordinates": [
+      70.99181377993348,
+      33.19846164281024
+    ],
+    "type": "WETLAND_ENCROACH",
+    "priority": "LOW",
+    "state": "IND-STATE-10",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.313833",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x5e12f3d0d971491e9f4b57a0c03e05b3c448367ab9d54043a6d0675a6c302eeb",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-77A165AC_sat.png",
+      "ai_report": "reports/cases/SBM-2026-77A165AC_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-FF266D8F",
+    "detection_id": "SBM-DET-479236",
+    "coordinates": [
+      92.78570888899874,
+      8.765420560934636
+    ],
+    "type": "LANDFILL_OVERFLOW",
+    "priority": "MEDIUM",
+    "state": "IND-STATE-28",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.318918",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xa97e884b293840b8b9efacf4bba4bdf30418e94dd6524e24b126b3e485488082",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-FF266D8F_sat.png",
+      "ai_report": "reports/cases/SBM-2026-FF266D8F_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-2512A882",
+    "detection_id": "SBM-DET-102166",
+    "coordinates": [
+      95.72392080559912,
+      14.604472347903657
+    ],
+    "type": "PLASTIC_HOTSPOT",
+    "priority": "MEDIUM",
+    "state": "IND-STATE-11",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.323550",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xecd892387c4d4d928bafd4d45a0d106ba422743bebc74029b1827a10841659d2",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-2512A882_sat.png",
+      "ai_report": "reports/cases/SBM-2026-2512A882_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-3E14EB63",
+    "detection_id": "SBM-DET-337001",
+    "coordinates": [
+      74.56967952549213,
+      32.44923335402132
+    ],
+    "type": "FARM_FIRE",
+    "priority": "LOW",
+    "state": "IND-STATE-30",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.330292",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x5ef198d4c612472ba8f2bd7913465578aeb4c9a5ac2244dc845fd768962d338a",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-3E14EB63_sat.png",
+      "ai_report": "reports/cases/SBM-2026-3E14EB63_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-068ABB9E",
+    "detection_id": "SBM-DET-715885",
+    "coordinates": [
+      92.40259404578433,
+      31.57455643185569
+    ],
+    "type": "INDUSTRIAL_POLLUTION",
+    "priority": "LOW",
+    "state": "IND-STATE-30",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.338719",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0xe0a3f5b24c0f48fdb8998275974ba905c2279fa4565a47fab19763079fe7d809",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-068ABB9E_sat.png",
+      "ai_report": "reports/cases/SBM-2026-068ABB9E_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-69CD0E64",
+    "detection_id": "SBM-DET-709243",
+    "coordinates": [
+      85.32056090854375,
+      8.895544108740093
+    ],
+    "type": "WETLAND_ENCROACH",
+    "priority": "LOW",
+    "state": "IND-STATE-33",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.345292",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x02e419f5c16340cdb36cead884d94d1d1253765c9dfb498b81d8495828c016ac",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-69CD0E64_sat.png",
+      "ai_report": "reports/cases/SBM-2026-69CD0E64_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-FF51B535",
+    "detection_id": "SBM-DET-861120",
+    "coordinates": [
+      93.1369026513651,
+      15.567745449692424
+    ],
+    "type": "CONSTRUCTION_WASTE",
+    "priority": "MEDIUM",
+    "state": "IND-STATE-27",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.352108",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x7b48843d2ee84ab58d86f77ac85d49604b0af98862d344e5a75e8f512baab708",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-FF51B535_sat.png",
+      "ai_report": "reports/cases/SBM-2026-FF51B535_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-1685E1D3",
+    "detection_id": "SBM-DET-976326",
+    "coordinates": [
+      89.2121323978135,
+      31.89235801581668
+    ],
+    "type": "RAIL_TRACK_WASTE",
+    "priority": "LOW",
+    "state": "IND-STATE-20",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.358353",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x13c3cda104b14ad7ac86e628d8060ca6ee3005556cae4e11aa4f745d2a8931ba",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-1685E1D3_sat.png",
+      "ai_report": "reports/cases/SBM-2026-1685E1D3_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  },
+  {
+    "case_id": "SBM-2026-5FA7DE55",
+    "detection_id": "SBM-DET-544213",
+    "coordinates": [
+      69.57579180602959,
+      17.79711051306433
+    ],
+    "type": "AQI_DANGER_CORRIDOR",
+    "priority": "LOW",
+    "state": "IND-STATE-33",
+    "status": "DETECTED",
+    "timeline": [
+      {
+        "stage": "DETECTED",
+        "timestamp": "2026-03-01T15:00:44.362532",
+        "log": "AI Satellite detection confirmed."
+      }
+    ],
+    "blockchain_hash": "0x1ebc1b1ff29743baa79ea8758e6ab6b713022e5598f841c88542a1d324218883",
+    "evidence_package": {
+      "sat_image": "imagery/cases/SBM-2026-5FA7DE55_sat.png",
+      "ai_report": "reports/cases/SBM-2026-5FA7DE55_ai_analysis.pdf",
+      "ground_verified": false
+    },
+    "response_time_hrs": 0,
+    "is_escalated": false
+  }
+]

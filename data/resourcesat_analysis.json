@@ -1,0 +1,66 @@
+[
+  {
+    "site_id": "SL-MAD-001",
+    "spectral": {
+      "indices": {
+        "ndvi": -0.19828812054101755,
+        "ndbi": 0.3922206964101295,
+        "ndwi": 0.048202456876074044,
+        "ndmi": -0.3922206964101295
+      },
+      "classification": "CONSTRUCTION_DEBRIS",
+      "confidence": 0.8269561422407798,
+      "signature": [
+        0.35371000635744493,
+        0.48005398886943385,
+        0.3211785994512286,
+        0.7357151696763848
+      ]
+    },
+    "temporal": {
+      "cusum_magnitude": 0.2408,
+      "status": "STABLE",
+      "sudden_alert": false,
+      "agri_interference_risk": false
+    },
+    "volume_3d": {
+      "height": 2.89,
+      "volume_m3": 2425.3,
+      "tonnes": 1212.64,
+      "fine_inr": 12126368.0
+    },
+    "timestamp": "2026-03-01T14:39:49.657054"
+  },
+  {
+    "site_id": "SL-MAD-002",
+    "spectral": {
+      "indices": {
+        "ndvi": -0.3419416071114874,
+        "ndbi": 0.4567081096476719,
+        "ndwi": -0.06323190435200335,
+        "ndmi": -0.4567081096476719
+      },
+      "classification": "CONSTRUCTION_DEBRIS",
+      "confidence": 0.7755845788456608,
+      "signature": [
+        0.24320365348211373,
+        0.562906367107224,
+        0.27603630607914253,
+        0.7401273748323669
+      ]
+    },
+    "temporal": {
+      "cusum_magnitude": 0.3544,
+      "status": "STABLE",
+      "sudden_alert": true,
+      "agri_interference_risk": false
+    },
+    "volume_3d": {
+      "height": 1.68,
+      "volume_m3": 1001.0,
+      "tonnes": 500.51,
+      "fine_inr": 5005097.0
+    },
+    "timestamp": "2026-03-01T14:39:49.657203"
+  }
+]

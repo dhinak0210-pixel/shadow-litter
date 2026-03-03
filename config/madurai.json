@@ -1,0 +1,10 @@
+{
+    "city": "Madurai",
+    "aoi": [78.0900, 9.8970, 78.1560, 9.9540],
+    "thresholds": {
+        "waste_detection": 0.7,
+        "clutter_area_min": 50,
+        "clutter_area_max": 5000
+    },
+    "monitoring_interval": "weekly"
+}
